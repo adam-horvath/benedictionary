@@ -1,0 +1,27 @@
+form {
+  width: 100%;
+}
+
+.QuizContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 0 auto 20px;
+  padding-bottom: 80px;
+  width: 224px;
+  position: relative;
+  overflow: visible;
+  white-space: nowrap;
+
+  label {
+    padding: 10px 0 10px 10px;
+  }
+
+  input {
+    height: 26px;
+    width: 200px;
+    font-size: 16px;
+    padding: 5px 10px;
+    border-radius: 4px;
+  }
+}

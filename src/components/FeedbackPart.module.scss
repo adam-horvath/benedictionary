@@ -1,0 +1,11 @@
+.Feedback {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  height: 60px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  transition: opacity ease-in-out 300ms;
+}
