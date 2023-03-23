@@ -277,7 +277,7 @@ export const unit5 = {
     },
     {
       question: 'megment valakit',
-      answers: ['save sb'],
+      answers: ['save sb', 'save', 'save somebody'],
     },
     {
       question: 'ment',
@@ -396,7 +396,7 @@ export const unit5 = {
       answers: ['batter'],
     },
     {
-      question: 'csirkedarabok nyárson, csirke nyárson',
+      question: 'csirkedarabok nyárson',
       answers: ['chicken stick'],
     },
     {
@@ -493,7 +493,7 @@ export const unit5 = {
     },
     {
       question: 'folyópart',
-      answers: ['bank'],
+      answers: ['bank', 'river bank'],
     },
     {
       question: 'többlakásos lakóház',
