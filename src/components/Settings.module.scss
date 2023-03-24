@@ -2,6 +2,14 @@
   display: block;
   margin: 0 auto;
   max-width: 800px;
+
+  @media screen and (max-width: 992px) {
+    max-width: 70%;
+  }
+
+  @media screen and (max-width: 575px) {
+    max-width: 340px;
+  }
 }
 
 .CheckboxContainer {
@@ -9,4 +17,14 @@
   grid-template-columns: auto auto auto;
   grid-row-gap: 20px;
   margin-bottom: 20px;
+
+  @media screen and (max-width: 992px) {
+    grid-template-columns: auto auto;
+  }
+
+  @media screen and (max-width: 575px) {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
 }

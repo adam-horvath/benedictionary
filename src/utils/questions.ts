@@ -1,5 +1,5 @@
-export const youngExplorers = {
-  name: 'Young Explorers',
+export const youngExplorers1 = {
+  name: 'Young Explorers 1',
   questions: [
     {
       question: 'kutya',
@@ -181,6 +181,150 @@ export const youngExplorers = {
       question: 'gyertya',
       answers: ['candle'],
     },
+    {
+      question: 'autó',
+      answers: ['car'],
+    },
+    {
+      question: 'kastély',
+      answers: ['castle'],
+    },
+    {
+      question: 'macska',
+      answers: ['cat'],
+    },
+    {
+      question: 'barlang',
+      answers: ['cave'],
+    },
+    {
+      question: 'müzli',
+      answers: ['cereal'],
+    },
+    {
+      question: 'szék',
+      answers: ['chair'],
+    },
+    {
+      question: 'csirke',
+      answers: ['chicken'],
+    },
+    {
+      question: 'Kína',
+      answers: ['China'],
+    },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
+    // {
+    //   question: '',
+    //   answers: [''],
+    // },
   ],
 };
 
