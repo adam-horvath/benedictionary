@@ -1021,7 +1021,7 @@ export const unit4 = {
     },
     {
       question: 'úszik, úszni jár',
-      answers: ['swimming'],
+      answers: ['go swimming'],
     },
     {
       question: 'tollaslabdázik',
