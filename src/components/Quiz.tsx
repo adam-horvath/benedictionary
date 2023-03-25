@@ -24,7 +24,7 @@ export const Quiz: FC<QuizProps> = ({ questions, newGame }) => {
 
   useEffect(() => {
     inputRef.current?.focus();
-  }, [questions]);
+  }, [questions, index]);
 
   const reset = () => {
     setIndex(0);
