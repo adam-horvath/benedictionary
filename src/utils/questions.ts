@@ -1192,6 +1192,1228 @@ export const youngExplorers1 = {
   ],
 };
 
+export const youngExplorers2 = {
+  name: 'Young Explorers 2',
+  questions: [
+    {
+      question: 'ahead of',
+      answers: ['valami előtt', 'előtte', 'előbbre'],
+    },
+    {
+      question: 'animal',
+      answers: ['állat'],
+    },
+    {
+      question: 'another',
+      answers: ['más', 'másik', 'egy másik'],
+    },
+    {
+      question: 'aquarium',
+      answers: ['akvárium'],
+    },
+    {
+      question: 'Argentina',
+      answers: ['Argentína'],
+    },
+    {
+      question: 'arm',
+      answers: ['kar'],
+    },
+    {
+      question: 'artist',
+      answers: ['művész', 'előadóművész'],
+    },
+    {
+      question: 'at night',
+      answers: ['éjszaka', 'éjjel'],
+    },
+    {
+      question: 'aunt',
+      answers: ['nagynéni'],
+    },
+    {
+      question: 'bag',
+      answers: ['táska'],
+    },
+    {
+      question: 'ball',
+      answers: ['labda'],
+    },
+    {
+      question: 'balloon',
+      answers: ['léggömb'],
+    },
+    {
+      question: 'banana',
+      answers: ['banán'],
+    },
+    {
+      question: 'bank',
+      answers: ['bank'],
+    },
+    {
+      question: 'bat',
+      answers: ['ütő', 'denevér'],
+    },
+    {
+      question: 'bathroom',
+      answers: ['fürdőszoba'],
+    },
+    {
+      question: 'beard',
+      answers: ['szakáll'],
+    },
+    {
+      question: 'bed',
+      answers: ['ágy'],
+    },
+    {
+      question: 'bedroom',
+      answers: ['hálószoba'],
+    },
+    {
+      question: 'behind',
+      answers: ['mögött'],
+    },
+    {
+      question: 'between',
+      answers: ['között'],
+    },
+    {
+      question: 'big',
+      answers: ['nagy'],
+    },
+    {
+      question: 'bird',
+      answers: ['madár'],
+    },
+    {
+      question: 'biscuits',
+      answers: ['keksz'],
+    },
+    {
+      question: 'black',
+      answers: ['fekete'],
+    },
+    {
+      question: 'blond',
+      answers: ['szőke'],
+    },
+    {
+      question: 'blue',
+      answers: ['kék'],
+    },
+    {
+      question: 'boat',
+      answers: ['csónak', 'hajó'],
+    },
+    {
+      question: 'body',
+      answers: ['test'],
+    },
+    {
+      question: 'book',
+      answers: ['könyv'],
+    },
+    {
+      question: 'box',
+      answers: ['doboz'],
+    },
+    {
+      question: 'boy',
+      answers: ['fiú'],
+    },
+    {
+      question: 'bread',
+      answers: ['kenyér'],
+    },
+    {
+      question: 'bridge',
+      answers: ['híd'],
+    },
+    {
+      question: 'brown',
+      answers: ['barna'],
+    },
+    {
+      question: 'brush my teeth',
+      answers: ['megmosom a fogam', 'fogat mosok'],
+    },
+    {
+      question: 'bus',
+      answers: ['busz'],
+    },
+    {
+      question: 'butterfly',
+      answers: ['pillangó', 'lepke'],
+    },
+    {
+      question: 'cake',
+      answers: ['sütemény', 'torta'],
+    },
+    {
+      question: 'camera',
+      answers: ['fényképezőgép, fényképező'],
+    },
+    {
+      question: 'can',
+      answers: ['tud', 'képes'],
+    },
+    {
+      question: 'Canada',
+      answers: ['Kanada'],
+    },
+    {
+      question: 'cape',
+      answers: ['köpeny'],
+    },
+    {
+      question: 'capital city',
+      answers: ['főváros'],
+    },
+    {
+      question: 'car',
+      answers: ['autó'],
+    },
+    {
+      question: 'castle',
+      answers: ['vár'],
+    },
+    {
+      question: 'cat',
+      answers: ['macska'],
+    },
+    {
+      question: 'chair',
+      answers: ['szék'],
+    },
+    {
+      question: 'chicken',
+      answers: ['csirke'],
+    },
+    {
+      question: 'cinema',
+      answers: ['mozi'],
+    },
+    {
+      question: 'clarinet',
+      answers: ['klarinét'],
+    },
+    {
+      question: 'cloud',
+      answers: ['felhő'],
+    },
+    {
+      question: 'clue',
+      answers: ['nyom'],
+    },
+    {
+      question: 'cold',
+      answers: ['hideg'],
+    },
+    {
+      question: 'comics',
+      answers: ['képregény'],
+    },
+    {
+      question: 'country',
+      answers: ['ország'],
+    },
+    {
+      question: 'cousin',
+      answers: ['unokatestvér'],
+    },
+    {
+      question: 'cowboy',
+      answers: ['cowboy'],
+    },
+    {
+      question: 'crab',
+      answers: ['rák'],
+    },
+    {
+      question: 'curly hair',
+      answers: ['göndör haj'],
+    },
+    {
+      question: 'Czech Republic',
+      answers: ['Csehország'],
+    },
+    {
+      question: 'dad',
+      answers: ['apa'],
+    },
+    {
+      question: 'dangerous',
+      answers: ['veszélyes'],
+    },
+    {
+      question: 'dark',
+      answers: ['sötét'],
+    },
+    {
+      question: 'dog',
+      answers: ['kutya'],
+    },
+    {
+      question: 'doing exercises',
+      answers: ['tornázás', 'gimnasztikázás'],
+    },
+    {
+      question: 'dolphin',
+      answers: ['delfin'],
+    },
+    {
+      question: 'drink',
+      answers: ['iszik', 'ital'],
+    },
+    {
+      question: 'duck',
+      answers: ['kacsa'],
+    },
+    {
+      question: 'ear',
+      answers: ['fül'],
+    },
+    {
+      question: 'eat',
+      answers: ['eszik'],
+    },
+    {
+      question: 'eating',
+      answers: ['evés'],
+    },
+    {
+      question: 'eel',
+      answers: ['angolna'],
+    },
+    {
+      question: 'egg',
+      answers: ['tojás'],
+    },
+    {
+      question: 'eye',
+      answers: ['szem'],
+    },
+    {
+      question: 'famous',
+      answers: ['híres'],
+    },
+    {
+      question: 'female',
+      answers: ['nő', 'nőstény'],
+    },
+    {
+      question: 'finger',
+      answers: ['ujj'],
+    },
+    {
+      question: 'fire engine',
+      answers: ['tűzoltó autó'],
+    },
+    {
+      question: 'firefighter',
+      answers: ['tűzoltó'],
+    },
+    {
+      question: 'fish',
+      answers: ['hal'],
+    },
+    {
+      question: 'flamingo',
+      answers: ['flamingó'],
+    },
+    {
+      question: 'flower',
+      answers: ['virág'],
+    },
+    {
+      question: 'food',
+      answers: ['étel'],
+    },
+    {
+      question: 'fox',
+      answers: ['róka'],
+    },
+    {
+      question: 'France',
+      answers: ['Franciaország'],
+    },
+    {
+      question: 'Friday',
+      answers: ['péntek'],
+    },
+    {
+      question: 'friendly',
+      answers: ['barátságos'],
+    },
+    {
+      question: 'frog',
+      answers: ['béka'],
+    },
+    {
+      question: 'get dressed',
+      answers: ['felöltözik'],
+    },
+    {
+      question: 'get up',
+      answers: ['felkel'],
+    },
+    {
+      question: 'giant',
+      answers: ['óriás', 'óriási'],
+    },
+    {
+      question: 'girl',
+      answers: ['lány'],
+    },
+    {
+      question: 'glacier',
+      answers: ['gleccser'],
+    },
+    {
+      question: 'glasses',
+      answers: ['szemüveg'],
+    },
+    {
+      question: 'go home',
+      answers: ['hazamegy'],
+    },
+    {
+      question: 'go to bed',
+      answers: ['lefekszik', 'lefekszik aludni', 'aludni megy'],
+    },
+    {
+      question: 'go to school',
+      answers: ['iskolába megy'],
+    },
+    {
+      question: 'goal',
+      answers: ['cél', 'gól'],
+    },
+    {
+      question: 'goodbye',
+      answers: ['viszlát', 'Viszlát!'],
+    },
+    {
+      question: 'golf club',
+      answers: ['golfütő'],
+    },
+    {
+      question: 'grandad',
+      answers: ['nagyapa', 'nagypapa'],
+    },
+    {
+      question: 'granny',
+      answers: ['nagyi', 'nagymama'],
+    },
+    {
+      question: 'grasshopper',
+      answers: ['szöcske'],
+    },
+    {
+      question: 'green',
+      answers: ['zöld'],
+    },
+    {
+      question: 'guitar',
+      answers: ['gitár'],
+    },
+    {
+      question: 'hair',
+      answers: ['haj'],
+    },
+    {
+      question: 'half',
+      answers: ['fél'],
+    },
+    {
+      question: 'handle',
+      answers: ['kezel', 'fogantyú'],
+    },
+    {
+      question: 'hat',
+      answers: ['kalap'],
+    },
+    {
+      question: 'have a shower',
+      answers: ['zuhanyozik', 'zuhanyzik'],
+    },
+    {
+      question: 'have breakfast',
+      answers: ['reggelizik'],
+    },
+    {
+      question: 'have lunch',
+      answers: ['ebédel'],
+    },
+    {
+      question: 'have dinner',
+      answers: ['vacsorázik'],
+    },
+    {
+      question: 'head',
+      answers: ['fej'],
+    },
+    {
+      question: 'hedgehog',
+      answers: ['sün', 'sündisznó'],
+    },
+    {
+      question: 'help',
+      answers: ['segít', 'segítség'],
+    },
+    {
+      question: 'hill',
+      answers: ['domb'],
+    },
+    {
+      question: 'hit',
+      answers: ['üt'],
+    },
+    {
+      question: 'horse',
+      answers: ['ló'],
+    },
+    {
+      question: 'hospital',
+      answers: ['kórház'],
+    },
+    {
+      question: 'house',
+      answers: ['ház'],
+    },
+    {
+      question: 'hungry',
+      answers: ['éhes'],
+    },
+    {
+      question: 'hurt',
+      answers: ['fáj'],
+    },
+    {
+      question: 'incredible',
+      answers: ['hihetetlen'],
+    },
+    {
+      question: 'in front of',
+      answers: ['valami előtt', 'vmi előtt', 'előtt'],
+    },
+    {
+      question: 'insect',
+      answers: ['rovar'],
+    },
+    {
+      question: 'in the afternoon',
+      answers: ['délután'],
+    },
+    {
+      question: 'in the evening',
+      answers: ['este'],
+    },
+    {
+      question: 'in the morning',
+      answers: ['reggel'],
+    },
+    {
+      question: 'Ireland',
+      answers: ['Írország'],
+    },
+    {
+      question: 'island',
+      answers: ['sziget'],
+    },
+    {
+      question: 'jam',
+      answers: ['lekvár', 'dzsem'],
+    },
+    {
+      question: 'jeans',
+      answers: ['farmer', 'farmernadrág'],
+    },
+    {
+      question: 'juice',
+      answers: ['dzsúsz', 'gyümölcslé'],
+    },
+    {
+      question: 'jumper',
+      answers: ['pulóver'],
+    },
+    {
+      question: 'king',
+      answers: ['király'],
+    },
+    {
+      question: 'kitchen',
+      answers: ['konyha'],
+    },
+    {
+      question: 'lake',
+      answers: ['tó'],
+    },
+    {
+      question: 'leaf',
+      answers: ['levél'],
+    },
+    {
+      question: 'leg',
+      answers: ['láb'],
+    },
+    {
+      question: 'light',
+      answers: ['fény', 'világos'],
+    },
+    {
+      question: 'listen to music',
+      answers: ['zenét hallgat'],
+    },
+    {
+      question: 'living room',
+      answers: ['nappali'],
+    },
+    {
+      question: 'long',
+      answers: ['hosszú'],
+    },
+    {
+      question: 'lunch',
+      answers: ['ebéd'],
+    },
+    {
+      question: 'lunchtime',
+      answers: ['ebédidő'],
+    },
+    {
+      question: 'magician',
+      answers: ['varázsló', 'bűvész'],
+    },
+    {
+      question: 'magic show',
+      answers: ['bűvészműsor'],
+    },
+    {
+      question: 'male',
+      answers: ['hím', 'férfi'],
+    },
+    {
+      question: 'map',
+      answers: ['térkép'],
+    },
+    {
+      question: 'mask',
+      answers: ['maszk'],
+    },
+    {
+      question: 'meal',
+      answers: ['étel', 'étkezés'],
+    },
+    {
+      question: 'melon',
+      answers: ['sárgadinnye'],
+    },
+    {
+      question: 'watermelon',
+      answers: ['görögdinnye'],
+    },
+    {
+      question: 'men',
+      answers: ['férfiak'],
+    },
+    {
+      question: 'milk',
+      answers: ['tej'],
+    },
+    {
+      question: 'mirror',
+      answers: ['tükör'],
+    },
+    {
+      question: 'Monday',
+      answers: ['hétfő'],
+    },
+    {
+      question: 'monkey',
+      answers: ['majom'],
+    },
+    {
+      question: 'morning',
+      answers: ['reggel'],
+    },
+    {
+      question: 'moustache',
+      answers: ['bajusz'],
+    },
+    {
+      question: 'mouth',
+      answers: ['száj'],
+    },
+    {
+      question: 'mum',
+      answers: ['anya', 'anyuka'],
+    },
+    {
+      question: 'museum',
+      answers: ['múzeum'],
+    },
+    {
+      question: 'musician',
+      answers: ['zenész'],
+    },
+    {
+      question: 'net',
+      answers: ['háló'],
+    },
+    {
+      question: 'new',
+      answers: ['új'],
+    },
+    {
+      question: 'next to',
+      answers: ['mellett'],
+    },
+    {
+      question: 'nose',
+      answers: ['orr'],
+    },
+    {
+      question: "o'clock",
+      answers: ['óra'],
+    },
+    {
+      question: 'octopus',
+      answers: ['polip'],
+    },
+    {
+      question: 'old',
+      answers: ['öreg'],
+    },
+    {
+      question: 'opposite',
+      answers: ['szemben', 'ellentétes'],
+    },
+    {
+      question: 'orange',
+      answers: ['narancs'],
+    },
+    {
+      question: 'paintbrush',
+      answers: ['ecset', 'festőecset'],
+    },
+    {
+      question: 'painting',
+      answers: ['festés', 'festmény'],
+    },
+    {
+      question: 'paints',
+      answers: ['festék'],
+    },
+    {
+      question: 'park',
+      answers: ['park'],
+    },
+    {
+      question: 'parrot',
+      answers: ['papagáj'],
+    },
+    {
+      question: 'pencil',
+      answers: ['ceruza'],
+    },
+    {
+      question: 'pen',
+      answers: ['toll'],
+    },
+    {
+      question: 'photo',
+      answers: ['fénykép', 'fotó'],
+    },
+    {
+      question: 'picture',
+      answers: ['kép'],
+    },
+    {
+      question: 'pink',
+      answers: ['rózsaszín', 'pink'],
+    },
+    {
+      question: 'plant',
+      answers: ['növény'],
+    },
+    {
+      question: 'play',
+      answers: ['játszik'],
+    },
+    {
+      question: 'player',
+      answers: ['játékos'],
+    },
+    {
+      question: 'play board games',
+      answers: ['társasjátékozik', 'társasozik'],
+    },
+    {
+      question: 'play cards',
+      answers: ['kártyázik'],
+    },
+    {
+      question: 'please',
+      answers: ['kérem', 'kér'],
+    },
+    {
+      question: 'plum',
+      answers: ['szilva'],
+    },
+    {
+      question: 'polar bear',
+      answers: ['jegesmedve'],
+    },
+    {
+      question: 'ponytail',
+      answers: ['lófarok'],
+    },
+    {
+      question: 'prefer',
+      answers: ['jobban szeret', 'előnyben részesít', 'preferál'],
+    },
+    {
+      question: 'purple',
+      answers: ['lila'],
+    },
+    {
+      question: 'rain',
+      answers: ['esik', 'eső'],
+    },
+    {
+      question: 'raincoat',
+      answers: ['esőkabát'],
+    },
+    {
+      question: 'rainwater',
+      answers: ['esővíz'],
+    },
+    {
+      question: 'read',
+      answers: ['olvas'],
+    },
+    {
+      question: 'recorder',
+      answers: ['furulya'],
+    },
+    {
+      question: 'red',
+      answers: ['piros', 'vörös'],
+    },
+    {
+      question: 'restaurant',
+      answers: ['étterem'],
+    },
+    {
+      question: 'river',
+      answers: ['folyó'],
+    },
+    {
+      question: 'rock',
+      answers: ['kő', 'szikla'],
+    },
+    {
+      question: 'rubber',
+      answers: ['radír'],
+    },
+    {
+      question: 'rucksack',
+      answers: ['hátizsák'],
+    },
+    {
+      question: 'run',
+      answers: ['fut'],
+    },
+    {
+      question: 'sad',
+      answers: ['szomorú'],
+    },
+    {
+      question: 'safety',
+      answers: ['biztonság'],
+    },
+    {
+      question: 'salad',
+      answers: ['saláta'],
+    },
+    {
+      question: 'sandwich',
+      answers: ['szendvics'],
+    },
+    {
+      question: 'Saturday',
+      answers: ['szombat'],
+    },
+    {
+      question: 'sausage',
+      answers: ['kolbász'],
+    },
+    {
+      question: 'scarf',
+      answers: ['sál'],
+    },
+    {
+      question: 'school',
+      answers: ['iskola'],
+    },
+    {
+      question: 'score',
+      answers: ['gólt lő'],
+    },
+    {
+      question: 'sea',
+      answers: ['tenger'],
+    },
+    {
+      question: 'seahorse',
+      answers: ['csikóhal'],
+    },
+    {
+      question: 'seal',
+      answers: ['fóka'],
+    },
+    {
+      question: 'seawater',
+      answers: ['tengervíz'],
+    },
+    {
+      question: 'shark',
+      answers: ['cápa'],
+    },
+    {
+      question: 'shop',
+      answers: ['bolt'],
+    },
+    {
+      question: 'short',
+      answers: ['rövid'],
+    },
+    {
+      question: 'silly',
+      answers: ['buta'],
+    },
+    {
+      question: 'sing',
+      answers: ['énekel'],
+    },
+    {
+      question: 'sit',
+      answers: ['ül'],
+    },
+    {
+      question: 'ski',
+      answers: ['síel'],
+    },
+    {
+      question: 'skipping rope',
+      answers: ['ugrókötél', 'ugrálókötél'],
+    },
+    {
+      question: 'skittles',
+      answers: ['teke'],
+    },
+    {
+      question: 'sky',
+      answers: ['ég'],
+    },
+    {
+      question: 'sledge',
+      answers: ['szánkó'],
+    },
+    {
+      question: 'small',
+      answers: ['kicsi'],
+    },
+    {
+      question: 'South Africa',
+      answers: ['Dél-Afrika'],
+    },
+    {
+      question: 'stable',
+      answers: ['istálló', 'stabil'],
+    },
+    {
+      question: 'starfish',
+      answers: ['tengeri csillag'],
+    },
+    {
+      question: 'station',
+      answers: ['állomás'],
+    },
+    {
+      question: 'stick',
+      answers: ['bot', 'ütő'],
+    },
+    {
+      question: 'stomach',
+      answers: ['has'],
+    },
+    {
+      question: 'straight',
+      answers: ['egyenes', 'egyenesen'],
+    },
+    {
+      question: 'stream',
+      answers: ['patak', 'forrás'],
+    },
+    {
+      question: 'string',
+      answers: ['húr'],
+    },
+    {
+      question: 'strong',
+      answers: ['erős'],
+    },
+    {
+      question: 'sun',
+      answers: ['nap'],
+    },
+    {
+      question: 'Sunday',
+      answers: ['vasárnap'],
+    },
+    {
+      question: 'sunglasses',
+      answers: ['napszemüveg'],
+    },
+    {
+      question: 'sunny',
+      answers: ['napos'],
+    },
+    {
+      question: 'surprise',
+      answers: ['meglepetés'],
+    },
+    {
+      question: 'Sweden',
+      answers: ['Svédország'],
+    },
+    {
+      question: 'swim',
+      answers: ['úszik'],
+    },
+    {
+      question: 'swimming pool',
+      answers: ['uszoda'],
+    },
+    {
+      question: 'Switzerland',
+      answers: ['Svájc'],
+    },
+    {
+      question: 'table',
+      answers: ['asztal'],
+    },
+    {
+      question: 'tadpole',
+      answers: ['ebihal'],
+    },
+    {
+      question: 'tail',
+      answers: ['farok'],
+    },
+    {
+      question: 'take photos',
+      answers: ['fényképezik'],
+    },
+    {
+      question: 'talk',
+      answers: ['beszél'],
+    },
+    {
+      question: 'tall',
+      answers: ['magas'],
+    },
+    {
+      question: 'tea',
+      answers: ['tea'],
+    },
+    {
+      question: 'team',
+      answers: ['csapat'],
+    },
+    {
+      question: 'tennis',
+      answers: ['tenisz'],
+    },
+    {
+      question: 'thank you',
+      answers: ['köszönöm'],
+    },
+    {
+      question: 'thin',
+      answers: ['sovány', 'vékony'],
+    },
+    {
+      question: 'throw',
+      answers: ['dob', 'hajít'],
+    },
+    {
+      question: 'Thursday',
+      answers: ['csütörtök'],
+    },
+    {
+      question: 'ticket',
+      answers: ['jegy'],
+    },
+    {
+      question: 'tidy up',
+      answers: ['kitakarít', 'takarít'],
+    },
+    {
+      question: 'timezone',
+      answers: ['időzóna'],
+    },
+    {
+      question: 'tired',
+      answers: ['fáradt'],
+    },
+    {
+      question: 'toast',
+      answers: ['pirítós'],
+    },
+    {
+      question: 'toe',
+      answers: ['lábujj'],
+    },
+    {
+      question: 'torch',
+      answers: ['elemlámpa', 'fáklya'],
+    },
+    {
+      question: 'tower',
+      answers: ['torony'],
+    },
+    {
+      question: 'train',
+      answers: ['vonat'],
+    },
+    {
+      question: 'train station',
+      answers: ['vasútállomás'],
+    },
+    {
+      question: 'treasure',
+      answers: ['kincs'],
+    },
+    {
+      question: 'treasure hunt',
+      answers: ['kincsvadászat'],
+    },
+    {
+      question: 'tree',
+      answers: ['fa'],
+    },
+    {
+      question: 'T-shirt',
+      answers: ['póló'],
+    },
+    {
+      question: 'Tuesday',
+      answers: ['kedd'],
+    },
+    {
+      question: 'turtle',
+      answers: ['teknős', 'teknősbéka'],
+    },
+    {
+      question: 'uncle',
+      answers: ['nagybácsi'],
+    },
+    {
+      question: 'under',
+      answers: ['alatt'],
+    },
+    {
+      question: 'underground',
+      answers: ['a föld alatt', 'metró'],
+    },
+    {
+      question: 'vegetable',
+      answers: ['zöldség'],
+    },
+    {
+      question: 'wake up',
+      answers: ['felkel'],
+    },
+    {
+      question: 'walrus',
+      answers: ['rozmár'],
+    },
+    {
+      question: 'warm',
+      answers: ['meleg'],
+    },
+    {
+      question: 'washing up',
+      answers: ['mosogatás'],
+    },
+    {
+      question: 'watch',
+      answers: ['néz'],
+    },
+    {
+      question: 'watch TV',
+      answers: ['tévézik', 'tévét néz'],
+    },
+    {
+      question: 'water',
+      answers: ['víz'],
+    },
+    {
+      question: 'wavy',
+      answers: ['hullámos'],
+    },
+    {
+      question: 'Wednesday',
+      answers: ['szerda'],
+    },
+    {
+      question: 'whale',
+      answers: ['bálna'],
+    },
+    {
+      question: 'white',
+      answers: ['fehér'],
+    },
+    {
+      question: 'wing',
+      answers: ['szárny'],
+    },
+    {
+      question: 'wide',
+      answers: ['széles'],
+    },
+    {
+      question: 'woman',
+      answers: ['nő'],
+    },
+    {
+      question: 'wool',
+      answers: ['gyapjú'],
+    },
+    {
+      question: 'work',
+      answers: ['munka', 'dolgozik'],
+    },
+    {
+      question: 'yellow',
+      answers: ['sárga'],
+    },
+    {
+      question: 'young',
+      answers: ['fiatal'],
+    },
+    {
+      question: 'zebra',
+      answers: ['zebra'],
+    },
+  ],
+};
+
 export const unit4 = {
   name: 'Starter Unit 4',
   questions: [
