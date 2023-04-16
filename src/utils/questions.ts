@@ -2418,6 +2418,544 @@ export const youngExplorers2 = {
   ],
 };
 
+export const unit2 = {
+  name: 'Starter Unit 2',
+  questions: [
+    {
+      question: 'ágy',
+      answers: ['bed'],
+    },
+    {
+      question: 'doboz',
+      answers: ['box'],
+    },
+    {
+      question: 'szék',
+      answers: ['chair'],
+    },
+    {
+      question: 'íróasztal',
+      answers: ['desk'],
+    },
+    {
+      question: 'ajtó',
+      answers: ['door'],
+    },
+    {
+      question: 'padló',
+      answers: ['floor'],
+    },
+    {
+      question: 'lámpa',
+      answers: ['lamp'],
+    },
+    {
+      question: 'laptop',
+      answers: ['laptop'],
+    },
+    {
+      question: 'növény',
+      answers: ['plant'],
+    },
+    {
+      question: 'poszter',
+      answers: ['poster'],
+    },
+    {
+      question: 'szoba',
+      answers: ['room'],
+    },
+    {
+      question: 'szőnyeg',
+      answers: ['rug'],
+    },
+    {
+      question: 'polc',
+      answers: ['shelf'],
+    },
+    {
+      question: 'tévé',
+      answers: ['TV'],
+    },
+    {
+      question: 'ruhásszekrény',
+      answers: ['wardrobe'],
+    },
+    {
+      question: 'ablak',
+      answers: ['window'],
+    },
+    {
+      question: 'medve',
+      answers: ['bear'],
+    },
+    {
+      question: 'tigris',
+      answers: ['tiger'],
+    },
+    {
+      question: 'kanári',
+      answers: ['canary'],
+    },
+    {
+      question: 'macska',
+      answers: ['cat'],
+    },
+    {
+      question: 'kutya',
+      answers: ['dog'],
+    },
+    {
+      question: 'béka',
+      answers: ['frog'],
+    },
+    {
+      question: 'aranyhal',
+      answers: ['goldfish'],
+    },
+    {
+      question: 'tengerimalac',
+      answers: ['guinea pig'],
+    },
+    {
+      question: 'hörcsög',
+      answers: ['hamster'],
+    },
+    {
+      question: 'leguán',
+      answers: ['iguana'],
+    },
+    {
+      question: 'majom',
+      answers: ['monkey'],
+    },
+    {
+      question: 'egér',
+      answers: ['mouse'],
+    },
+    {
+      question: 'egerek',
+      answers: ['mice'],
+    },
+    {
+      question: 'papagáj',
+      answers: ['parrot'],
+    },
+    {
+      question: 'nyúl',
+      answers: ['rabbit'],
+    },
+    {
+      question: 'teknős',
+      answers: ['turtle'],
+    },
+    {
+      question: 'kar',
+      answers: ['arm'],
+    },
+    {
+      question: 'test',
+      answers: ['body'],
+    },
+    {
+      question: 'fül',
+      answers: ['ear'],
+    },
+    {
+      question: 'szem',
+      answers: ['eye'],
+    },
+    {
+      question: 'lábfej',
+      answers: ['foot'],
+    },
+    {
+      question: 'lábfejek',
+      answers: ['feet'],
+    },
+    {
+      question: 'fej',
+      answers: ['head'],
+    },
+    {
+      question: 'láb',
+      answers: ['leg'],
+    },
+    {
+      question: 'száj',
+      answers: ['mouth'],
+    },
+    {
+      question: 'orr',
+      answers: ['nose'],
+    },
+    {
+      question: 'farok',
+      answers: ['tail'],
+    },
+    {
+      question: 'szárny',
+      answers: ['wing'],
+    },
+    {
+      question: 'jelvény',
+      answers: ['badge'],
+    },
+    {
+      question: 'képregény',
+      answers: ['comic'],
+    },
+    {
+      question: 'dinoszaurusz',
+      answers: ['dinosaur'],
+    },
+    {
+      question: 'focikártya',
+      answers: ['football card'],
+    },
+    {
+      question: 'kövület, fosszília',
+      answers: ['fossil'],
+    },
+    {
+      question: 'kulcskarika',
+      answers: ['key ring'],
+    },
+    {
+      question: 'képes folyóirat, magazin',
+      answers: ['magazine'],
+    },
+    {
+      question: 'mágnes',
+      answers: ['magnet'],
+    },
+    {
+      question: 'matrica',
+      answers: ['sticker'],
+    },
+    {
+      question: 'szuperhős figura',
+      answers: ['superhero figure'],
+    },
+    {
+      question: 'gyűjtemény',
+      answers: ['collection'],
+    },
+    {
+      question: 'légy',
+      answers: ['fly'],
+    },
+    {
+      question: 'fürdőszoba',
+      answers: ['bathroom'],
+    },
+    {
+      question: 'hálószoba',
+      answers: ['bedroom'],
+    },
+    {
+      question: 'kert',
+      answers: ['garden'],
+    },
+    {
+      question: 'konyha',
+      answers: ['kitchen'],
+    },
+    {
+      question: 'nappali',
+      answers: ['living room'],
+    },
+    {
+      question: 'bámulatos',
+      answers: ['amazing'],
+    },
+    {
+      question: 'kölcsönvesz',
+      answers: ['borrow'],
+    },
+    {
+      question: 'természetesen',
+      answers: ['of course'],
+    },
+    {
+      question: 'videójáték',
+      answers: ['video game'],
+    },
+    {
+      question: 'kosárlabda gyűrű',
+      answers: ['basketball hoop'],
+    },
+    {
+      question: 'tábla',
+      answers: ['blackboard'],
+    },
+    {
+      question: 'felfedez',
+      answers: ['discover'],
+    },
+    {
+      question: 'érdekes',
+      answers: ['interesting'],
+    },
+    {
+      question: 'mellett, közelében',
+      answers: ['near'],
+    },
+    {
+      question: 'csapat',
+      answers: ['team'],
+    },
+    {
+      question: 'szokatlan',
+      answers: ['unusual'],
+    },
+    {
+      question: 'fal',
+      answers: ['wall'],
+    },
+    {
+      question: 'keresztben',
+      answers: ['across'],
+    },
+    {
+      question: 'ókori',
+      answers: ['ancient'],
+    },
+    {
+      question: 'azték',
+      answers: ['Aztec'],
+    },
+    {
+      question: 'bambusz',
+      answers: ['bamboo'],
+    },
+    {
+      question: 'valamiből készül',
+      answers: ['be made of'],
+    },
+    {
+      question: 'gyönyörű',
+      answers: ['beautiful'],
+    },
+    {
+      question: 'ragadozó, húsevő',
+      answers: ['carnivorous'],
+    },
+    {
+      question: 'kávé',
+      answers: ['coffee'],
+    },
+    {
+      question: 'kehely',
+      answers: ['cup'],
+    },
+    {
+      question: 'Egyiptom',
+      answers: ['Egypt'],
+    },
+    {
+      question: 'exotic, távoli vidékről származó',
+      answers: ['egzotikus'],
+    },
+    {
+      question: 'esik, beleesik',
+      answers: ['fall'],
+    },
+    {
+      question: 'híres',
+      answers: ['famous'],
+    },
+    {
+      question: 'virág',
+      answers: ['flower'],
+    },
+    {
+      question: 'Görögország',
+      answers: ['Greece'],
+    },
+    {
+      question: 'rovar',
+      answers: ['insect'],
+    },
+    {
+      question: 'Olaszország',
+      answers: ['Italy'],
+    },
+    {
+      question: 'Mexikó',
+      answers: ['Mexico'],
+    },
+    {
+      question: 'múmia',
+      answers: ['mummy'],
+    },
+    {
+      question: 'háziállat',
+      answers: ['pet'],
+    },
+    {
+      question: 'esőerdő',
+      answers: ['rainforest'],
+    },
+    {
+      question: 'igazi',
+      answers: ['real'],
+    },
+    {
+      question: 'különleges',
+      answers: ['special'],
+    },
+    {
+      question: 'tea',
+      answers: ['tea'],
+    },
+    {
+      question: 'hasznos',
+      answers: ['useful'],
+    },
+    {
+      question: 'fa (nem élő)',
+      answers: ['wood'],
+    },
+    {
+      question: 'világ',
+      answers: ['world'],
+    },
+    {
+      question: 'madár',
+      answers: ['bird'],
+    },
+    {
+      question: 'fióka',
+      answers: ['chick'],
+    },
+    {
+      question: 'madártoll',
+      answers: ['feather'],
+    },
+    {
+      question: 'fű',
+      answers: ['grass'],
+    },
+    {
+      question: 'föld, talaj',
+      answers: ['ground'],
+    },
+    {
+      question: 'szőr, haj',
+      answers: ['hair'],
+    },
+    {
+      question: 'sövény',
+      answers: ['hedge'],
+    },
+    {
+      question: 'lyuk',
+      answers: ['hole'],
+    },
+    {
+      question: 'sár',
+      answers: ['mud'],
+    },
+    {
+      question: 'fészek',
+      answers: ['nest'],
+    },
+    {
+      question: 'bagoly',
+      answers: ['owl'],
+    },
+    {
+      question: 'pingvin',
+      answers: ['penguin'],
+    },
+    {
+      question: 'tető',
+      answers: ['roof'],
+    },
+    {
+      question: 'biztonságos',
+      answers: ['safe'],
+    },
+    {
+      question: 'veréb',
+      answers: ['sparrow'],
+    },
+    {
+      question: 'nyel',
+      answers: ['swallow'],
+    },
+    {
+      question: 'fecske',
+      answers: ['swallow'],
+    },
+    {
+      question: 'fa (élő)',
+      answers: ['tree'],
+    },
+    {
+      question: 'rossz',
+      answers: ['bad'],
+    },
+    {
+      question: 'mögött',
+      answers: ['behind'],
+    },
+    {
+      question: 'hoz',
+      answers: ['bring'],
+    },
+    {
+      question: 'Gyere be!',
+      answers: ['Come in!'],
+    },
+    {
+      question: 'állás, munka',
+      answers: ['job'],
+    },
+    {
+      question: 'lift',
+      answers: ['lift'],
+    },
+    {
+      question: 'gép',
+      answers: ['machine'],
+    },
+    {
+      question: 'Most ezt nézd meg!',
+      answers: ['Now watch this!'],
+    },
+    {
+      question: 'kinyit',
+      answers: ['open'],
+    },
+    {
+      question: 'gyors',
+      answers: ['quick', 'fast'],
+    },
+    {
+      question: 'gyorsan',
+      answers: ['quick', 'quickly'],
+    },
+    {
+      question: 'mond, megmond',
+      answers: ['tell'],
+    },
+    {
+      question: 'gondol',
+      answers: ['think'],
+    },
+    {
+      question: 'kikapcsol',
+      answers: ['turn off', 'switch off'],
+    },
+    {
+      question: 'megért',
+      answers: ['understand'],
+    },
+  ],
+};
+
 export const unit3 = {
   name: 'Starter Unit 3',
   questions: [
