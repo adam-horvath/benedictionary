@@ -2418,6 +2418,730 @@ export const youngExplorers2 = {
   ],
 };
 
+export const introduction = {
+  name: 'Starter Introduction',
+  questions: [
+    {
+      question: 'könyv',
+      answers: ['book'],
+    },
+    {
+      question: 'számológép',
+      answers: ['calculator'],
+    },
+    {
+      question: 'zsírkréta',
+      answers: ['crayon'],
+    },
+    {
+      question: 'jegyzetfüzet',
+      answers: ['notebook'],
+    },
+    {
+      question: 'toll (íróeszköz)',
+      answers: ['pen'],
+    },
+    {
+      question: 'ceruza',
+      answers: ['pencil'],
+    },
+    {
+      question: 'tolltartó',
+      answers: ['pencil case'],
+    },
+    {
+      question: 'radír',
+      answers: ['rubber'],
+    },
+    {
+      question: 'vonalzó',
+      answers: ['ruler'],
+    },
+    {
+      question: 'iskolatáska',
+      answers: ['school bag'],
+    },
+    {
+      question: 'olló',
+      answers: ['scissors'],
+    },
+    {
+      question: 'hegyező',
+      answers: ['sharpener'],
+    },
+    {
+      question: 'ketrec',
+      answers: ['cage'],
+    },
+    {
+      question: 'kaméleon',
+      answers: ['chameleon'],
+    },
+    {
+      question: 'Szép napot!',
+      answers: ['Have a good day!'],
+    },
+    {
+      question: 'kígyó',
+      answers: ['snake'],
+    },
+    {
+      question: 'Várj csak! Várj egy percet!',
+      answers: ['Wait a minute!'],
+    },
+    {
+      question: 'Mi az?',
+      answers: ["What's that?"],
+    },
+    {
+      question: 'fekete',
+      answers: ['black'],
+    },
+    {
+      question: 'barna',
+      answers: ['brown'],
+    },
+    {
+      question: 'sötétkék',
+      answers: ['dark blue'],
+    },
+    {
+      question: 'sötétzöld',
+      answers: ['dark green'],
+    },
+    {
+      question: 'szürke',
+      answers: ['grey'],
+    },
+    {
+      question: 'világoskék',
+      answers: ['light blue'],
+    },
+    {
+      question: 'világoszöld',
+      answers: ['light blue'],
+    },
+    {
+      question: 'narancssárga',
+      answers: ['orange'],
+    },
+    {
+      question: 'rózsaszín',
+      answers: ['pink'],
+    },
+    {
+      question: 'lila',
+      answers: ['purple'],
+    },
+    {
+      question: 'piros',
+      answers: ['red'],
+    },
+    {
+      question: 'fehér',
+      answers: ['white'],
+    },
+    {
+      question: 'sárga',
+      answers: ['yellow'],
+    },
+    {
+      question: 'Kína',
+      answers: ['China'],
+    },
+    {
+      question: 'kínai',
+      answers: ['Chinese'],
+    },
+    {
+      question: 'Horvátország',
+      answers: ['Croatia'],
+    },
+    {
+      question: 'horvát',
+      answers: ['Croatian'],
+    },
+    {
+      question: 'cseh',
+      answers: ['Czech'],
+    },
+    {
+      question: 'Csehország',
+      answers: ['Czech Republic'],
+    },
+    {
+      question: 'Anglia',
+      answers: ['England'],
+    },
+    {
+      question: 'angol',
+      answers: ['English'],
+    },
+    {
+      question: 'magyar',
+      answers: ['Hungarian'],
+    },
+    {
+      question: 'Magyarország',
+      answers: ['Hungary'],
+    },
+    {
+      question: 'India',
+      answers: ['India'],
+    },
+    {
+      question: 'indiai',
+      answers: ['Indian'],
+    },
+    {
+      question: 'Írország',
+      answers: ['Ireland'],
+    },
+    {
+      question: 'ír (nemzet)',
+      answers: ['Irish'],
+    },
+    {
+      question: 'Skócia',
+      answers: ['Scotland'],
+    },
+    {
+      question: 'skót',
+      answers: ['Scottish'],
+    },
+    {
+      question: 'Szerbia',
+      answers: ['Serbia'],
+    },
+    {
+      question: 'szerb',
+      answers: ['Serbian'],
+    },
+    {
+      question: 'Szlovénia',
+      answers: ['Slovenia'],
+    },
+    {
+      question: 'szlovén',
+      answers: ['Slovenian'],
+    },
+    {
+      question: 'Spanyolország',
+      answers: ['Spain'],
+    },
+    {
+      question: 'spanyol',
+      answers: ['Spanish'],
+    },
+    {
+      question: 'Wales',
+      answers: ['Wales'],
+    },
+    {
+      question: 'walesi',
+      answers: ['Welsh'],
+    },
+    {
+      question: 'Hány éves vagy?',
+      answers: ['How old are you?'],
+    },
+    {
+      question: 'Hogy hívnak?',
+      answers: ["What's your name?"],
+    },
+    {
+      question: 'Hová való vagy?',
+      answers: ['Where are you from?'],
+    },
+    {
+      question: 'fára mászik',
+      answers: ['climb a tree'],
+    },
+    {
+      question: 'rajzol',
+      answers: ['draw'],
+    },
+    {
+      question: 'kosárlabdázik',
+      answers: ['play basketball'],
+    },
+    {
+      question: 'focizik',
+      answers: ['play football'],
+    },
+    {
+      question: 'gitározik',
+      answers: ['play the guitar'],
+    },
+    {
+      question: 'kerékpározik',
+      answers: ['ride a bike'],
+    },
+    {
+      question: 'görkorcsolyázik',
+      answers: ['rollerblade'],
+    },
+    {
+      question: 'fut',
+      answers: ['run'],
+    },
+    {
+      question: 'énekel',
+      answers: ['sing'],
+    },
+    {
+      question: 'kínaiul beszél',
+      answers: ['speak Chinese'],
+    },
+    {
+      question: 'betűz, betűnként mond',
+      answers: ['spell'],
+    },
+    {
+      question: 'úszik',
+      answers: ['swim'],
+    },
+    {
+      question: 'jár, gyalog megy',
+      answers: ['walk'],
+    },
+    {
+      question: 'kedvenc',
+      answers: ['favourite'],
+    },
+    {
+      question: 'Eltört a lábam.',
+      answers: ['My leg is broken.'],
+    },
+    {
+      question: 'park',
+      answers: ['park'],
+    },
+    {
+      question: 'Nemsokára találkozunk!',
+      answers: ['See you soon!'],
+    },
+    {
+      question: 'kerekesszék',
+      answers: ['wheelchair'],
+    },
+  ],
+};
+
+export const unit1 = {
+  name: 'Starter Unit 1',
+  questions: [
+    {
+      question: 'mérges',
+      answers: ['angry'],
+    },
+    {
+      question: 'Unatkozom.',
+      answers: ["I'm bored."],
+    },
+    {
+      question: 'Fázom.',
+      answers: ["I'm cold."],
+    },
+    {
+      question: 'izgatott',
+      answers: ['excited'],
+    },
+    {
+      question: 'boldog',
+      answers: ['happy'],
+    },
+    {
+      question: 'Melegem van.',
+      answers: ["I'm hot."],
+    },
+    {
+      question: 'éhes',
+      answers: ['hungry'],
+    },
+    {
+      question: 'szomorú',
+      answers: ['sad'],
+    },
+    {
+      question: 'Félek.',
+      answers: ["I'm scared."],
+    },
+    {
+      question: 'szomjas',
+      answers: ['thirsty'],
+    },
+    {
+      question: 'fáradt',
+      answers: ['tired'],
+    },
+    {
+      question: 'Én sem.',
+      answers: ['Me neihter.'],
+    },
+    {
+      question: 'Én is.',
+      answers: ['Me too.'],
+    },
+    {
+      question: 'álmos',
+      answers: ['sleepy'],
+    },
+    {
+      question: 'nagynéni',
+      answers: ['aunt'],
+    },
+    {
+      question: 'fiútestvér',
+      answers: ['brother'],
+    },
+    {
+      question: 'nagyapa',
+      answers: ['grandfather'],
+    },
+    {
+      question: 'nagyanya',
+      answers: ['grandmother'],
+    },
+    {
+      question: 'anya',
+      answers: ['mother'],
+    },
+    {
+      question: 'lánytestvér',
+      answers: ['sister'],
+    },
+    {
+      question: 'nagybácsi',
+      answers: ['uncle'],
+    },
+    {
+      question: 'okos',
+      answers: ['clever'],
+    },
+    {
+      question: 'egypetéjű ikrek',
+      answers: ['identical twins'],
+    },
+    {
+      question: 'kedves',
+      answers: ['nice'],
+    },
+    {
+      question: 'öreg, idős',
+      answers: ['old'],
+    },
+    {
+      question: 'csinos',
+      answers: ['pretty'],
+    },
+    {
+      question: 'alacsony',
+      answers: ['short'],
+    },
+    {
+      question: 'erős',
+      answers: ['strong'],
+    },
+    {
+      question: 'magas',
+      answers: ['tall'],
+    },
+    {
+      question: 'ikrek',
+      answers: ['twins'],
+    },
+    {
+      question: 'fiatal',
+      answers: ['young'],
+    },
+    {
+      question: 'január',
+      answers: ['January'],
+    },
+    {
+      question: 'február',
+      answers: ['February'],
+    },
+    {
+      question: 'március',
+      answers: ['March'],
+    },
+    {
+      question: 'április',
+      answers: ['April'],
+    },
+    {
+      question: 'május',
+      answers: ['May'],
+    },
+    {
+      question: 'június',
+      answers: ['June'],
+    },
+    {
+      question: 'július',
+      answers: ['July'],
+    },
+    {
+      question: 'augusztus',
+      answers: ['August'],
+    },
+    {
+      question: 'szeptember',
+      answers: ['September'],
+    },
+    {
+      question: 'október',
+      answers: ['October'],
+    },
+    {
+      question: 'november',
+      answers: ['November'],
+    },
+    {
+      question: 'december',
+      answers: ['December'],
+    },
+    {
+      question: 'végre',
+      answers: ['at last'],
+    },
+    {
+      question: 'születésnap',
+      answers: ['birthday'],
+    },
+    {
+      question: 'torta',
+      answers: ['cake'],
+    },
+    {
+      question: 'követ',
+      answers: ['follow'],
+    },
+    {
+      question: 'szerencseszám',
+      answers: ['lucky number'],
+    },
+    {
+      question: 'talán',
+      answers: ['perhaps'],
+    },
+    {
+      question: 'ajándék',
+      answers: ['present'],
+    },
+    {
+      question: 'pettyes',
+      answers: ['spotty'],
+    },
+    {
+      question: 'megérint',
+      answers: ['touch'],
+    },
+    {
+      question: 'nemsokára',
+      answers: ['soon'],
+    },
+    {
+      question: 'pocak',
+      answers: ['tummy'],
+    },
+    {
+      question: 'művészet',
+      answers: ['art'],
+    },
+    {
+      question: 'angol',
+      answers: ['English'],
+    },
+    {
+      question: 'történelem',
+      answers: ['history'],
+    },
+    {
+      question: 'matematika',
+      answers: ['maths', 'mathematics'],
+    },
+    {
+      question: 'zene',
+      answers: ['music'],
+    },
+    {
+      question: 'testnevelés',
+      answers: ['PE', 'physical education'],
+    },
+    {
+      question: 'tudomány, természettudomány',
+      answers: ['science'],
+    },
+    {
+      question: 'spanyol',
+      answers: ['Spanish'],
+    },
+    {
+      question: 'technika, informatika (tantárgy)',
+      answers: ['technology'],
+    },
+    {
+      question: 'elkésik valahonnan',
+      answers: ['be late for', 'be late for sth'],
+    },
+    {
+      question: 'biológia',
+      answers: ['biology'],
+    },
+    {
+      question: 'sakk',
+      answers: ['chess'],
+    },
+    {
+      question: 'labdarúgás',
+      answers: ['football'],
+    },
+    {
+      question: 'torna',
+      answers: ['gymnastics'],
+    },
+    {
+      question: 'Siess!',
+      answers: ['Hurry up!'],
+    },
+    {
+      question: 'Csodás napunk van!',
+      answers: ["It's a brilliant day!"],
+    },
+    {
+      question: 'felszerelés',
+      answers: ['kit'],
+    },
+    {
+      question: 'majdnem',
+      answers: ['nearly'],
+    },
+    {
+      question: 'tantárgy',
+      answers: ['subject'],
+    },
+    {
+      question: 'Szuperek! (Szeretem őket.)',
+      answers: ['They are great!'],
+    },
+    {
+      question: 'edzés',
+      answers: ['training'],
+    },
+    {
+      question: 'És te?',
+      answers: ['What about you?'],
+    },
+    {
+      question: 'Mennyi az idő?',
+      answers: ['What time is it?'],
+    },
+    {
+      question: 'Mi a baj?',
+      answers: ["What's the matter?"],
+    },
+    {
+      question: 'különböző',
+      answers: ['different'],
+    },
+    {
+      question: 'dráma',
+      answers: ['drama'],
+    },
+    {
+      question: 'minden, mindegyik',
+      answers: ['all', 'each', 'every'],
+    },
+    {
+      question: 'érzelem',
+      answers: ['emotion'],
+    },
+    {
+      question: 'érzés',
+      answers: ['feeling'],
+    },
+    {
+      question: 'öntapadós cédula',
+      answers: ['sticky note'],
+    },
+    {
+      question: 'kereszt',
+      answers: ['cross'],
+    },
+    {
+      question: 'sárkány',
+      answers: ['dragon'],
+    },
+    {
+      question: 'anyanyelv',
+      answers: ['first language', 'mother tongue'],
+    },
+    {
+      question: 'zászló',
+      answers: ['flag'],
+    },
+    {
+      question: 'levél',
+      answers: ['leaf'],
+    },
+    {
+      question: 'hold',
+      answers: ['moon'],
+    },
+    {
+      question: 'nemzeti nyelv',
+      answers: ['national language'],
+    },
+    {
+      question: 'csillag',
+      answers: ['star'],
+    },
+    {
+      question: 'vödör',
+      answers: ['bucket'],
+    },
+    {
+      question: 'kréta',
+      answers: ['chalk'],
+    },
+    {
+      question: 'elmozdít',
+      answers: ['move'],
+    },
+    {
+      question: 'rész',
+      answers: ['part'],
+    },
+    {
+      question: 'árnyék',
+      answers: ['shadow'],
+    },
+    {
+      question: 'fadarab',
+      answers: ['stick'],
+    },
+    {
+      question: 'kő',
+      answers: ['stone'],
+    },
+    {
+      question: 'napóra',
+      answers: ['sundial'],
+    },
+    {
+      question: 'megmondja az időt',
+      answers: ['tell the time'],
+    },
+    {
+      question: 'karóra',
+      answers: ['watch'],
+    },
+  ],
+};
+
 export const unit2 = {
   name: 'Starter Unit 2',
   questions: [
