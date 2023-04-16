@@ -1,7 +1,7 @@
 import { NUMBER_OF_QUESTIONS } from 'config/Constants';
 import { Question, Unit } from 'models';
 import { ChangeEvent, FC, useState } from 'react';
-import { unit4, unit5, youngExplorers1, youngExplorers2 } from 'utils/questions';
+import { unit4, unit5, unit6, youngExplorers1, youngExplorers2 } from 'utils/questions';
 import { Checkbox } from './Checkbox';
 
 import classes from './Settings.module.scss';
@@ -10,7 +10,7 @@ export interface SettingsProps {
   startGameWith: (questions: Question[]) => void;
 }
 
-const units: Unit[] = [youngExplorers1, youngExplorers2, unit4, unit5];
+const units: Unit[] = [youngExplorers1, youngExplorers2, unit4, unit5, unit6];
 
 export const Settings: FC<SettingsProps> = ({ startGameWith }) => {
   const [includeds, setIncludeds] = useState<boolean[]>(units.map((_) => false));
