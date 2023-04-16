@@ -1336,8 +1336,8 @@ export const youngExplorers2 = {
       question: 'barna',
     },
     {
-      answers: ['I brush my teeth'],
-      question: 'Megmosom a fogam.',
+      answers: ['brush my teeth'],
+      question: 'fogat mosok',
     },
     {
       answers: ['bus'],
@@ -2414,6 +2414,560 @@ export const youngExplorers2 = {
     {
       answers: ['zebra'],
       question: 'zebra',
+    },
+  ],
+};
+
+export const unit3 = {
+  name: 'Starter Unit 3',
+  questions: [
+    {
+      question: 'fogat mosok',
+      answers: ['brush my teeth'],
+    },
+    {
+      question: 'megírom a házi feladatom',
+      answers: ['do my homework'],
+    },
+    {
+      question: 'felöltözik',
+      answers: ['get dressed'],
+    },
+    {
+      question: 'buszra száll',
+      answers: ['get the bus'],
+    },
+    {
+      question: 'felkel',
+      answers: ['get up'],
+    },
+    {
+      question: 'hazamegy',
+      answers: ['go home'],
+    },
+    {
+      question: 'lefekszik aludni',
+      answers: ['go to bed'],
+    },
+    {
+      question: 'iskolába megy',
+      answers: ['go to school'],
+    },
+    {
+      question: 'zuhanyozik',
+      answers: ['have a shower'],
+    },
+    {
+      question: 'bekap pár falatot',
+      answers: ['have a snack'],
+    },
+    {
+      question: 'reggelizik',
+      answers: ['have breakfast'],
+    },
+    {
+      question: 'vacsorázik',
+      answers: ['have dinner'],
+    },
+    {
+      question: 'ebédel',
+      answers: ['have lunch'],
+    },
+    {
+      question: 'megmosom az arcom',
+      answers: ['wash my face'],
+    },
+    {
+      question: 'kezet mosok',
+      answers: ['wash my hands'],
+    },
+    {
+      question: 'tűz',
+      answers: ['fire'],
+    },
+    {
+      question: 'erdő',
+      answers: ['forest', 'woods'],
+    },
+    {
+      question: 'délelőtt, reggel',
+      answers: ['in the morning'],
+    },
+    {
+      question: 'délután',
+      answers: ['in the afternoon'],
+    },
+    {
+      question: 'este',
+      answers: ['in the evening'],
+    },
+    {
+      question: 'éjjel',
+      answers: ['at night'],
+    },
+    {
+      question: 'karatézik',
+      answers: ['do karate'],
+    },
+    {
+      question: 'autót vezet',
+      answers: ['drive a car'],
+    },
+    {
+      question: 'könyvtárba megy',
+      answers: ['go to library'],
+    },
+    {
+      question: 'Londonban él',
+      answers: ['live in London'],
+    },
+    {
+      question: 'könyveket olvas',
+      answers: ['read books'],
+    },
+    {
+      question: 'kerékpározik',
+      answers: ['ride a bike'],
+    },
+    {
+      question: 'lovagol',
+      answers: ['ride a horse'],
+    },
+    {
+      question: 'tévét néz',
+      answers: ['watch TV'],
+    },
+    {
+      question: 'dolgozik',
+      answers: ['work'],
+    },
+    {
+      question: 'kaland',
+      answers: ['adventure'],
+    },
+    {
+      question: 'egész nap',
+      answers: ['all day'],
+    },
+    {
+      question: 'otthon (hat.)',
+      answers: ['at home'],
+    },
+    {
+      question: 'öv',
+      answers: ['belt'],
+    },
+    {
+      question: 'nagyszerű, fantasztikus',
+      answers: ['fantastic'],
+    },
+    {
+      question: 'kütyü, szerkenytyű',
+      answers: ['gadget'],
+    },
+    {
+      question: 'gyám',
+      answers: ['guardian'],
+    },
+    {
+      question: 'hős',
+      answers: ['hero'],
+    },
+    {
+      question: 'könyvtáros',
+      answers: ['librarian'],
+    },
+    {
+      question: 'főszereplő',
+      answers: ['main character'],
+    },
+    {
+      question: 'ajánl',
+      answers: ['recommend'],
+    },
+    {
+      question: 'kém',
+      answers: ['spy'],
+    },
+    {
+      question: 'vezetéknév',
+      answers: ['surname'],
+    },
+    {
+      question: 'meglepett',
+      answers: ['surprised'],
+    },
+    {
+      question: 'banán',
+      answers: ['banana'],
+    },
+    {
+      question: 'barnakenyér',
+      answers: ['brown break'],
+    },
+    {
+      question: 'vaj',
+      answers: ['butter'],
+    },
+    {
+      question: 'sajt',
+      answers: ['cheese'],
+    },
+    {
+      question: 'csirke',
+      answers: ['chicken'],
+    },
+    {
+      question: 'tojás',
+      answers: ['egg'],
+    },
+    {
+      question: 'sonka',
+      answers: ['ham'],
+    },
+    {
+      question: 'lekvár',
+      answers: ['jam'],
+    },
+    {
+      question: 'saláta',
+      answers: ['salad'],
+    },
+    {
+      question: 'szalámi',
+      answers: ['salami'],
+    },
+    {
+      question: 'tonhal',
+      answers: ['tuna'],
+    },
+    {
+      question: 'fehérkenyér',
+      answers: ['white bread'],
+    },
+    {
+      question: 'utál',
+      answers: ['hate'],
+    },
+    {
+      question: 'Menjünk!',
+      answers: ["Let's go!"],
+    },
+    {
+      question: 'szeret',
+      answers: ['like', 'love'],
+    },
+    {
+      question: 'piknik',
+      answers: ['picnic'],
+    },
+    {
+      question: 'szendvics',
+      answers: ['sandwich'],
+    },
+    {
+      question: 'akar',
+      answers: ['want'],
+    },
+    {
+      question: 'almáspite',
+      answers: ['apple pie'],
+    },
+    {
+      question: 'keksz',
+      answers: ['biscuit'],
+    },
+    {
+      question: 'burger',
+      answers: ['burger'],
+    },
+    {
+      question: 'burgonyaszirom',
+      answers: ['crisps', 'chips'],
+    },
+    {
+      question: 'minitorta',
+      answers: ['cupcake'],
+    },
+    {
+      question: 'hot dog',
+      answers: ['hot dog'],
+    },
+    {
+      question: 'fagylalt',
+      answers: ['ice cream'],
+    },
+    {
+      question: 'gyümlölcslé',
+      answers: ['juice'],
+    },
+    {
+      question: 'pizza',
+      answers: ['pizza'],
+    },
+    {
+      question: 'pattogatott kukorica',
+      answers: ['popcorn'],
+    },
+    {
+      question: 'kinyitja az ajtót',
+      answers: ['answer the door'],
+    },
+    {
+      question: 'Vigyázz! Óvatosan!',
+      answers: ['Be careful!'],
+    },
+    {
+      question: 'chiliszósz',
+      answers: ['chili sauce'],
+    },
+    {
+      question: 'Ne aggódj!',
+      answers: ["Don't worry"],
+    },
+    {
+      question: 'ad',
+      answers: ['give'],
+    },
+    {
+      question: 'Jó ötlet.',
+      answers: ['Good idea.'],
+    },
+    {
+      question: 'erős',
+      answers: ['hot'],
+    },
+    {
+      question: 'vicc',
+      answers: ['joke'],
+    },
+    {
+      question: 'Vigyázz!',
+      answers: ['Look out!'],
+    },
+    {
+      question: 'hús',
+      answers: ['meat'],
+    },
+    {
+      question: 'parti',
+      answers: ['party'],
+    },
+    {
+      question: 'pite',
+      answers: ['pie'],
+    },
+    {
+      question: 'tényleg',
+      answers: ['really'],
+    },
+    {
+      question: 'paradicsom',
+      answers: ['tomato'],
+    },
+    {
+      question: 'vegetáriánus',
+      answers: ['vegetarian'],
+    },
+    {
+      question: 'Mit kérsz?',
+      answers: ['What would you like?'],
+    },
+    {
+      question: 'megérkezik',
+      answers: ['arrive'],
+    },
+    {
+      question: 'csónak',
+      answers: ['boat'],
+    },
+    {
+      question: 'vár',
+      answers: ['castle'],
+    },
+    {
+      question: 'egynapos kirándulás',
+      answers: ['day out'],
+    },
+    {
+      question: 'eldönt',
+      answers: ['decide'],
+    },
+    {
+      question: 'finom',
+      answers: ['delicious'],
+    },
+    {
+      question: 'gyümölcs',
+      answers: ['fruit'],
+    },
+    {
+      question: 'szellem',
+      answers: ['ghost'],
+    },
+    {
+      question: 'zsiráf',
+      answers: ['giraffe'],
+    },
+    {
+      question: 'idegenvezető',
+      answers: ['guide'],
+    },
+    {
+      question: 'illusztrál, szemléltet',
+      answers: ['illustrate'],
+    },
+    {
+      question: 'indul, elhagy',
+      answers: ['leave'],
+    },
+    {
+      question: 'lapos fenekű csónak',
+      answers: ['punt'],
+    },
+    {
+      question: 'orrszarvú',
+      answers: ['rhino'],
+    },
+    {
+      question: 'folyó',
+      answers: ['river'],
+    },
+    {
+      question: 'terv, időbeosztás',
+      answers: ['schedule'],
+    },
+    {
+      question: 'osztozik',
+      answers: ['share'],
+    },
+    {
+      question: 'dal',
+      answers: ['song'],
+    },
+    {
+      question: 'asztal',
+      answers: ['table'],
+    },
+    {
+      question: 'kirándulás',
+      answers: ['trip'],
+    },
+    {
+      question: 'felkeres, meglátogat',
+      answers: ['visit'],
+    },
+    {
+      question: 'természet, vadonélő növények és állatok',
+      answers: ['wildlife'],
+    },
+    {
+      question: 'tevékenység',
+      answers: ['activity'],
+    },
+    {
+      question: 'nehéz',
+      answers: ['difficult'],
+    },
+    {
+      question: 'tojásfutás',
+      answers: ['egg and spoon race'],
+    },
+    {
+      question: 'ünnepség',
+      answers: ['fete'],
+    },
+    {
+      question: 'célvonal',
+      answers: ['finishing line'],
+    },
+    {
+      question: 'kemény',
+      answers: ['hard'],
+    },
+    {
+      question: 'szerencsére',
+      answers: ['luckily'],
+    },
+    {
+      question: 'póni',
+      answers: ['pony'],
+    },
+    {
+      question: 'gyorsasági verseny',
+      answers: ['race'],
+    },
+    {
+      question: 'zsákban futás',
+      answers: ['sack race'],
+    },
+    {
+      question: 'sportfelszerelés',
+      answers: ['sports equipment'],
+    },
+    {
+      question: 'játék, játékszer',
+      answers: ['toy'],
+    },
+    {
+      question: 'traktor',
+      answers: ['tractor'],
+    },
+    {
+      question: 'hagyományos',
+      answers: ['traditional'],
+    },
+    {
+      question: 'buszpályaudvar',
+      answers: ['bus station'],
+    },
+    {
+      question: 'buszmegálló',
+      answers: ['bus stop'],
+    },
+    {
+      question: 'iránytű',
+      answers: ['compass'],
+    },
+    {
+      question: 'kereszt',
+      answers: ['cross'],
+    },
+    {
+      question: 'kelet',
+      answers: ['east'],
+    },
+    {
+      question: 'mint',
+      answers: ['like'],
+    },
+    {
+      question: 'tű',
+      answers: ['needle'],
+    },
+    {
+      question: 'észak',
+      answers: ['north'],
+    },
+    {
+      question: 'mutat',
+      answers: ['point'],
+    },
+    {
+      question: 'útvonal',
+      answers: ['route'],
+    },
+    {
+      question: 'dél',
+      answers: ['south'],
+    },
+    {
+      question: 'szimbólum, jelkép',
+      answers: ['symbol'],
+    },
+    {
+      question: 'nyugat',
+      answers: ['west'],
     },
   ],
 };
