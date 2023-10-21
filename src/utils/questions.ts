@@ -5371,3 +5371,1015 @@ export const unit6 = {
     },
   ],
 };
+
+export const projectIntro = {
+  name: 'Project, Introduction',
+  questions: [
+    {
+      question: 'a legjobb barát',
+      answers: ['best friend'],
+    },
+    {
+      question: 'sötét haj',
+      answers: ['dark hair'],
+    },
+    {
+      question: 'kert',
+      answers: ['garden'],
+    },
+    {
+      question: 'szomszéd',
+      answers: ['neighbour'],
+    },
+    {
+      question: 'a szomszédban',
+      answers: ['next door'],
+    },
+    {
+      question: 'ott',
+      answers: ['over there'],
+    },
+    {
+      question: 'emberek',
+      answers: ['people'],
+    },
+    {
+      question: 'a rövid hajú lány',
+      answers: ['the girl with short hair'],
+    },
+    {
+      question: 'Üdvözöllek! Isten hozott!',
+      answers: ['Welcome!', 'Welcome to...'],
+    },
+    {
+      question: 'tevékenység',
+      answers: ['activity'],
+    },
+    {
+      question: 'cím',
+      answers: ['address'],
+    },
+    {
+      question: 'érdekli valami',
+      answers: ['be interested in'],
+    },
+    {
+      question: 'klub',
+      answers: ['club'],
+    },
+    {
+      question: 'e-mail cím',
+      answers: ['e-mail address'],
+    },
+    {
+      question: 'magába foglal',
+      answers: ['include'],
+    },
+    {
+      question: 'belép, csatlakozik',
+      answers: ['join'],
+    },
+    {
+      question: 'tagsági igazolvány',
+      answers: ['membership card'],
+    },
+    {
+      question: 'nyitva',
+      answers: ['open'],
+    },
+    {
+      question: 'irányítószám',
+      answers: ['postcode'],
+    },
+    {
+      question: 'recepciós',
+      answers: ['receptionist'],
+    },
+    {
+      question: 'sportközpont',
+      answers: ['sports centre'],
+    },
+    {
+      question: 'tollaslabda',
+      answers: ['badminton'],
+    },
+    {
+      question: 'kosárlabda',
+      answers: ['basketball'],
+    },
+    {
+      question: 'fitneszóra',
+      answers: ['fitness'],
+    },
+    {
+      question: 'labdarúgás',
+      answers: ['football'],
+    },
+    {
+      question: 'karate',
+      answers: ['karate'],
+    },
+    {
+      question: 'úszás',
+      answers: ['swimming'],
+    },
+    {
+      question: 'asztalitenisz',
+      answers: ['table tennis'],
+    },
+    {
+      question: 'tenisz',
+      answers: ['tennis'],
+    },
+    {
+      question: 'röplabda',
+      answers: ['volleyball'],
+    },
+    {
+      question: 'súlyzózás',
+      answers: ['weight training'],
+    },
+    {
+      question: 'jóga',
+      answers: ['yoga'],
+    },
+    {
+      question: 'kerékpár',
+      answers: ['bike'],
+    },
+    {
+      question: 'mindkettő',
+      answers: ['both'],
+    },
+    {
+      question: 'számol',
+      answers: ['count'],
+    },
+    {
+      question: 'eloszt',
+      answers: ['divide'],
+    },
+    {
+      question: 'méter',
+      answers: ['metre'],
+    },
+    {
+      question: 'kerékpározik',
+      answers: ['ride a bike'],
+    },
+    {
+      question: 'visz, cipel',
+      answers: ['carry'],
+    },
+    {
+      question: 'emlékezet',
+      answers: ['memory'],
+    },
+    {
+      question: 'plakát',
+      answers: ['poster'],
+    },
+    {
+      question: 'teniszütő',
+      answers: ['tennis racquet'],
+    },
+    {
+      question: 'visel',
+      answers: ['wear'],
+    },
+    {
+      question: 'Milyen színű...',
+      answers: ['What colour is...'],
+    },
+    {
+      question: 'egy kevés',
+      answers: ['a bit of'],
+    },
+    {
+      question: 'sok',
+      answers: ['a lot of'],
+    },
+    {
+      question: 'Rajta! Gyerünk!',
+      answers: ['Come on!'],
+    },
+    {
+      question: 'tánc',
+      answers: ['dance'],
+    },
+    {
+      question: 'mindenki',
+      answers: ['everybody, everyone'],
+    },
+    {
+      question: 'csípő',
+      answers: ['hips'],
+    },
+    {
+      question: 'ugrik',
+      answers: ['jump'],
+    },
+    {
+      question: 'kulcs',
+      answers: ['key'],
+    },
+    {
+      question: 'mobiltelefon',
+      answers: ['mobile phone', 'mobile'],
+    },
+    {
+      question: 'fénykép',
+      answers: ['photo', 'photograph'],
+    },
+    {
+      question: 'vonalzó',
+      answers: ['ruler'],
+    },
+    {
+      question: 'mozgat',
+      answers: ['swing'],
+    },
+    {
+      question: 'fel',
+      answers: ['up'],
+    },
+  ],
+};
+
+export const projectMyLife = {
+  name: 'Project, My Life',
+  questions: [
+    {
+      question: 'után',
+      answers: ['after'],
+    },
+    {
+      question: 'gyűlés',
+      answers: ['assembly'],
+    },
+    {
+      question: 'többlakásos ház',
+      answers: ['block of flats'],
+    },
+    {
+      question: 'megfelelő, helyes',
+      answers: ['correct'],
+    },
+    {
+      question: 'kulcsszó',
+      answers: ['cue'],
+    },
+    {
+      question: 'naponta',
+      answers: ['daily'],
+    },
+    {
+      question: 'jó valamiben',
+      answers: ['good at'],
+    },
+    {
+      question: 'felnő',
+      answers: ['grow up'],
+    },
+    {
+      question: 'történik',
+      answers: ['happen'],
+    },
+    {
+      question: 'középiskola',
+      answers: ['high school'],
+    },
+    {
+      question: 'elindul otthonról',
+      answers: ['leave home'],
+    },
+    {
+      question: 'az első emeleten',
+      answers: ['on the first floor'],
+    },
+    {
+      question: 'gyakorol',
+      answers: ['practice'],
+    },
+    {
+      question: 'névsorolvasás',
+      answers: ['registration'],
+    },
+    {
+      question: 'jó, megfelelő, helyes',
+      answers: ['correct'],
+    },
+    {
+      question: 'még',
+      answers: ['yet'],
+    },
+    {
+      question: 'hosszú idő',
+      answers: ['a long time'],
+    },
+    {
+      question: 'születésnapi torta',
+      answers: ['birthday cake'],
+    },
+    {
+      question: 'születésnapi kártya',
+      answers: ['birthday card'],
+    },
+    {
+      question: 'elfúj',
+      answers: ['blow out'],
+    },
+    {
+      question: 'tekepálya',
+      answers: ['bowling alley'],
+    },
+    {
+      question: 'gyertya',
+      answers: ['candle'],
+    },
+    {
+      question: 'CD',
+      answers: ['CD'],
+    },
+    {
+      question: 'ünnepel',
+      answers: ['celebrate'],
+    },
+    {
+      question: 'tisztít, kitakarít',
+      answers: ['clean'],
+    },
+    {
+      question: 'közel vmihez',
+      answers: ['close to'],
+    },
+    {
+      question: 'dátum',
+      answers: ['date'],
+    },
+    {
+      question: 'elhatároz, eldönt',
+      answers: ['decide'],
+    },
+    {
+      question: 'mindegyik',
+      answers: ['each'],
+    },
+    {
+      question: 'ráadás, plusz',
+      answers: ['extra'],
+    },
+    {
+      question: 'virágok',
+      answers: ['flowers'],
+    },
+    {
+      question: 'kap',
+      answers: ['get'],
+    },
+    {
+      question: 'partit rendez',
+      answers: ['have a party'],
+    },
+    {
+      question: 'hall',
+      answers: ['hear'],
+    },
+    {
+      question: 'fontos',
+      answers: ['important'],
+    },
+    {
+      question: 'két nap múlva',
+      answers: ["in two days' time"],
+    },
+    {
+      question: 'lista',
+      answers: ['list'],
+    },
+    {
+      question: 'kíván valamit',
+      answers: ['make a wish'],
+    },
+    {
+      question: 'talán',
+      answers: ['maybe'],
+    },
+    {
+      question: 'pénz',
+      answers: ['money'],
+    },
+    {
+      question: 'hónap',
+      answers: ['month'],
+    },
+    {
+      question: 'névnap',
+      answers: ['name day'],
+    },
+    {
+      question: 'nem sok',
+      answers: ['not much'],
+    },
+    {
+      question: 'saját',
+      answers: ['own'],
+    },
+    {
+      question: 'ajándék',
+      answers: ['present'],
+    },
+    {
+      question: 'probléma',
+      answers: ['problem'],
+    },
+    {
+      question: 'ugyanaz',
+      answers: ['same'],
+    },
+    {
+      question: 'valaki',
+      answers: ['someone', 'somebody'],
+    },
+    {
+      question: 'valahol',
+      answers: ['somewhere'],
+    },
+    {
+      question: 'édesség',
+      answers: ['sweets'],
+    },
+    {
+      question: 'elvisz',
+      answers: ['take'],
+    },
+    {
+      question: 'játékszer',
+      answers: ['toy'],
+    },
+    {
+      question: 'Hányadika van ma?',
+      answers: ["What's the date today?"],
+    },
+    {
+      question: 'Mikor van a születésnapod?',
+      answers: ['When is your birthday?'],
+    },
+    {
+      question: 'egyetért',
+      answers: ['agree'],
+    },
+    {
+      question: 'mindegyik, összes',
+      answers: ['all'],
+    },
+    {
+      question: 'válasz',
+      answers: ['answer'],
+    },
+    {
+      question: 'származik',
+      answers: ['come from'],
+    },
+    {
+      question: 'Jó ötlet.',
+      answers: ['Good idea.'],
+    },
+    {
+      question: 'utál',
+      answers: ['hate'],
+    },
+    {
+      question: 'Nem vagyok benne biztos.',
+      answers: ["I'm not sure"],
+    },
+    {
+      question: 'Fogalmam sincs.',
+      answers: ['I have got no idea', "I've got no idea"],
+    },
+    {
+      question: 'utolsó',
+      answers: ['last'],
+    },
+    {
+      question: 'jelent',
+      answers: ['mean'],
+    },
+    {
+      question: 'hangszer',
+      answers: ['instrument', 'musical instrument'],
+    },
+    {
+      question: 'olaj',
+      answers: ['oil'],
+    },
+    {
+      question: 'pingvin',
+      answers: ['penguin'],
+    },
+    {
+      question: 'jegesmedve',
+      answers: ['polar bear'],
+    },
+    {
+      question: 'postás',
+      answers: ['postman'],
+    },
+    {
+      question: 'vetélkedő',
+      answers: ['quiz'],
+    },
+    {
+      question: 'gumi',
+      answers: ['rubber'],
+    },
+    {
+      question: 'Ügyes vagy!',
+      answers: ['Well done!'],
+    },
+    {
+      question: 'zseniális, okos',
+      answers: ['brilliant', 'genius'],
+    },
+    {
+      question: 'elfoglalt',
+      answers: ['busy'],
+    },
+    {
+      question: 'csésze',
+      answers: ['cup'],
+    },
+    {
+      question: 'DJ, lemezlovas',
+      answers: ['DJ'],
+    },
+    {
+      question: 'nem jól csinál',
+      answers: ['do wrong'],
+    },
+    {
+      question: 'korán',
+      answers: ['early'],
+    },
+    {
+      question: 'vizsgaeredmények',
+      answers: ['exam results'],
+    },
+    {
+      question: 'munka, tennivaló',
+      answers: ['job'],
+    },
+    {
+      question: 'kések és villák',
+      answers: ['knives and forks'],
+    },
+    {
+      question: 'étel',
+      answers: ['meal'],
+    },
+    {
+      question: 'hely',
+      answers: ['place'],
+    },
+    {
+      question: 'tányér',
+      answers: ['plate'],
+    },
+    {
+      question: 'helyez',
+      answers: ['put'],
+    },
+    {
+      question: 'robot',
+      answers: ['robot'],
+    },
+    {
+      question: 'szöveges üzenetet küld',
+      answers: ['text'],
+    },
+    {
+      question: 'Melyik?',
+      answers: ['Which?'],
+    },
+    {
+      question: 'vacsorát főz',
+      answers: ['cook the dinner'],
+    },
+    {
+      question: 'bevásárol',
+      answers: ['do the shopping'],
+    },
+    {
+      question: 'megeteti a macskát',
+      answers: ['feed the cat'],
+    },
+    {
+      question: 'bepakol a mosogatógépbe',
+      answers: ['load the dishwasher'],
+    },
+    {
+      question: 'beágyaz',
+      answers: ['make the bed'],
+    },
+    {
+      question: 'megteríti az asztalt',
+      answers: ['set the table'],
+    },
+    {
+      question: 'kiviszi a szemetet',
+      answers: ['take out the recycling', 'put out the recycling'],
+    },
+    {
+      question: 'kutyát sétáltat',
+      answers: ['take the dog for a walk'],
+    },
+    {
+      question: 'rendet rak a szobájában',
+      answers: ['tidy your room', 'tidy her room', 'tidy his room'],
+    },
+    {
+      question: 'felporszívóz',
+      answers: ['vacuum the floor'],
+    },
+    {
+      question: 'mindig',
+      answers: ['always'],
+    },
+    {
+      question: 'soha',
+      answers: ['never'],
+    },
+    {
+      question: 'nem gyakran',
+      answers: ['not often'],
+    },
+    {
+      question: 'gyakran',
+      answers: ['often'],
+    },
+    {
+      question: 'néha',
+      answers: ['sometimes'],
+    },
+    {
+      question: 'általában, rendszerint',
+      answers: ['usually', 'normally'],
+    },
+    {
+      question: 'is, szintén',
+      answers: ['also'],
+    },
+    {
+      question: 'ősz',
+      answers: ['autumn'],
+    },
+    {
+      question: 'mert',
+      answers: ['because'],
+    },
+    {
+      question: 'eleje',
+      answers: ['beginning'],
+    },
+    {
+      question: '(édes) cipó',
+      answers: ['bun'],
+    },
+    {
+      question: 'csokitojás',
+      answers: ['chocolate egg'],
+    },
+    {
+      question: 'összejön',
+      answers: ['come together'],
+    },
+    {
+      question: 'feldíszít',
+      answers: ['decorate'],
+    },
+    {
+      question: 'díszítés',
+      answers: ['decoration'],
+    },
+    {
+      question: 'eszik',
+      answers: ['eat'],
+    },
+    {
+      question: 'ünnep, fesztivál',
+      answers: ['festival'],
+    },
+    {
+      question: 'tűzijáték',
+      answers: ['fireworks'],
+    },
+    {
+      question: 'amit ... követ',
+      answers: ['followed by'],
+    },
+    {
+      question: 'vásárolni megy',
+      answers: ['go shopping'],
+    },
+    {
+      question: 'félévközi szünet',
+      answers: ['half-term holiday'],
+    },
+    {
+      question: 'elrejt',
+      answers: ['hide'],
+    },
+    {
+      question: 'Mennyi ideig?',
+      answers: ['How long?'],
+    },
+    {
+      question: 'keresés, vadászat',
+      answers: ['hunt'],
+    },
+    {
+      question: 'közepén',
+      answers: ['in the middle of'],
+    },
+    {
+      question: 'mérkőzés',
+      answers: ['match'],
+    },
+    {
+      question: 'éjfél',
+      answers: ['midnight'],
+    },
+    {
+      question: 'következő',
+      answers: ['next'],
+    },
+    {
+      question: 'feltesz',
+      answers: ['put up'],
+    },
+    {
+      question: 'kiárusítás',
+      answers: ['sale'],
+    },
+    {
+      question: 'számos, több',
+      answers: ['several'],
+    },
+    {
+      question: 'tavasz',
+      answers: ['spring'],
+    },
+    {
+      question: 'utcabál',
+      answers: ['street party'],
+    },
+    {
+      question: 'elüti az éjfélt',
+      answers: ['strike midnight'],
+    },
+    {
+      question: 'édes',
+      answers: ['sweet'],
+    },
+    {
+      question: 'bekapcsol',
+      answers: ['switch on'],
+    },
+    {
+      question: 'a tanév része, félév, harmadév',
+      answers: ['term'],
+    },
+    {
+      question: 'hagyományos',
+      answers: ['traditional'],
+    },
+    {
+      question: 'pulyka',
+      answers: ['turkey'],
+    },
+    {
+      question: 'jellemző, tipikus',
+      answers: ['typical'],
+    },
+    {
+      question: 'zöldség',
+      answers: ['vegetable'],
+    },
+    {
+      question: 'meglátogat',
+      answers: ['visit'],
+    },
+    {
+      question: 'Miért?',
+      answers: ['Why?'],
+    },
+    {
+      question: 'karácsony másnapja',
+      answers: ['Boxing Day'],
+    },
+    {
+      question: 'karácsony',
+      answers: ['Christmas'],
+    },
+    {
+      question: 'karácsony napja',
+      answers: ['Christmas Day'],
+    },
+    {
+      question: 'szenteste, karácsony este',
+      answers: ['Christmas Eve'],
+    },
+    {
+      question: 'karácsonyi puding',
+      answers: ['Christmas pudding'],
+    },
+    {
+      question: 'karácsonyfa',
+      answers: ['Christmas tree'],
+    },
+    {
+      question: 'húsvét',
+      answers: ['Easter'],
+    },
+    {
+      question: 'húsvéti tojás',
+      answers: ['Easter egg'],
+    },
+    {
+      question: 'húsvéti tojásvadászat',
+      answers: ['Easter egg hunt'],
+    },
+    {
+      question: 'Easter Monday',
+      answers: ['húsvéthétfő'],
+    },
+    {
+      question: 'Easter Sunday',
+      answers: ['húsvétvasárnap'],
+    },
+    {
+      question: 'Good Friday',
+      answers: ['nagypéntek'],
+    },
+    {
+      question: 'újév napja',
+      answers: ['New Year'],
+    },
+    {
+      question: 'Szilveszter napja',
+      answers: ["New Year's Eve"],
+    },
+    {
+      question: 'körülbelül',
+      answers: ['about'],
+    },
+    {
+      question: 'hozzáad',
+      answers: ['add'],
+    },
+    {
+      question: 'éjjel',
+      answers: ['at night'],
+    },
+    {
+      question: 'naptár',
+      answers: ['calendar'],
+    },
+    {
+      question: 'Föld',
+      answers: ['Earth'],
+    },
+    {
+      question: 'megállapít, meghatároz',
+      answers: ['fix'],
+    },
+    {
+      question: 'például',
+      answers: ['for example'],
+    },
+    {
+      question: 'megkerül, körbe megy',
+      answers: ['go round'],
+    },
+    {
+      question: 'óra (60 perc)',
+      answers: ['hour'],
+    },
+    {
+      question: 'valójában',
+      answers: ['in fact'],
+    },
+    {
+      question: 'szökőév',
+      answers: ['leap year'],
+    },
+    {
+      question: 'perc',
+      answers: ['minute'],
+    },
+    {
+      question: 'Hold',
+      answers: ['Moon'],
+    },
+    {
+      question: 'szüksége van valamire',
+      answers: ['need'],
+    },
+    {
+      question: 'senki',
+      answers: ['nobody'],
+    },
+    {
+      question: 'egyszer',
+      answers: ['once'],
+    },
+    {
+      question: 'időszak, időtartam',
+      answers: ['period'],
+    },
+    {
+      question: 'alszik',
+      answers: ['sleep'],
+    },
+    {
+      question: 'még mindig',
+      answers: ['still'],
+    },
+    {
+      question: 'Nap',
+      answers: ['Sun'],
+    },
+    {
+      question: 'beköti a cipőfűzőjét',
+      answers: ['tie your shoelaces', 'tie her shoelaces', 'tie his shoelaces'],
+    },
+    {
+      question: 'forog',
+      answers: ['turn'],
+    },
+    {
+      question: '-ig',
+      answers: ['until'],
+    },
+    {
+      question: 'használ',
+      answers: ['use'],
+    },
+    {
+      question: 'nem szeret, nem kedvel',
+      answers: ['dislike'],
+    },
+    {
+      question: 'esemény',
+      answers: ['event'],
+    },
+    {
+      question: 'szánkózni megy',
+      answers: ['go sledging'],
+    },
+    {
+      question: 'szemléltet, illusztrál',
+      answers: ['illustrate'],
+    },
+    {
+      question: 'ész',
+      answers: ['mind'],
+    },
+    {
+      question: 'az utolsó dolog, ami az eszembe jut',
+      answers: ['the last thing on my mind'],
+    },
+    {
+      question: 'megtervez',
+      answers: ['plan'],
+    },
+    {
+      question: 'pihenés',
+      answers: ['rest'],
+    },
+    {
+      question: 'album',
+      answers: ['scrapbook'],
+    },
+    {
+      question: 'hó',
+      answers: ['snow'],
+    },
+    {
+      question: 'marad',
+      answers: ['stay'],
+    },
+    {
+      question: 'gondol',
+      answers: ['think'],
+    },
+    {
+      question: 'cím',
+      answers: ['title'],
+    },
+    {
+      question: 'trombita',
+      answers: ['trumpet'],
+    },
+  ],
+};

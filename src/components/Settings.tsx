@@ -3,6 +3,8 @@ import { Question, Unit } from 'models';
 import { ChangeEvent, FC, useState } from 'react';
 import {
   introduction,
+  projectIntro,
+  projectMyLife,
   unit1,
   unit2,
   unit3,
@@ -20,7 +22,19 @@ export interface SettingsProps {
   startGameWith: (questions: Question[]) => void;
 }
 
-const units: Unit[] = [youngExplorers1, youngExplorers2, introduction, unit1, unit2, unit3, unit4, unit5, unit6];
+const units: Unit[] = [
+  youngExplorers1,
+  youngExplorers2,
+  introduction,
+  unit1,
+  unit2,
+  unit3,
+  unit4,
+  unit5,
+  unit6,
+  projectIntro,
+  projectMyLife,
+];
 
 export const Settings: FC<SettingsProps> = ({ startGameWith }) => {
   const [includeds, setIncludeds] = useState<boolean[]>(units.map((_) => false));
