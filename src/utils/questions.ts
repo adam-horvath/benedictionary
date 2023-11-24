@@ -195,7 +195,7 @@ export const youngExplorers1 = {
     },
     {
       question: 'barlang',
-      answers: ['cave'],
+      answers: ['den', 'cave'],
     },
     {
       question: 'müzli',
@@ -6380,6 +6380,772 @@ export const projectMyLife = {
     {
       question: 'trombita',
       answers: ['trumpet'],
+    },
+  ],
+};
+
+export const projectAnimals = {
+  name: 'Project, Animals',
+  questions: [
+    {
+      question: 'távolsági busz',
+      answers: ['coach'],
+    },
+    {
+      question: 'hamburger',
+      answers: ['hamburger'],
+    },
+    {
+      question: 'elmutogat',
+      answers: ['mime'],
+    },
+    {
+      question: 'előtt, kívül',
+      answers: ['outside'],
+    },
+    {
+      question: 'galamb',
+      answers: ['pigeon'],
+    },
+    {
+      question: 'program, műsor',
+      answers: ['programme'],
+    },
+    {
+      question: 'fut',
+      answers: ['run'],
+    },
+    {
+      question: 'felváltva csinál valamit',
+      answers: ['take turns', 'take it in turns'],
+    },
+    {
+      question: 'utazás, kirándulás',
+      answers: ['trip'],
+    },
+    {
+      question: 'vár valamire',
+      answers: ['wait', 'wait for'],
+    },
+    {
+      question: 'macska',
+      answers: ['cat'],
+    },
+    {
+      question: 'borjú',
+      answers: ['calf'],
+    },
+    {
+      question: 'tehén',
+      answers: ['cow'],
+    },
+    {
+      question: 'kutya',
+      answers: ['dog'],
+    },
+    {
+      question: 'kacsa',
+      answers: ['duck'],
+    },
+    {
+      question: 'kiskacsa',
+      answers: ['duckling'],
+    },
+    {
+      question: 'csikó',
+      answers: ['foal'],
+    },
+    {
+      question: 'kecske',
+      answers: ['goat'],
+    },
+    {
+      question: 'ló',
+      answers: ['horse'],
+    },
+    {
+      question: 'kecskegida',
+      answers: ['kid'],
+    },
+    {
+      question: 'kiscica',
+      answers: ['kitten'],
+    },
+    {
+      question: 'bárány',
+      answers: ['lamb'],
+    },
+    {
+      question: 'disznó',
+      answers: ['pig'],
+    },
+    {
+      question: 'kismalac',
+      answers: ['piglet'],
+    },
+    {
+      question: 'kiskutya',
+      answers: ['puppy'],
+    },
+    {
+      question: 'birka',
+      answers: ['sheep'],
+    },
+    {
+      question: 'eljátszik, előad',
+      answers: ['act'],
+    },
+    {
+      question: 'csont',
+      answers: ['bone'],
+    },
+    {
+      question: 'dinoszaurusz',
+      answers: ['dinosaur'],
+    },
+    {
+      question: 'vége',
+      answers: ['ending'],
+    },
+    {
+      question: 'ragasztó',
+      answers: ['glue'],
+    },
+    {
+      question: 'őrzi, védi',
+      answers: ['guard'],
+    },
+    {
+      question: 'Odaragadtam!',
+      answers: ["I'm stuck!"],
+    },
+    {
+      question: 'utasítás',
+      answers: ['instruction'],
+    },
+    {
+      question: 'délután',
+      answers: ['in the afternoon'],
+    },
+    {
+      question: 'keres',
+      answers: ['look for'],
+    },
+    {
+      question: 'képes újság',
+      answers: ['magazine'],
+    },
+    {
+      question: 'modell, makett',
+      answers: ['model'],
+    },
+    {
+      question: 'száj',
+      answers: ['mouth'],
+    },
+    {
+      question: 'mozog',
+      answers: ['move'],
+    },
+    {
+      question: 'más, másik',
+      answers: ['other'],
+    },
+    {
+      question: 'valami',
+      answers: ['something'],
+    },
+    {
+      question: 'Bocsánat! Bocsánatatot kérek!',
+      answers: ['Sorry!', "I'm sorry!"],
+    },
+    {
+      question: 'ugat',
+      answers: ['bark'],
+    },
+    {
+      question: 'leírás',
+      answers: ['description'],
+    },
+    {
+      question: 'különféle',
+      answers: ['different'],
+    },
+    {
+      question: 'tojás',
+      answers: ['egg'],
+    },
+    {
+      question: 'elefánt',
+      answers: ['elephant'],
+    },
+    {
+      question: 'még ... is',
+      answers: ['even'],
+    },
+    {
+      question: 'róka',
+      answers: ['fox'],
+    },
+    {
+      question: 'föld, talaj',
+      answers: ['ground'],
+    },
+    {
+      question: 'csoport',
+      answers: ['group'],
+    },
+    {
+      question: 'lyuk',
+      answers: ['hole'],
+    },
+    {
+      question: 'reggel',
+      answers: ['in the morning'],
+    },
+    {
+      question: 'gyík',
+      answers: ['lizard'],
+    },
+    {
+      question: 'nagyon szeret, imád',
+      answers: ['love'],
+    },
+    {
+      question: 'szurikáta, monguz',
+      answers: ['meerkat'],
+    },
+    {
+      question: 'egér',
+      answers: ['mouse'],
+    },
+    {
+      question: 'pár',
+      answers: ['pair'],
+    },
+    {
+      question: 'növény',
+      answers: ['plant'],
+    },
+    {
+      question: 'mérgező',
+      answers: ['poisonous'],
+    },
+    {
+      question: 'elég, eléggé',
+      answers: ['quite'],
+    },
+    {
+      question: 'skorpió',
+      answers: ['scorpion'],
+    },
+    {
+      question: 'méret',
+      answers: ['size'],
+    },
+    {
+      question: 'déli',
+      answers: ['southern'],
+    },
+    {
+      question: 'csík',
+      answers: ['stripe'],
+    },
+    {
+      question: 'víz',
+      answers: ['water'],
+    },
+    {
+      question: 'vadvédelmi körzet',
+      answers: ['wildlife park'],
+    },
+    {
+      question: 'munka',
+      answers: ['work'],
+    },
+    {
+      question: 'denevér',
+      answers: ['bat'],
+    },
+    {
+      question: 'teve',
+      answers: ['camel'],
+    },
+    {
+      question: 'krokodil',
+      answers: ['crocodile'],
+    },
+    {
+      question: 'delfin',
+      answers: ['dolphin'],
+    },
+    {
+      question: 'sas',
+      answers: ['eagle'],
+    },
+    {
+      question: 'béka',
+      answers: ['frog'],
+    },
+    {
+      question: 'zsiráf',
+      answers: ['giraffe'],
+    },
+    {
+      question: 'víziló',
+      answers: ['hippopotamus'],
+    },
+    {
+      question: 'rovar',
+      answers: ['insect'],
+    },
+    {
+      question: 'kenguru',
+      answers: ['kangaroo'],
+    },
+    {
+      question: 'majom',
+      answers: ['monkey'],
+    },
+    {
+      question: 'cápa',
+      answers: ['shark'],
+    },
+    {
+      question: 'tigris',
+      answers: ['tiger'],
+    },
+    {
+      question: 'zebra',
+      answers: ['zebra'],
+    },
+    {
+      question: 'vele jön',
+      answers: ['come with'],
+    },
+    {
+      question: 'barlang',
+      answers: ['den', 'cave'],
+    },
+    {
+      question: 'le, lefelé, végig valamin',
+      answers: ['down'],
+    },
+    {
+      question: 'leesik',
+      answers: ['fall down'],
+    },
+    {
+      question: 'udvar (farmé)',
+      answers: ['farmyard'],
+    },
+    {
+      question: 'Kövess! Kövessetek!',
+      answers: ['Follow me!'],
+    },
+    {
+      question: 'király',
+      answers: ['king'],
+    },
+    {
+      question: 'dióféle',
+      answers: ['nut'],
+    },
+    {
+      question: 'Te jó ég!',
+      answers: ['Oh dear!'],
+    },
+    {
+      question: 'tó (mesterséges)',
+      answers: ['pond'],
+    },
+    {
+      question: 'kiviszi a szemetet',
+      answers: ['put out the rabbish'],
+    },
+    {
+      question: 'út',
+      answers: ['road', 'way'],
+    },
+    {
+      question: 'széle valaminek',
+      answers: ['side'],
+    },
+    {
+      question: 'ég, égbolt',
+      answers: ['sky'],
+    },
+    {
+      question: 'megáll',
+      answers: ['stop'],
+    },
+    {
+      question: 'hirtelen',
+      answers: ['suddenly'],
+    },
+    {
+      question: 'mond, megmond',
+      answers: ['tell'],
+    },
+    {
+      question: 'falu',
+      answers: ['village'],
+    },
+    {
+      question: 'elmosogat',
+      answers: ['wash up', 'do the washing up'],
+    },
+    {
+      question: 'amíg',
+      answers: ['while'],
+    },
+    {
+      question: 'feleség',
+      answers: ['wife'],
+    },
+    {
+      question: 'eltekintve ...-tól',
+      answers: ['apart from'],
+    },
+    {
+      question: 'medve',
+      answers: ['bear'],
+    },
+    {
+      question: 'madármegfigyelés',
+      answers: ['bird-watching'],
+    },
+    {
+      question: 'épít',
+      answers: ['build'],
+    },
+    {
+      question: 'épület',
+      answers: ['building'],
+    },
+    {
+      question: 'lepke',
+      answers: ['butterfly'],
+    },
+    {
+      question: 'előjön',
+      answers: ['come out'],
+    },
+    {
+      question: 'gyakori, közös',
+      answers: ['common'],
+    },
+    {
+      question: 'vidék, vidéki táj',
+      answers: ['countryside'],
+    },
+    {
+      question: 'szarvas',
+      answers: ['deer'],
+    },
+    {
+      question: 'eltűnnik',
+      answers: ['disappear'],
+    },
+    {
+      question: 'megszökik',
+      answers: ['escape'],
+    },
+    {
+      question: 'étel',
+      answers: ['food'],
+    },
+    {
+      question: 'gardener',
+      answers: ['kertész'],
+    },
+    {
+      question: 'kormány (államé)',
+      answers: ['government'],
+    },
+    {
+      question: 'sündisznó',
+      answers: ['hedgehog'],
+    },
+    {
+      question: 'hobbi',
+      answers: ['hobby'],
+    },
+    {
+      question: 'veszélyeztetett',
+      answers: ['in danger'],
+    },
+    {
+      question: 'lebont',
+      answers: ['knock down'],
+    },
+    {
+      question: 'nagy',
+      answers: ['large', 'big'],
+    },
+    {
+      question: 'helyi',
+      answers: ['local'],
+    },
+    {
+      question: 'említ',
+      answers: ['mention'],
+    },
+    {
+      question: 'a legtöbb',
+      answers: ['the most', 'most'],
+    },
+    {
+      question: 'természetesen',
+      answers: ['of course'],
+    },
+    {
+      question: 'bagoly',
+      answers: ['owl'],
+    },
+    {
+      question: 'párduc, leopárd',
+      answers: ['panther'],
+    },
+    {
+      question: 'bekezdés',
+      answers: ['paragraph'],
+    },
+    {
+      question: 'kártevő',
+      answers: ['pest'],
+    },
+    {
+      question: 'megvéd',
+      answers: ['protect'],
+    },
+    {
+      question: 'tanuló',
+      answers: ['pupil'],
+    },
+    {
+      question: 'ritka',
+      answers: ['rare'],
+    },
+    {
+      question: 'étterem',
+      answers: ['restaurant'],
+    },
+    {
+      question: 'vadaspark, szafari park',
+      answers: ['safari park'],
+    },
+    {
+      question: 'dél-nyugat',
+      answers: ['south-west'],
+    },
+    {
+      question: 'mókus',
+      answers: ['squirrel'],
+    },
+    {
+      question: 'téma',
+      answers: ['topic'],
+    },
+    {
+      question: 'város, kisváros',
+      answers: ['town'],
+    },
+    {
+      question: 'megpróbál',
+      answers: ['try'],
+    },
+    {
+      question: 'wallaby (kis termetű kengurufaj)',
+      answers: ['wallaby'],
+    },
+    {
+      question: 'vad',
+      answers: ['wild'],
+    },
+    {
+      question: 'farkas',
+      answers: ['wolf'],
+    },
+    {
+      question: 'farkasok',
+      answers: ['wolves'],
+    },
+    {
+      question: 'állatkert',
+      answers: ['zoo'],
+    },
+    {
+      question: 'levegő',
+      answers: ['air'],
+    },
+    {
+      question: 'kétéltű állat',
+      answers: ['amphibian'],
+    },
+    {
+      question: 'gerinc',
+      answers: ['backbone'],
+    },
+    {
+      question: 'lélegzik',
+      answers: ['breathe'],
+    },
+    {
+      question: 'ponty',
+      answers: ['carp'],
+    },
+    {
+      question: 'osztályozás, besorolás',
+      answers: ['classification'],
+    },
+    {
+      question: 'hidegvérű',
+      answers: ['cold-blooded'],
+    },
+    {
+      question: 'szabályoz',
+      answers: ['control'],
+    },
+    {
+      question: 'gyors, gyorsan',
+      answers: ['fast'],
+    },
+    {
+      question: 'repül',
+      answers: ['fly'],
+    },
+    {
+      question: 'édesvízi',
+      answers: ['fresh water'],
+    },
+    {
+      question: 'helyett',
+      answers: ['instead'],
+    },
+    {
+      question: 'tart',
+      answers: ['keep'],
+    },
+    {
+      question: 'szárazföld',
+      answers: ['land'],
+    },
+    {
+      question: 'tojást rak',
+      answers: ['lay eggs'],
+    },
+    {
+      question: 'emlős',
+      answers: ['mammal'],
+    },
+    {
+      question: 'tej',
+      answers: ['milk'],
+    },
+    {
+      question: 'több',
+      answers: ['more'],
+    },
+    {
+      question: 'termel',
+      answers: ['produce'],
+    },
+    {
+      question: 'hüllő',
+      answers: ['reptile'],
+    },
+    {
+      question: 'úszó',
+      answers: ['swimmer'],
+    },
+    {
+      question: 'hőmérséklet',
+      answers: ['temperature'],
+    },
+    {
+      question: 'teknősbéka',
+      answers: ['turtle'],
+    },
+    {
+      question: 'fajta, típus',
+      answers: ['type'],
+    },
+    {
+      question: 'szokatlan',
+      answers: ['unusual'],
+    },
+    {
+      question: 'gerinces',
+      answers: ['vertebrate'],
+    },
+    {
+      question: 'melegvérű',
+      answers: ['warm-blooded'],
+    },
+    {
+      question: 'bálna',
+      answers: ['whale'],
+    },
+    {
+      question: 'fű',
+      answers: ['grass'],
+    },
+    {
+      question: 'telefonon beszél',
+      answers: ['be on the phone'],
+    },
+    {
+      question: 'szervez',
+      answers: ['organize'],
+    },
+    {
+      question: 'felébreszt',
+      answers: ['wake up'],
+    },
+    {
+      question: 'állatkerti gondozó',
+      answers: ['zoo keeper'],
+    },
+    {
+      question: 'egyedül',
+      answers: ['alone'],
+    },
+    {
+      question: 'ide-oda',
+      answers: ['from side to side'],
+    },
+    {
+      question: 'vicces',
+      answers: ['funny'],
+    },
+    {
+      question: 'felszáll (járműre)',
+      answers: ['get on'],
+    },
+    {
+      question: 'magas',
+      answers: ['high'],
+    },
+    {
+      question: 'érdekes',
+      answers: ['interesting'],
+    },
+    {
+      question: 'kinéz (külsőre)',
+      answers: ['look like'],
+    },
+    {
+      question: 'majdnem',
+      answers: ['nearly'],
+    },
+    {
+      question: 'elér',
+      answers: ['reach'],
+    },
+    {
+      question: 'leng, himbálózik',
+      answers: ['sway'],
     },
   ],
 };

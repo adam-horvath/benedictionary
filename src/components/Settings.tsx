@@ -3,6 +3,7 @@ import { Question, Unit } from 'models';
 import { ChangeEvent, FC, useState } from 'react';
 import {
   introduction,
+  projectAnimals,
   projectIntro,
   projectMyLife,
   unit1,
@@ -34,6 +35,7 @@ const units: Unit[] = [
   unit6,
   projectIntro,
   projectMyLife,
+  projectAnimals,
 ];
 
 export const Settings: FC<SettingsProps> = ({ startGameWith }) => {
