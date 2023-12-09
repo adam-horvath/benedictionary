@@ -4,6 +4,7 @@ import { ChangeEvent, FC, useState } from 'react';
 import {
   introduction,
   projectAnimals,
+  projectHolidays,
   projectIntro,
   projectMyLife,
   unit1,
@@ -36,6 +37,7 @@ const units: Unit[] = [
   projectIntro,
   projectMyLife,
   projectAnimals,
+  projectHolidays,
 ];
 
 export const Settings: FC<SettingsProps> = ({ startGameWith }) => {

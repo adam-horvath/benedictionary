@@ -7149,3 +7149,613 @@ export const projectAnimals = {
     },
   ],
 };
+
+export const projectHolidays = {
+  name: 'Project, Holidays',
+  questions: [
+    {
+      question: 'lakás, lakosztály',
+      answers: ['apartment'],
+    },
+    {
+      question: 'nem otthon, nem a lakóhelyén',
+      answers: ['away'],
+    },
+    {
+      question: 'tengerpart',
+      answers: ['beach'],
+    },
+    {
+      question: 'kifejezés',
+      answers: ['expression'],
+    },
+    {
+      question: 'messze',
+      answers: ['far'],
+    },
+    {
+      question: 'remél',
+      answers: ['hope'],
+    },
+    {
+      question: 'beteg',
+      answers: ['ill'],
+    },
+    {
+      question: 'esik (eső)',
+      answers: ['rain'],
+    },
+    {
+      question: 'uram',
+      answers: ['sir'],
+    },
+    {
+      question: 'edző, sportoktató',
+      answers: ['sport instructor'],
+    },
+    {
+      question: '(valamilyen témára épülő) vidámpark',
+      answers: ['theme park'],
+    },
+    {
+      question: 'esküvő',
+      answers: ['wedding'],
+    },
+    {
+      question: 'hétévge',
+      answers: ['weekend'],
+    },
+    {
+      question: 'szabad hétvége',
+      answers: ['weekend off'],
+    },
+    {
+      question: 'a vidámparkban',
+      answers: ['at a theme park'],
+    },
+    {
+      question: 'esküvőn',
+      answers: ['at a wedding'],
+    },
+    {
+      question: 'otthon',
+      answers: ['at home'],
+    },
+    {
+      question: 'iskolában',
+      answers: ['at school'],
+    },
+    {
+      question: 'munkában',
+      answers: ['at work'],
+    },
+    {
+      question: 'ágyban',
+      answers: ['in bed'],
+    },
+    {
+      question: 'kertben',
+      answers: ['in the garden'],
+    },
+    {
+      question: 'parkban',
+      answers: ['in the park'],
+    },
+    {
+      question: 'nyaral',
+      answers: ['be on holiday'],
+    },
+    {
+      question: 'a tengerparton',
+      answers: ['on the beach'],
+    },
+    {
+      question: 'mérges',
+      answers: ['angry'],
+    },
+    {
+      question: 'megkérdez',
+      answers: ['ask'],
+    },
+    {
+      question: 'autómosó',
+      answers: ['car wash'],
+    },
+    {
+      question: 'bezár, becsuk',
+      answers: ['close'],
+    },
+    {
+      question: 'gyűjt',
+      answers: ['collect'],
+    },
+    {
+      question: 'élvez',
+      answers: ['enjoy'],
+    },
+    {
+      question: 'megragad',
+      answers: ['grab'],
+    },
+    {
+      question: 'leszáll',
+      answers: ['land'],
+    },
+    {
+      question: 'észrevesz',
+      answers: ['notice'],
+    },
+    {
+      question: 'csomagol, becsomagol',
+      answers: ['pack'],
+    },
+    {
+      question: 'telefonhívás',
+      answers: ['phone call'],
+    },
+    {
+      question: 'felvesz',
+      answers: ['pick up'],
+    },
+    {
+      question: 'zseb',
+      answers: ['pocket'],
+    },
+    {
+      question: 'bevásárlólista',
+      answers: ['shopping list'],
+    },
+    {
+      question: 'kiált',
+      answers: ['shout'],
+    },
+    {
+      question: 'valaki más',
+      answers: ['someone else'],
+    },
+    {
+      question: 'utazik',
+      answers: ['travel'],
+    },
+    {
+      question: 'kicsomagol',
+      answers: ['unpack'],
+    },
+    {
+      question: 'repülőtér',
+      answers: ['airport'],
+    },
+    {
+      question: 'kemping',
+      answers: ['camping'],
+    },
+    {
+      question: 'lakókocsi',
+      answers: ['caravan'],
+    },
+    {
+      question: 'címke, cédula',
+      answers: ['label'],
+    },
+    {
+      question: 'csomag, poggyász',
+      answers: ['luggage'],
+    },
+    {
+      question: 'utas',
+      answers: ['passenger'],
+    },
+    {
+      question: 'útlevél',
+      answers: ['passport'],
+    },
+    {
+      question: 'repülőgép',
+      answers: ['plane', 'airplane'],
+    },
+    {
+      question: 'hátizsák',
+      answers: ['rucksack'],
+    },
+    {
+      question: 'kifutópálya',
+      answers: ['runway'],
+    },
+    {
+      question: 'bőrönd',
+      answers: ['suitcase'],
+    },
+    {
+      question: 'taxi',
+      answers: ['taxi'],
+    },
+    {
+      question: 'sátor',
+      answers: ['tent'],
+    },
+    {
+      question: 'jegy',
+      answers: ['ticket'],
+    },
+    {
+      question: 'tolókocsi',
+      answers: ['trolley'],
+    },
+    {
+      question: 'hajóval',
+      answers: ['by boat'],
+    },
+    {
+      question: 'autóval utazik',
+      answers: ['drive'],
+    },
+    {
+      question: 'beleejt',
+      answers: ['drop'],
+    },
+    {
+      question: 'üdvözlet ...-ból',
+      answers: ['greetings from', 'greetings from ...'],
+    },
+    {
+      question: 'balesetet szenved',
+      answers: ['have an accident'],
+    },
+    {
+      question: 'megsért, sérülést okoz',
+      answers: ['hurt'],
+    },
+    {
+      question: 'rendhagyó',
+      answers: ['irregular'],
+    },
+    {
+      question: 'utazás',
+      answers: ['journey'],
+    },
+    {
+      question: 'szerencsére',
+      answers: ['luckily'],
+    },
+    {
+      question: 'már nem',
+      answers: ['not any more', 'not ... any more'],
+    },
+    {
+      question: 'útközben',
+      answers: ['on the way'],
+    },
+    {
+      question: '-ból, -ből',
+      answers: ['out of', 'from'],
+    },
+    {
+      question: 'fájdalmas',
+      answers: ['painful'],
+    },
+    {
+      question: 'egy darab papír',
+      answers: ['piece of paper'],
+    },
+    {
+      question: 'képeslap',
+      answers: ['postcard'],
+    },
+    {
+      question: 'szabályosan képzett',
+      answers: ['regular'],
+    },
+    {
+      question: 'külön',
+      answers: ['separate'],
+    },
+    {
+      question: 'ijesztő',
+      answers: ['spooky', 'frightening'],
+    },
+    {
+      question: 'csúcs',
+      answers: ['top'],
+    },
+    {
+      question: 'pincér',
+      answers: ['waitor'],
+    },
+    {
+      question: 'harap',
+      answers: ['bite'],
+    },
+    {
+      question: 'tör',
+      answers: ['break'],
+    },
+    {
+      question: 'elesik',
+      answers: ['fall over'],
+    },
+    {
+      question: 'tengeri beteg, hányingere van',
+      answers: ['feel sick'],
+    },
+    {
+      question: 'elfelejt',
+      answers: ['forget'],
+    },
+    {
+      question: 'eltéved',
+      answers: ['get lost'],
+    },
+    {
+      question: 'elhagy, otthagy',
+      answers: ['leave'],
+    },
+    {
+      question: 'elveszt',
+      answers: ['lose'],
+    },
+    {
+      question: 'lemarad, lekésik valamiről',
+      answers: ['miss'],
+    },
+    {
+      question: 'ellop',
+      answers: ['steal'],
+    },
+    {
+      question: 'rossz buszra száll',
+      answers: ['take the wrong bus'],
+    },
+    {
+      question: 'kempingezni megy',
+      answers: ['go camping'],
+    },
+    {
+      question: 'vitorlázni megy',
+      answers: ['go sailing'],
+    },
+    {
+      question: 'gondoz, gondoskodik róla',
+      answers: ['look after'],
+    },
+    {
+      question: 'piknik',
+      answers: ['picnic'],
+    },
+    {
+      question: 'szomorú',
+      answers: ['unhappy', 'sad'],
+    },
+    {
+      question: 'külföldre, külföldön',
+      answers: ['abroad'],
+    },
+    {
+      question: 'autóval',
+      answers: ['by car'],
+    },
+    {
+      question: 'székesegyház',
+      answers: ['cathedral'],
+    },
+    {
+      question: 'vége valaminek',
+      answers: ['end'],
+    },
+    {
+      question: 'környezet',
+      answers: ['environment'],
+    },
+    {
+      question: 'izgalmas',
+      answers: ['exciting'],
+    },
+    {
+      question: 'híres',
+      answers: ['famous'],
+    },
+    {
+      question: 'komp',
+      answers: ['ferry'],
+    },
+    {
+      question: 'elmegy',
+      answers: ['go away'],
+    },
+    {
+      question: 'nevezetességek, látnivalók',
+      answers: ['sights'],
+    },
+    {
+      question: 'tölt (időt)',
+      answers: ['spend'],
+    },
+    {
+      question: 'turista',
+      answers: ['tourist'],
+    },
+    {
+      question: 'alagút',
+      answers: ['tunnel'],
+    },
+    {
+      question: 'egyetem',
+      answers: ['university'],
+    },
+    {
+      question: 'látogató',
+      answers: ['visitor'],
+    },
+    {
+      question: 'néhány',
+      answers: ['a few'],
+    },
+    {
+      question: 'előtt (időben), ezelőtt',
+      answers: ['ago'],
+    },
+    {
+      question: 'először',
+      answers: ['at first'],
+    },
+    {
+      question: 'évszázad',
+      answers: ['century'],
+    },
+    {
+      question: 'változik',
+      answers: ['change'],
+    },
+    {
+      question: 'olcsó',
+      answers: ['cheap'],
+    },
+    {
+      question: 'veszélyes',
+      answers: ['dangerous'],
+    },
+    {
+      question: 'mindenhol',
+      answers: ['everywhere'],
+    },
+    {
+      question: 'drága',
+      answers: ['expensive'],
+    },
+    {
+      question: 'gyár',
+      answers: ['factory'],
+    },
+    {
+      question: 'röviden, rövidítve',
+      answers: ['for short'],
+    },
+    {
+      question: 'első, elülső',
+      answers: ['front'],
+    },
+    {
+      question: 'történelem',
+      answers: ['history'],
+    },
+    {
+      question: 'azonban, de',
+      answers: ['however'],
+    },
+    {
+      question: 'feltalál',
+      answers: ['invent'],
+    },
+    {
+      question: 'később',
+      answers: ['later'],
+    },
+    {
+      question: 'motorkerékpár',
+      answers: ['motorcycle', 'motorbike'],
+    },
+    {
+      question: 'gépjármű',
+      answers: ['motor vehicle', 'vehicle'],
+    },
+    {
+      question: 'átlagemberek',
+      answers: ['ordinary people'],
+    },
+    {
+      question: 'több, mint',
+      answers: ['over'],
+    },
+    {
+      question: 'múlt',
+      answers: ['past'],
+    },
+    {
+      question: 'pedál',
+      answers: ['pedal'],
+    },
+    {
+      question: 'toll, lök',
+      answers: ['push'],
+    },
+    {
+      question: 'vasút',
+      answers: ['railway'],
+    },
+    {
+      question: 'gazdag',
+      answers: ['rich'],
+    },
+    {
+      question: 'nemsokára, hamarosan',
+      answers: ['soon'],
+    },
+    {
+      question: 'ezer',
+      answers: ['thousand'],
+    },
+    {
+      question: 'közlekedés',
+      answers: ['transport'],
+    },
+    {
+      question: 'kerék',
+      answers: ['wheel'],
+    },
+    {
+      question: 'fa, fából készült',
+      answers: ['wooden'],
+    },
+    {
+      question: 'végül',
+      answers: ['finally'],
+    },
+    {
+      question: 'összebarátkozni valakivel',
+      answers: ['make friends'],
+    },
+    {
+      question: 'rohan, siet',
+      answers: ['rush'],
+    },
+    {
+      question: 'szörnyű',
+      answers: ['terrible', 'horrible'],
+    },
+    {
+      question: 'választ',
+      answers: ['choose'],
+    },
+    {
+      question: 'másol',
+      answers: ['copy'],
+    },
+    {
+      question: 'vázlat, piszkozat',
+      answers: ['draft'],
+    },
+    {
+      question: 'móka, szórakozás',
+      answers: ['fun'],
+    },
+    {
+      question: 'pendrive',
+      answers: ['memory stick', 'pendrive'],
+    },
+    {
+      question: 'hiba',
+      answers: ['mistake'],
+    },
+    {
+      question: 'úgy tűnik',
+      answers: ['seem'],
+    },
+    {
+      question: 'mivel, miután',
+      answers: ['since'],
+    },
+    {
+      question: 'elvesz',
+      answers: ['take away'],
+    },
+  ],
+};
