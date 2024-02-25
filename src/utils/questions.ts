@@ -7759,3 +7759,661 @@ export const projectHolidays = {
     },
   ],
 };
+
+export const projectFood = {
+  name: 'Project, Food',
+  questions: [
+    {
+      question: 'uzsonnásdoboz',
+      answers: ['launchbox'],
+    },
+    {
+      question: 'étlap',
+      answers: ['menu'],
+    },
+    {
+      question: 'vegyes',
+      answers: ['mixed'],
+    },
+    {
+      question: 'rendel',
+      answers: ['order'],
+    },
+    {
+      question: 'banán',
+      answers: ['banana'],
+    },
+    {
+      question: 'bab',
+      answers: ['beans'],
+    },
+    {
+      question: 'marhahús',
+      answers: ['beaf'],
+    },
+    {
+      question: 'kenyér',
+      answers: ['bread'],
+    },
+    {
+      question: 'vaj',
+      answers: ['butter'],
+    },
+    {
+      question: 'káposzta',
+      answers: ['cabbage'],
+    },
+    {
+      question: 'sárgarépa',
+      answers: ['carrot'],
+    },
+    {
+      question: 'sajt',
+      answers: ['cheese'],
+    },
+    {
+      question: 'sajtburger',
+      answers: ['cheeseburger'],
+    },
+    {
+      question: 'csirke',
+      answers: ['chicken'],
+    },
+    {
+      question: 'sültkrumpli',
+      answers: ['chips'],
+    },
+    {
+      question: 'kávé',
+      answers: ['coffee'],
+    },
+    {
+      question: 'kóla',
+      answers: ['cola'],
+    },
+    {
+      question: 'tejszín, tejföl',
+      answers: ['cream'],
+    },
+    {
+      question: 'burgonyaszirom',
+      answers: ['crisps'],
+    },
+    {
+      question: 'desszert, édesség',
+      answers: ['dessert', 'pudding'],
+    },
+    {
+      question: 'ital',
+      answers: ['drink'],
+    },
+    {
+      question: 'tojás',
+      answers: ['egg'],
+    },
+    {
+      question: 'hal',
+      answers: ['fish'],
+    },
+    {
+      question: 'gyümölcs',
+      answers: ['fruit'],
+    },
+    {
+      question: 'szőlő',
+      answers: ['grapes'],
+    },
+    {
+      question: 'sonka',
+      answers: ['ham'],
+    },
+    {
+      question: 'forró csokoládé',
+      answers: ['hot chocolate'],
+    },
+    {
+      question: 'fagylalt',
+      answers: ['ice-cream'],
+    },
+    {
+      question: 'bárány',
+      answers: ['lamb'],
+    },
+    {
+      question: 'citrom',
+      answers: ['lemon'],
+    },
+    {
+      question: 'limonádé',
+      answers: ['lemonade'],
+    },
+    {
+      question: 'saláta',
+      answers: ['lettuce', 'salad'],
+    },
+    {
+      question: 'hús',
+      answers: ['meat'],
+    },
+    {
+      question: 'tej',
+      answers: ['milk'],
+    },
+    {
+      question: 'tejturmix',
+      answers: ['milkshake'],
+    },
+    {
+      question: 'gomba',
+      answers: ['mushroom'],
+    },
+    {
+      question: 'hagyma',
+      answers: ['onion'],
+    },
+    {
+      question: 'narancslé',
+      answers: ['orange juice'],
+    },
+    {
+      question: 'tészta',
+      answers: ['pasta'],
+    },
+    {
+      question: 'paprika',
+      answers: ['pepper'],
+    },
+    {
+      question: 'pite',
+      answers: ['pie'],
+    },
+    {
+      question: 'sertéshús',
+      answers: ['pork'],
+    },
+    {
+      question: 'burgonya',
+      answers: ['potato'],
+    },
+    {
+      question: 'rizs',
+      answers: ['rice'],
+    },
+    {
+      question: 'lazac',
+      answers: ['salmon'],
+    },
+    {
+      question: 'só',
+      answers: ['salt'],
+    },
+    {
+      question: 'mag nélküli mandarinfajta',
+      answers: ['satsuma'],
+    },
+    {
+      question: 'kolbász',
+      answers: ['sausage'],
+    },
+    {
+      question: 'leves',
+      answers: ['soup'],
+    },
+    {
+      question: 'bolognai spagetti',
+      answers: ['spaghetti bolognese'],
+    },
+    {
+      question: 'cukor',
+      answers: ['sugar'],
+    },
+    {
+      question: 'tea',
+      answers: ['tea'],
+    },
+    {
+      question: 'paradicsom',
+      answers: ['tomato'],
+    },
+    {
+      question: 'tonhal',
+      answers: ['tuna'],
+    },
+    {
+      question: 'zöldség',
+      answers: ['vegetable'],
+    },
+    {
+      question: 'bor',
+      answers: ['wine'],
+    },
+    {
+      question: 'joghurt',
+      answers: ['yoghurt'],
+    },
+    {
+      question: 'majdnem',
+      answers: ['almost'],
+    },
+    {
+      question: 'másik, még egy',
+      answers: ['another'],
+    },
+    {
+      question: 'üveg (palack)',
+      answers: ['bottle'],
+    },
+    {
+      question: 'visszahoz',
+      answers: ['bring back'],
+    },
+    {
+      question: 'visszajön',
+      answers: ['come back'],
+    },
+    {
+      question: 'felvág',
+      answers: ['cut up'],
+    },
+    {
+      question: 'finom',
+      answers: ['delicious'],
+    },
+    {
+      question: 'étrend',
+      answers: ['diet'],
+    },
+    {
+      question: 'hoz',
+      answers: ['fetch', 'bring'],
+    },
+    {
+      question: 'kiderít',
+      answers: ['find out'],
+    },
+    {
+      question: 'egészséges',
+      answers: ['healthy'],
+    },
+    {
+      question: 'kopog',
+      answers: ['knock'],
+    },
+    {
+      question: 'vekni, cipó',
+      answers: ['loaf'],
+    },
+    {
+      question: 'büvős',
+      answers: ['magic'],
+    },
+    {
+      question: 'átlagos',
+      answers: ['normal', 'average'],
+    },
+    {
+      question: 'kár',
+      answers: ['pity'],
+    },
+    {
+      question: 'kész',
+      answers: ['ready'],
+    },
+    {
+      question: '(nyeles) lábos',
+      answers: ['saucepan'],
+    },
+    {
+      question: 'szelet',
+      answers: ['slice'],
+    },
+    {
+      question: 'kanál',
+      answers: ['spoon'],
+    },
+    {
+      question: 'kő',
+      answers: ['stone'],
+    },
+    {
+      question: 'megkóstol',
+      answers: ['taste'],
+    },
+    {
+      question: 'csavargó',
+      answers: ['tramp'],
+    },
+    {
+      question: '(vajon) ...-e',
+      answers: ['whether'],
+    },
+    {
+      question: 'almalé',
+      answers: ['apple juice'],
+    },
+    {
+      question: 'Végre!',
+      answers: ['At last!'],
+    },
+    {
+      question: 'tábla (csokoládé)',
+      answers: ['bar'],
+    },
+    {
+      question: 'fürt',
+      answers: ['bunch'],
+    },
+    {
+      question: 'doboz (pl. tejes, joghurtos)',
+      answers: ['carton'],
+    },
+    {
+      question: 'gramm',
+      answers: ['gram'],
+    },
+    {
+      question: 'csomag',
+      answers: ['packet', 'parcel', 'package'],
+    },
+    {
+      question: 'doboz (általában kerek, műanyag, pl. joghurtos)',
+      answers: ['pot'],
+    },
+    {
+      question: 'mennyiség',
+      answers: ['quantity'],
+    },
+    {
+      question: 'polc',
+      answers: ['shelf'],
+    },
+    {
+      question: 'konzerv (doboz)',
+      answers: ['tin'],
+    },
+    {
+      question: 'aggódik',
+      answers: ['be worried', 'worried', 'worry'],
+    },
+    {
+      question: 'omlós almás sütemény',
+      answers: ['apple crumble'],
+    },
+    {
+      question: 'vízben fő',
+      answers: ['boil'],
+    },
+    {
+      question: 'beborít',
+      answers: ['cover'],
+    },
+    {
+      question: 'tál',
+      answers: ['bowl'],
+    },
+    {
+      question: 'fok',
+      answers: ['degree'],
+    },
+    {
+      question: 'edény, tál',
+      answers: ['dish'],
+    },
+    {
+      question: 'liszt',
+      answers: ['flour'],
+    },
+    {
+      question: 'zsírban süt',
+      answers: ['fry'],
+    },
+    {
+      question: 'serpenyő',
+      answers: ['frying pan'],
+    },
+    {
+      question: 'reszel',
+      answers: ['grate'],
+    },
+    {
+      question: 'grillsütő',
+      answers: ['grill'],
+    },
+    {
+      question: 'fele valaminek',
+      answers: ['half a', 'half an'],
+    },
+    {
+      question: 'hozzávaló',
+      answers: ['ingredient'],
+    },
+    {
+      question: 'margarin',
+      answers: ['margarine'],
+    },
+    {
+      question: 'megolvad',
+      answers: ['melt'],
+    },
+    {
+      question: 'összekever',
+      answers: ['mix'],
+    },
+    {
+      question: 'keverék',
+      answers: ['mixture'],
+    },
+    {
+      question: 'sütő',
+      answers: ['oven'],
+    },
+    {
+      question: 'borsó',
+      answers: ['peas'],
+    },
+    {
+      question: 'meghámoz',
+      answers: ['peel'],
+    },
+    {
+      question: 'hámozó',
+      answers: ['peeler'],
+    },
+    {
+      question: 'önt',
+      answers: ['pour'],
+    },
+    {
+      question: 'recept',
+      answers: ['recipe'],
+    },
+    {
+      question: 'szósz',
+      answers: ['sauce'],
+    },
+    {
+      question: 'tálal, felszolgál',
+      answers: ['serve'],
+    },
+    {
+      question: 'a maradék',
+      answers: ['the rest'],
+    },
+    {
+      question: 'pirítós',
+      answers: ['toast'],
+    },
+    {
+      question: 'ecet',
+      answers: ['vinegar'],
+    },
+    {
+      question: 'sajtos pirítós',
+      answers: ['welsh rarebit'],
+    },
+    {
+      question: 'körül',
+      answers: ['around'],
+    },
+    {
+      question: 'szalonna',
+      answers: ['bacon'],
+    },
+    {
+      question: 'sült bab',
+      answers: ['baked beans'],
+    },
+    {
+      question: 'étkezde',
+      answers: ['canteen'],
+    },
+    {
+      question: 'gabonapehely',
+      answers: ['cereal'],
+    },
+    {
+      question: 'curry',
+      answers: ['curry'],
+    },
+    {
+      question: 'sodó',
+      answers: ['custard'],
+    },
+    {
+      question: 'grépfrút',
+      answers: ['grapefruit'],
+    },
+    {
+      question: 'méz',
+      answers: ['honey'],
+    },
+    {
+      question: 'lekvár',
+      answers: ['jam'],
+    },
+    {
+      question: 'lasagne',
+      answers: ['lasagne'],
+    },
+    {
+      question: 'könnyű',
+      answers: ['light'],
+    },
+    {
+      question: 'főétel',
+      answers: ['main course'],
+    },
+    {
+      question: 'narancs- vagy citromlekvár',
+      answers: ['marmalade'],
+    },
+    {
+      question: 'dél',
+      answers: ['midday'],
+    },
+    {
+      question: 'manapság',
+      answers: ['nowadays'],
+    },
+    {
+      question: 'rizottó',
+      answers: ['risotto'],
+    },
+    {
+      question: 'mint például',
+      answers: ['such as'],
+    },
+    {
+      question: 'vacsora',
+      answers: ['supper'],
+    },
+    {
+      question: 'vegetáriánus',
+      answers: ['vegetarian'],
+    },
+    {
+      question: 'avokádó',
+      answers: ['avocado'],
+    },
+    {
+      question: 'aztékok',
+      answers: ['aztecs'],
+    },
+    {
+      question: 'hűvös',
+      answers: ['cool'],
+    },
+    {
+      question: 'termeszt',
+      answers: ['grow'],
+    },
+    {
+      question: 'nyelv (beszélt)',
+      answers: ['language'],
+    },
+    {
+      question: 'kukorica',
+      answers: ['maize', 'corn'],
+    },
+    {
+      question: 'mag',
+      answers: ['seed'],
+    },
+    {
+      question: 'elterjed',
+      answers: ['spread'],
+    },
+    {
+      question: 'csemege kukorica',
+      answers: ['sweet corn', 'sweercorn'],
+    },
+    {
+      question: 'nedves',
+      answers: ['wet'],
+    },
+    {
+      question: 'kör',
+      answers: ['circle'],
+    },
+    {
+      question: 'kivág',
+      answers: ['cut out'],
+    },
+    {
+      question: 'műanyag',
+      answers: ['plastic'],
+    },
+    {
+      question: 'rejtvény',
+      answers: ['puzzle'],
+    },
+    {
+      question: 'körbe',
+      answers: ['round'],
+    },
+    {
+      question: 'megkavar',
+      answers: ['stir'],
+    },
+    {
+      question: 'sztárszakács',
+      answers: ['celebrity chef'],
+    },
+    {
+      question: 'behelyettesít',
+      answers: ['replace'],
+    },
+    {
+      question: 'ragacsos',
+      answers: ['sticky'],
+    },
+    {
+      question: 'fényképet készít',
+      answers: ['take a photo'],
+    },
+    {
+      question: '(tej)karamella',
+      answers: ['toffee'],
+    },
+  ],
+};
