@@ -8,6 +8,7 @@ import {
   projectHolidays,
   projectIntro,
   projectMyLife,
+  projectTheWorld,
   unit1,
   unit2,
   unit3,
@@ -40,6 +41,7 @@ const units: Unit[] = [
   projectAnimals,
   projectHolidays,
   projectFood,
+  projectTheWorld,
 ];
 
 export const Settings: FC<SettingsProps> = ({ startGameWith }) => {

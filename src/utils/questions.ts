@@ -8417,3 +8417,533 @@ export const projectFood = {
     },
   ],
 };
+
+export const projectTheWorld = {
+  name: 'Project, The World',
+  questions: [
+    {
+      question: 'főváros',
+      answers: ['capital'],
+    },
+    {
+      question: 'tengerpart',
+      answers: ['coast', 'beach'],
+    },
+    {
+      question: 'mély',
+      answers: ['deep'],
+    },
+    {
+      question: 'millió',
+      answers: ['million'],
+    },
+    {
+      question: 'szörny',
+      answers: ['monster'],
+    },
+    {
+      question: 'széles',
+      answers: ['wide'],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: 'fa (anyag)',
+      answers: ['wood'],
+    },
+    {
+      question: 'híd',
+      answers: ['bridge'],
+    },
+    {
+      question: 'csatorna',
+      answers: ['channel'],
+    },
+    {
+      question: 'szikla, szirt',
+      answers: ['cliff'],
+    },
+    {
+      question: 'mező',
+      answers: ['field'],
+    },
+    {
+      question: 'erdő',
+      answers: ['forest'],
+    },
+    {
+      question: 'kikötő',
+      answers: ['harbour'],
+    },
+    {
+      question: 'domb, kisebb hegy',
+      answers: ['hill'],
+    },
+    {
+      question: 'sziget',
+      answers: ['island'],
+    },
+    {
+      question: 'tó',
+      answers: ['lake'],
+    },
+    {
+      question: 'autópálya',
+      answers: ['highway', 'motorway'],
+    },
+    {
+      question: 'hegy',
+      answers: ['mountain'],
+    },
+    {
+      question: 'erőmű',
+      answers: ['power station'],
+    },
+    {
+      question: 'folyó',
+      answers: ['river'],
+    },
+    {
+      question: 'tenger',
+      answers: ['sea'],
+    },
+    {
+      question: 'felhőkarcoló',
+      answers: ['skyscraper'],
+    },
+    {
+      question: 'alagút',
+      answers: ['tunnel'],
+    },
+    {
+      question: 'völgy',
+      answers: ['valley'],
+    },
+    {
+      question: 'zsúfolt',
+      answers: ['crowded'],
+    },
+    {
+      question: 'különbség',
+      answers: ['difference'],
+    },
+    {
+      question: 'nehéz (pl. probléma)',
+      answers: ['difficult'],
+    },
+    {
+      question: 'kelet',
+      answers: ['east'],
+    },
+    {
+      question: 'kivéve',
+      answers: ['except'],
+    },
+    {
+      question: 'dombos',
+      answers: ['hilly'],
+    },
+    {
+      question: 'alacsony, mélyen fekvő',
+      answers: ['low'],
+    },
+    {
+      question: 'észak',
+      answers: ['north'],
+    },
+    {
+      question: 'észak-nyugat',
+      answers: ['north-west'],
+    },
+    {
+      question: 'szabály',
+      answers: ['rule'],
+    },
+    {
+      question: 'évszak',
+      answers: ['season'],
+    },
+    {
+      question: 'dél',
+      answers: ['south'],
+    },
+    {
+      question: 'délkelet',
+      answers: ['south-east'],
+    },
+    {
+      question: 'nyugat',
+      answers: ['west'],
+    },
+    {
+      question: 'tegnap',
+      answers: ['yesterday'],
+    },
+    {
+      question: 'Felhős.',
+      answers: ["It's cloudy."],
+    },
+    {
+      question: 'Hideg van.',
+      answers: ["It's cold."],
+    },
+    {
+      question: 'Hűvös van.',
+      answers: ["It's cool."],
+    },
+    {
+      question: 'Száraz az idő.',
+      answers: ["It's dry."],
+    },
+    {
+      question: 'Szép az idő.',
+      answers: ["It's fine."],
+    },
+    {
+      question: 'Köd van.',
+      answers: ["It's foggy."],
+    },
+    {
+      question: 'Fagyos hideg van.',
+      answers: ["It's freezing.", "It's icy."],
+    },
+    {
+      question: 'Nagyon meleg van.',
+      answers: ["It's hot."],
+    },
+    {
+      question: 'Havazik.',
+      answers: ["It's snowing."],
+    },
+    {
+      question: 'Napos az idő.',
+      answers: ["It's sunny."],
+    },
+    {
+      question: 'Meleg van.',
+      answers: ["It's warm."],
+    },
+    {
+      question: 'Esős idő van.',
+      answers: ["It's wet.", "It's rainy."],
+    },
+    {
+      question: 'Fúj a szél.',
+      answers: ["It's windy."],
+    },
+    {
+      question: 'gepárd',
+      answers: ['cheetah'],
+    },
+    {
+      question: 'kulcsszó',
+      answers: ['clue'],
+    },
+    {
+      question: 'földrész',
+      answers: ['continent'],
+    },
+    {
+      question: 'arany',
+      answers: ['gold'],
+    },
+    {
+      question: 'vas',
+      answers: ['iron'],
+    },
+    {
+      question: 'ólom',
+      answers: ['lead'],
+    },
+    {
+      question: 'oroszlán',
+      answers: ['lion'],
+    },
+    {
+      question: 'fém',
+      answers: ['metal'],
+    },
+    {
+      question: 'strucc',
+      answers: ['ostrich'],
+    },
+    {
+      question: 'rekord',
+      answers: ['record'],
+    },
+    {
+      question: 'sportoló',
+      answers: ['sportsperson'],
+    },
+    {
+      question: 'terület',
+      answers: ['area'],
+    },
+    {
+      question: 'éppen olyan ... mint',
+      answers: ['as ... as'],
+    },
+    {
+      question: 'jobb',
+      answers: ['better'],
+    },
+    {
+      question: 'Óvakodj a ...-től',
+      answers: ['Beware of ...'],
+    },
+    {
+      question: 'bika',
+      answers: ['bull'],
+    },
+    {
+      question: 'leír',
+      answers: ['describe'],
+    },
+    {
+      question: 'toll (állaté)',
+      answers: ['feather'],
+    },
+    {
+      question: 'focicsapat',
+      answers: ['football team'],
+    },
+    {
+      question: 'tele (valamivel)',
+      answers: ['full (of)'],
+    },
+    {
+      question: 'sötétedik',
+      answers: ['get dark'],
+    },
+    {
+      question: 'útikönyv',
+      answers: ['guide', 'guidebook'],
+    },
+    {
+      question: 'jég',
+      answers: ['ice'],
+    },
+    {
+      question: 'villámlás',
+      answers: ['lightning'],
+    },
+    {
+      question: 'popzenekar',
+      answers: ['pop group'],
+    },
+    {
+      question: 'futó',
+      answers: ['runner'],
+    },
+    {
+      question: 'tábla',
+      answers: ['sign'],
+    },
+    {
+      question: 'horkol',
+      answers: ['snor'],
+    },
+    {
+      question: 'lefordít',
+      answers: ['translate'],
+    },
+    {
+      question: 'kilátás',
+      answers: ['view'],
+    },
+    {
+      question: 'rosszabb',
+      answers: ['worse'],
+    },
+    {
+      question: 'legrosszabb',
+      answers: ['worst'],
+    },
+    {
+      question: 'keresztül',
+      answers: ['across', 'through'],
+    },
+    {
+      question: 'grillezés a szabadban',
+      answers: ['barbecue'],
+    },
+    {
+      question: 'szeder',
+      answers: ['blackberry'],
+    },
+    {
+      question: 'harangvirág',
+      answers: ['bluebell'],
+    },
+    {
+      question: 'hűvös',
+      answers: ['cool', 'chilly'],
+    },
+    {
+      question: 'éghajlat',
+      answers: ['climate'],
+    },
+    {
+      question: 'felhő',
+      answers: ['cloud'],
+    },
+    {
+      question: 'bejön',
+      answers: ['come in'],
+    },
+    {
+      question: 'nárcisz',
+      answers: ['daffodil'],
+    },
+    {
+      question: 'keleti',
+      answers: ['eastern'],
+    },
+    {
+      question: 'ünnep, búcsú',
+      answers: ['fete'],
+    },
+    {
+      question: 'szénanátha',
+      answers: ['hayfever'],
+    },
+    {
+      question: 'hurrikán',
+      answers: ['hurricane'],
+    },
+    {
+      question: 'mondás, szólás',
+      answers: ['saying'],
+    },
+    {
+      question: 'zápor',
+      answers: ['shower'],
+    },
+    {
+      question: 'sportnap',
+      answers: ['sports day'],
+    },
+    {
+      question: 'vihar',
+      answers: ['storm'],
+    },
+    {
+      question: 'szövetségi',
+      answers: ['federal'],
+    },
+    {
+      question: 'zászló',
+      answers: ['flag'],
+    },
+    {
+      question: 'megalakít',
+      answers: ['form'],
+    },
+    {
+      question: 'Hawaii',
+      answers: ['Hawaii'],
+    },
+    {
+      question: 'eredeti',
+      answers: ['original'],
+    },
+    {
+      question: 'populáció, népesség',
+      answers: ['population'],
+    },
+    {
+      question: 'elnök',
+      answers: ['president'],
+    },
+    {
+      question: 'telepes',
+      answers: ['settler'],
+    },
+    {
+      question: 'csillag',
+      answers: ['star'],
+    },
+    {
+      question: 'állam',
+      answers: ['state'],
+    },
+    {
+      question: 'időzóna',
+      answers: ['time zone'],
+    },
+    {
+      question: 'egész',
+      answers: ['whole'],
+    },
+    {
+      question: 'unalmas',
+      answers: ['boring'],
+    },
+    {
+      question: 'repülőút, repülés',
+      answers: ['flight'],
+    },
+    {
+      question: 'amíg',
+      answers: ['as long as'],
+    },
+    {
+      question: 'lemásol',
+      answers: ['copy'],
+    },
+    {
+      question: 'letölt',
+      answers: ['download'],
+    },
+    {
+      question: 'tény',
+      answers: ['facts'],
+    },
+    {
+      question: 'információ',
+      answers: ['information'],
+    },
+    {
+      question: 'meghívás',
+      answers: ['invitation'],
+    },
+    {
+      question: 'Nem számít.',
+      answers: ["It doesn't matter."],
+    },
+    {
+      question: 'nevetés',
+      answers: ['laughing'],
+    },
+    {
+      question: 'nemzet',
+      answers: ['nation'],
+    },
+    {
+      question: 'bemutat',
+      answers: ['present'],
+    },
+    {
+      question: 'böngésző',
+      answers: ['browser'],
+    },
+    {
+      question: 'éneklés',
+      answers: ['singing'],
+    },
+    {
+      question: 'turizmus',
+      answers: ['tourism'],
+    },
+    {
+      question: 'honlap',
+      answers: ['website'],
+    },
+    {
+      question: 'szó',
+      answers: ['word'],
+    },
+  ],
+};
