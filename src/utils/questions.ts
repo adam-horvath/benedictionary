@@ -8899,7 +8899,7 @@ export const projectTheWorld = {
     },
     {
       question: 'tény',
-      answers: ['facts'],
+      answers: ['fact'],
     },
     {
       question: 'információ',
