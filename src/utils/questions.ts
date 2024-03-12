@@ -8446,10 +8446,6 @@ export const projectTheWorld = {
       answers: ['wide'],
     },
     {
-      question: '',
-      answers: [''],
-    },
-    {
       question: 'fa (anyag)',
       answers: ['wood'],
     },
