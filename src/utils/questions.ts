@@ -8943,3 +8943,707 @@ export const projectTheWorld = {
     },
   ],
 };
+
+export const project3Intro = {
+  name: 'Project 3, Introduction',
+  questions: [
+    {
+      question: 'megbeszélés',
+      answers: ['discussion'],
+    },
+    {
+      question: 'Tessék? Mit mondtál?',
+      answers: ['Pardon?'],
+    },
+    {
+      question: 'oké, értem',
+      answers: ['right'],
+    },
+    {
+      question: 'És mi van a ...-val?',
+      answers: ['What about ...?'],
+    },
+    {
+      question: 'És te?',
+      answers: ['What about you?'],
+    },
+    {
+      question: 'jelenleg',
+      answers: ['at the moment', 'currently'],
+    },
+    {
+      question: 'okos',
+      answers: ['clever'],
+    },
+    {
+      question: 'ügyfél',
+      answers: ['customer'],
+    },
+    {
+      question: 'kerékpároz',
+      answers: ['cycle', 'ride a bike'],
+    },
+    {
+      question: 'nyomozó',
+      answers: ['detective'],
+    },
+    {
+      question: 'gyémánt',
+      answers: ['diamond'],
+    },
+    {
+      question: 'mindennap',
+      answers: ['every day'],
+    },
+    {
+      question: 'minden évben',
+      answers: ['every year'],
+    },
+    {
+      question: 'visszaág',
+      answers: ['fight back'],
+    },
+    {
+      question: 'követ',
+      answers: ['follow'],
+    },
+    {
+      question: 'drágakő',
+      answers: ['jewel'],
+    },
+    {
+      question: 'maratoni futás',
+      answers: ['marathon'],
+    },
+    {
+      question: 'nyaklánc',
+      answers: ['necklace'],
+    },
+    {
+      question: 'valami mellett, szomszédságban',
+      answers: ['next door to'],
+    },
+    {
+      question: '-ból, -ből',
+      answers: ['from', 'out of'],
+    },
+    {
+      question: 'felhív telefonon',
+      answers: ['phone'],
+    },
+    {
+      question: 'magánnyomozó',
+      answers: ['private detective'],
+    },
+    {
+      question: 'rendszeresen',
+      answers: ['regularly'],
+    },
+    {
+      question: 'megjavít',
+      answers: ['repair'],
+    },
+    {
+      question: 'gyűrű',
+      answers: ['ring'],
+    },
+    {
+      question: 'csörög',
+      answers: ['ring'],
+    },
+    {
+      question: 'küld',
+      answers: ['send'],
+    },
+    {
+      question: 'kezet ráz',
+      answers: ['shake hands'],
+    },
+    {
+      question: 'cégtábla',
+      answers: ['sign'],
+    },
+    {
+      question: 'valaki',
+      answers: ['someone', 'somebody'],
+    },
+    {
+      question: 'tolvaj',
+      answers: ['thief'],
+    },
+    {
+      question: 'nos',
+      answers: ['well'],
+    },
+    {
+      question: 'Ki ez a férfi?',
+      answers: ["Who's that man?"],
+    },
+  ],
+};
+
+export const project3MyLife = {
+  name: 'Project 3, My Life',
+  questions: [
+    {
+      question: 'csodál',
+      answers: ['admire'],
+    },
+    {
+      question: 'városközpont',
+      answers: ['city centre'],
+    },
+    {
+      question: 'krimi',
+      answers: ['detective story'],
+    },
+    {
+      question: 'mindenki',
+      answers: ['everyone', 'everybody'],
+    },
+    {
+      question: 'visszamegy',
+      answers: ['go back'],
+    },
+    {
+      question: 'a múlt héten',
+      answers: ['last week'],
+    },
+    {
+      question: 'tavaly',
+      answers: ['last year'],
+    },
+    {
+      question: 'tag',
+      answers: ['member'],
+    },
+    {
+      question: 'hiányzik neki',
+      answers: ['miss'],
+    },
+    {
+      question: 'csintalan',
+      answers: ['naughty'],
+    },
+    {
+      question: 'északi részén',
+      answers: ['the north of'],
+    },
+    {
+      question: 'előnyben részesít, jobban szeret',
+      answers: ['prefer'],
+    },
+    {
+      question: 'emlékszik',
+      answers: ['remember'],
+    },
+    {
+      question: 'szakasz',
+      answers: ['stage'],
+    },
+    {
+      question: 'buszra száll',
+      answers: ['take the bus'],
+    },
+    {
+      question: 'dolog',
+      answers: ['thing'],
+    },
+    {
+      question: 'születik',
+      answers: ['be born'],
+    },
+    {
+      question: 'meghal',
+      answers: ['die'],
+    },
+    {
+      question: 'állást kap',
+      answers: ['get a job'],
+    },
+    {
+      question: 'megházasodik',
+      answers: ['get married'],
+    },
+    {
+      question: 'egyetemre megy',
+      answers: ['go to university'],
+    },
+    {
+      question: 'gyerekei vannak',
+      answers: ['have children'],
+    },
+    {
+      question: 'befejezi az iskolát',
+      answers: ['leave school'],
+    },
+    {
+      question: 'költözik',
+      answers: ['move', 'move house'],
+    },
+    {
+      question: 'elkezdi az iskolát',
+      answers: ['start school'],
+    },
+    {
+      question: 'egy kicsit',
+      answers: ['a bit'],
+    },
+    {
+      question: 'tevékenység',
+      answers: ['activity'],
+    },
+    {
+      question: 'elég jó',
+      answers: ['all right', 'fair', 'good enough'],
+    },
+    {
+      question: 'valamit mást',
+      answers: ['anything else'],
+    },
+    {
+      question: 'letartóztat',
+      answers: ['arrest'],
+    },
+    {
+      question: 'dolgozik, munkában van',
+      answers: ['at work'],
+    },
+    {
+      question: 'nincs otthon, távol van',
+      answers: ['be away'],
+    },
+    {
+      question: 'eltör',
+      answers: ['break'],
+    },
+    {
+      question: 'ügy, eset',
+      answers: ['case'],
+    },
+    {
+      question: 'hazajön',
+      answers: ['come home'],
+    },
+    {
+      question: 'remek',
+      answers: ['great', 'fantastic'],
+    },
+    {
+      question: 'influenza',
+      answers: ['flu'],
+    },
+    {
+      question: 'Milyen volt a ...?',
+      answers: ['How was ...?'],
+    },
+    {
+      question: 'zenei fesztivál',
+      answers: ['music festival'],
+    },
+    {
+      question: 'másnap',
+      answers: ['the next day'],
+    },
+    {
+      question: 'nem rossz',
+      answers: ['not bad'],
+    },
+    {
+      question: 'megold',
+      answers: ['solve'],
+    },
+    {
+      question: 'meglepetés',
+      answers: ['surprise'],
+    },
+    {
+      question: 'már',
+      answers: ['already'],
+    },
+    {
+      question: 'kihal',
+      answers: ['become extinct'],
+    },
+    {
+      question: 'gyermeket vár',
+      answers: ['be expecting a baby'],
+    },
+    {
+      question: 'cég',
+      answers: ['company'],
+    },
+    {
+      question: 'legidősebb',
+      answers: ['eldest'],
+    },
+    {
+      question: 'gyár',
+      answers: ['factory'],
+    },
+    {
+      question: '(futball) mez',
+      answers: ['football shirt'],
+    },
+    {
+      question: 'ügyvezető',
+      answers: ['manager'],
+    },
+    {
+      question: 'házas',
+      answers: ['married'],
+    },
+    {
+      question: 'idősebb',
+      answers: ['older'],
+    },
+    {
+      question: 'egyke',
+      answers: ['only child'],
+    },
+    {
+      question: 'saját',
+      answers: ['own'],
+    },
+    {
+      question: 'kapcsolat',
+      answers: ['relationship'],
+    },
+    {
+      question: 'nyugdíjba megy, visszavonul',
+      answers: ['retire'],
+    },
+    {
+      question: 'szerepet cserél',
+      answers: ['reverse roles'],
+    },
+    {
+      question: 'egyedülálló',
+      answers: ['single'],
+    },
+    {
+      question: 'tanul',
+      answers: ['learn', 'study'],
+    },
+    {
+      question: 'iker',
+      answers: ['twin'],
+    },
+    {
+      question: 'fiatalabb',
+      answers: ['younger'],
+    },
+    {
+      question: 'a legfiatalabb',
+      answers: ['youngest', 'the youngest'],
+    },
+    {
+      question: 'elfogad',
+      answers: ['accept'],
+    },
+    {
+      question: 'végül is',
+      answers: ['after all'],
+    },
+    {
+      question: 'erről jut eszembe...',
+      answers: ['By the way, ...'],
+    },
+    {
+      question: 'Van kedved ...?',
+      answers: ['Do you fancy ...?', 'Would you like to ...?'],
+    },
+    {
+      question: 'minden',
+      answers: ['everything'],
+    },
+    {
+      question: 'fociedzés',
+      answers: ['football practice', 'football training'],
+    },
+    {
+      question: 'gördeszkázik',
+      answers: ['go skateboarding'],
+    },
+    {
+      question: 'nehéz',
+      answers: ['hard', 'heavy', 'difficult'],
+    },
+    {
+      question: 'Szeretnék.',
+      answers: ['I would like to.', "I'd like to.", 'I would love to.', "I'd love to."],
+    },
+    {
+      question: 'nagyon sok',
+      answers: ['loads of', 'a lot of'],
+    },
+    {
+      question: 'Örülök, hogy megismerhetlek.',
+      answers: ['Nice to meet you.'],
+    },
+    {
+      question: 'zongoraóra',
+      answers: ['piano lesson'],
+    },
+    {
+      question: 'visszautasít',
+      answers: ['reject', 'refuse'],
+    },
+    {
+      question: 'Persze.',
+      answers: ['Sure.', 'Of course.'],
+    },
+    {
+      question: 'Köszönöm.',
+      answers: ['Thank you.', 'Thanks.'],
+    },
+    {
+      question: 'kempingezés, sátorozás',
+      answers: ['camping'],
+    },
+    {
+      question: 'kenuzás',
+      answers: ['canoeing'],
+    },
+    {
+      question: 'főzés',
+      answers: ['cooking'],
+    },
+    {
+      question: 'tánc',
+      answers: ['dancing'],
+    },
+    {
+      question: 'hegyi kerékpározás',
+      answers: ['mountain biking'],
+    },
+    {
+      question: 'kosárlabdázás',
+      answers: ['playing basketball'],
+    },
+    {
+      question: 'jégkorongozás',
+      answers: ['playing ice hockey'],
+    },
+    {
+      question: 'zongorázás',
+      answers: ['playing the piano'],
+    },
+    {
+      question: 'görkorcsolyázás',
+      answers: ['rollerblading'],
+    },
+    {
+      question: 'futás',
+      answers: ['running'],
+    },
+    {
+      question: 'síelés',
+      answers: ['skiing'],
+    },
+    {
+      question: 'fényképezés',
+      answers: ['taking photos', 'taking photographs'],
+    },
+    {
+      question: 'válás',
+      answers: ['divorce'],
+    },
+    {
+      question: 'szülőváros',
+      answers: ['home town'],
+    },
+    {
+      question: 'elköltözik',
+      answers: ['move away'],
+    },
+    {
+      question: 'kiköltözik',
+      answers: ['move out'],
+    },
+    {
+      question: 'nagyi, nagymama',
+      answers: ['Nana', 'grandma', 'grandmother', 'granny'],
+    },
+    {
+      question: 'idősek otthona',
+      answers: ["old people's home"],
+    },
+    {
+      question: 'közösen használ, megoszt',
+      answers: ['share'],
+    },
+    {
+      question: 'egyszülős, csonka család',
+      answers: ['single-parent family'],
+    },
+    {
+      question: 'mostohatestvér',
+      answers: ['stepbrother', 'stepsister'],
+    },
+    {
+      question: 'mostohaszülő',
+      answers: ['step-parent'],
+    },
+    {
+      question: 'át',
+      answers: ['across', 'through'],
+    },
+    {
+      question: 'ős',
+      answers: ['ancestor'],
+    },
+    {
+      question: 'földrész',
+      answers: ['continent'],
+    },
+    {
+      question: 'átmegy',
+      answers: ['cross into'],
+    },
+    {
+      question: 'alatt (időben)',
+      answers: ['during'],
+    },
+    {
+      question: 'a Föld',
+      answers: ['the Earth'],
+    },
+    {
+      question: 'kihalt',
+      answers: ['extinct'],
+    },
+    {
+      question: 'mélyebbre, tovább a belsejébe',
+      answers: ['further into'],
+    },
+    {
+      question: 'hatalmas',
+      answers: ['huge'],
+    },
+    {
+      question: 'jégkorszak',
+      answers: ['ice age'],
+    },
+    {
+      question: 'elképzel',
+      answers: ['imagine'],
+    },
+    {
+      question: 'földnyelv',
+      answers: ['land bridge'],
+    },
+    {
+      question: 'szint',
+      answers: ['level'],
+    },
+    {
+      question: 'mamut',
+      answers: ['mammoth'],
+    },
+    {
+      question: 'vándorol, költözik',
+      answers: ['migrate'],
+    },
+    {
+      question: 'népvándorlás',
+      answers: ['migration'],
+    },
+    {
+      question: 'neandervölgyi',
+      answers: ['Neanderthal'],
+    },
+    {
+      question: 'sok',
+      answers: ['a lot', 'plenty of', 'a lot of', 'many', 'much'],
+    },
+    {
+      question: 'megemelkedik',
+      answers: ['raise'],
+    },
+    {
+      question: 'útvonal',
+      answers: ['route'],
+    },
+    {
+      question: 'sekély',
+      answers: ['shallow'],
+    },
+    {
+      question: 'Szibéria',
+      answers: ['Siberia'],
+    },
+    {
+      question: 'dél',
+      answers: ['south'],
+    },
+    {
+      question: 'ezrei',
+      answers: ['thousands of'],
+    },
+    {
+      question: 'idővonal',
+      answers: ['timeline'],
+    },
+    {
+      question: 'gyapjas orrszarvú',
+      answers: ['woolly rhinoceros'],
+    },
+    {
+      question: 'egy pár',
+      answers: ['a pair of'],
+    },
+    {
+      question: 'megengedett',
+      answers: ['allowed'],
+    },
+    {
+      question: 'tömeg',
+      answers: ['mass', 'crowd'],
+    },
+    {
+      question: 'fejleszt',
+      answers: ['improve', 'develop'],
+    },
+    {
+      question: 'kitalált',
+      answers: ['fictional'],
+    },
+    {
+      question: 'késlekedik',
+      answers: ['hang around'],
+    },
+    {
+      question: 'kivasal',
+      answers: ['iron'],
+    },
+    {
+      question: 'élettörténet',
+      answers: ['life story'],
+    },
+    {
+      question: 'fő',
+      answers: ['main'],
+    },
+    {
+      question: 'rendetlenség',
+      answers: ['mess'],
+    },
+    {
+      question: 'eredmény',
+      answers: ['result'],
+    },
+    {
+      question: 'megmutat',
+      answers: ['show'],
+    },
+    {
+      question: 'sóhajt',
+      answers: ['sigh'],
+    },
+    {
+      question: 'lelassít',
+      answers: ['slow down'],
+    },
+  ],
+};
