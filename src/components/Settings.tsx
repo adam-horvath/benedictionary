@@ -1,6 +1,8 @@
+import { ChangeEvent, FC, useState } from 'react';
+
 import { NUMBER_OF_QUESTIONS } from 'config/Constants';
 import { Question, Unit } from 'models';
-import { ChangeEvent, FC, useState } from 'react';
+import { meineSprache } from 'utils/fragen';
 import {
   introduction,
   project3Intro,
@@ -28,7 +30,7 @@ export interface SettingsProps {
   startGameWith: (questions: Question[]) => void;
 }
 
-const units: Unit[] = [
+const englishUnits: Unit[] = [
   youngExplorers1,
   youngExplorers2,
   introduction,
@@ -48,13 +50,18 @@ const units: Unit[] = [
   project3MyLife,
 ];
 
+const deutschLektionen: Unit[] = [meineSprache];
+
 export const Settings: FC<SettingsProps> = ({ startGameWith }) => {
-  const [includeds, setIncludeds] = useState<boolean[]>(units.map((_) => false));
+  const [includeds, setIncludeds] = useState<boolean[]>(englishUnits.map(() => false));
   const [allSelected, setAllSelected] = useState<boolean>(false);
 
-  const startGame = () => {
+  const [gehalt, setGehalt] = useState<boolean[]>(deutschLektionen.map(() => false));
+  const [alleGewahlt, setAlleGewahlt] = useState<boolean>(false);
+
+  const startGame = (whichIncludeds: boolean[], units: Unit[]) => {
     const questions: Question[] = [];
-    includeds.forEach((included, index) => {
+    whichIncludeds.forEach((included, index) => {
       if (included) {
         questions.push(...units[index].questions);
       }
@@ -74,34 +81,62 @@ export const Settings: FC<SettingsProps> = ({ startGameWith }) => {
     startGameWith(result);
   };
 
-  const handleChange = (index: number, checked: boolean) => {
+  const handleEnglishChange = (index: number, checked: boolean) => {
     const newIncludeds = [...includeds];
     newIncludeds[index] = checked;
     setIncludeds(newIncludeds);
   };
 
+  const handleDeutschChange = (index: number, checked: boolean) => {
+    const newGehalt = [...gehalt];
+    newGehalt[index] = checked;
+    setGehalt(newGehalt);
+  };
+
   return (
     <div className={classes.SettingsContainer}>
-      <h1>Melyik leckéket szeretnéd gyakorolni?</h1>
+      <h1>Melyik angol leckéket szeretnéd gyakorolni?</h1>
       <div className={classes.CheckboxContainer}>
-        {units.map((unit, index) => (
+        {englishUnits.map((unit, index) => (
           <Checkbox
             key={unit.name}
             label={unit.name}
-            onChange={(event: ChangeEvent<HTMLInputElement>) => handleChange(index, event.currentTarget.checked)}
+            onChange={(event: ChangeEvent<HTMLInputElement>) => handleEnglishChange(index, event.currentTarget.checked)}
             checked={includeds[index]}
           />
         ))}
         <Checkbox
           label={'Mind'}
           onChange={(event: ChangeEvent<HTMLInputElement>) => {
-            setIncludeds(units.map((_) => event.currentTarget.checked));
+            setIncludeds(englishUnits.map((_) => event.currentTarget.checked));
             setAllSelected(event.currentTarget.checked);
           }}
           checked={allSelected}
         />
       </div>
-      <button onClick={startGame}>Start</button>
+      <button style={{ marginBottom: 40 }} onClick={() => startGame(includeds, englishUnits)}>
+        Start
+      </button>
+      <h1>Melyik német leckéket szeretnéd gyakorolni?</h1>
+      <div className={classes.CheckboxContainer}>
+        {deutschLektionen.map((unit, index) => (
+          <Checkbox
+            key={unit.name}
+            label={unit.name}
+            onChange={(event: ChangeEvent<HTMLInputElement>) => handleDeutschChange(index, event.currentTarget.checked)}
+            checked={gehalt[index]}
+          />
+        ))}
+        <Checkbox
+          label={'Mind'}
+          onChange={(event: ChangeEvent<HTMLInputElement>) => {
+            setGehalt(deutschLektionen.map((_) => event.currentTarget.checked));
+            setAlleGewahlt(event.currentTarget.checked);
+          }}
+          checked={alleGewahlt}
+        />
+      </div>
+      <button onClick={() => startGame(gehalt, deutschLektionen)}>Start</button>
     </div>
   );
 };
