@@ -3,6 +3,10 @@
   margin: 0 auto;
   max-width: 800px;
 
+  button {
+    margin-bottom: 40px;
+  }
+
   @media screen and (max-width: 992px) {
     max-width: 70%;
   }

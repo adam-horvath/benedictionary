@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/benedictionary/static/css/main.63e3c2d6.css",
-    "main.js": "/benedictionary/static/js/main.03c66652.js",
+    "main.css": "/benedictionary/static/css/main.a0e74add.css",
+    "main.js": "/benedictionary/static/js/main.b1cd317a.js",
     "static/js/787.54de4904.chunk.js": "/benedictionary/static/js/787.54de4904.chunk.js",
     "static/media/bad.png": "/benedictionary/static/media/bad.e9f27f906babd49c4418.png",
     "static/media/good.png": "/benedictionary/static/media/good.4fa783b9057301ca1eb2.png",
     "index.html": "/benedictionary/index.html",
-    "main.63e3c2d6.css.map": "/benedictionary/static/css/main.63e3c2d6.css.map",
-    "main.03c66652.js.map": "/benedictionary/static/js/main.03c66652.js.map",
+    "main.a0e74add.css.map": "/benedictionary/static/css/main.a0e74add.css.map",
+    "main.b1cd317a.js.map": "/benedictionary/static/js/main.b1cd317a.js.map",
     "787.54de4904.chunk.js.map": "/benedictionary/static/js/787.54de4904.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63e3c2d6.css",
-    "static/js/main.03c66652.js"
+    "static/css/main.a0e74add.css",
+    "static/js/main.b1cd317a.js"
   ]
 }

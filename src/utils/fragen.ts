@@ -147,7 +147,7 @@ export const meineSprache = {
     },
     {
       question: 'póló',
-      answers: ['s T-shirt'],
+      answers: ['s T-Shirt'],
     },
     {
       question: 'baseballsapka',

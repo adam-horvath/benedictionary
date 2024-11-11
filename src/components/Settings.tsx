@@ -114,7 +114,7 @@ export const Settings: FC<SettingsProps> = ({ startGameWith }) => {
           checked={allSelected}
         />
       </div>
-      <button style={{ marginBottom: 40 }} onClick={() => startGame(includeds, englishUnits)}>
+      <button onClick={() => startGame(includeds, englishUnits)}>
         Start
       </button>
       <h1>Melyik német leckéket szeretnéd gyakorolni?</h1>
