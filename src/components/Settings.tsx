@@ -13,6 +13,7 @@ import {
   projectIntro,
   projectMyLife,
   projectTheWorld,
+  project3TheFuture,
   unit1,
   unit2,
   unit3,
@@ -48,6 +49,7 @@ const englishUnits: Unit[] = [
   projectTheWorld,
   project3Intro,
   project3MyLife,
+  project3TheFuture,
 ];
 
 const deutschLektionen: Unit[] = [meineSprache];
@@ -114,9 +116,7 @@ export const Settings: FC<SettingsProps> = ({ startGameWith }) => {
           checked={allSelected}
         />
       </div>
-      <button onClick={() => startGame(includeds, englishUnits)}>
-        Start
-      </button>
+      <button onClick={() => startGame(includeds, englishUnits)}>Start</button>
       <h1>Melyik német leckéket szeretnéd gyakorolni?</h1>
       <div className={classes.CheckboxContainer}>
         {deutschLektionen.map((unit, index) => (

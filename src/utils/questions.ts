@@ -9000,7 +9000,7 @@ export const project3Intro = {
       answers: ['every year'],
     },
     {
-      question: 'visszaág',
+      question: 'visszavág',
       answers: ['fight back'],
     },
     {
@@ -9644,6 +9644,600 @@ export const project3MyLife = {
     {
       question: 'lelassít',
       answers: ['slow down'],
+    },
+  ],
+};
+
+export const project3TheFuture = {
+  name: 'Project 3, The future',
+  questions: [
+    {
+      question: 'körül',
+      answers: ['around'],
+    },
+    {
+      question: 'űrhajós',
+      answers: ['astronaut', 'spaceman'],
+    },
+    {
+      question: 'agy',
+      answers: ['brain'],
+    },
+    {
+      question: 'addigra',
+      answers: ['by then'],
+    },
+    {
+      question: 'mellkas',
+      answers: ['chest'],
+    },
+    {
+      question: 'Szuper!',
+      answers: ['Cool!'],
+    },
+    {
+      question: 'egyértelműen',
+      answers: ['definitely'],
+    },
+    {
+      question: 'elektromos',
+      answers: ['electric'],
+    },
+    {
+      question: 'elég',
+      answers: ['enough'],
+    },
+    {
+      question: 'magunknak',
+      answers: ['for ourselves'],
+    },
+    {
+      question: 'jövő',
+      answers: ['future'],
+    },
+    {
+      question: 'megöregszik',
+      answers: ['grow old'],
+    },
+    {
+      question: 'emberi faj',
+      answers: ['human race'],
+    },
+    {
+      question: 'nem vesz tudomást',
+      answers: ['ignore'],
+    },
+    {
+      question: 'legújabb',
+      answers: ['latest'],
+    },
+    {
+      question: 'fényév',
+      answers: ['light year'],
+    },
+    {
+      question: 'motor',
+      answers: ['motor'],
+    },
+    {
+      question: 'hír',
+      answers: ['news'],
+    },
+    {
+      question: 'Szilveszter este',
+      answers: ["New Year's Eve"],
+    },
+    {
+      question: 'pálya (égitesté)',
+      answers: ['orbit'],
+    },
+    {
+      question: 'felvesz',
+      answers: ['pick up'],
+    },
+    {
+      question: 'bolygó',
+      answers: ['planet'],
+    },
+    {
+      question: 'versenyez',
+      answers: ['race'],
+    },
+    {
+      question: 'jelentés',
+      answers: ['report'],
+    },
+    {
+      question: 'rakéta',
+      answers: ['rocket'],
+    },
+    {
+      question: 'űr',
+      answers: ['space'],
+    },
+    {
+      question: 'űrhajó',
+      answers: ['spaceship'],
+    },
+    {
+      question: 'űrállomás',
+      answers: ['space station'],
+    },
+    {
+      question: 'csillag',
+      answers: ['star'],
+    },
+    {
+      question: 'hibernálás',
+      answers: ['suspended animation'],
+    },
+    {
+      question: 'holnap',
+      answers: ['tomorrow'],
+    },
+    {
+      question: 'utazó',
+      answers: ['traveller'],
+    },
+    {
+      question: 'megfordul',
+      answers: ['turn around'],
+    },
+    {
+      question: 'Tyűha! Nahát!',
+      answers: ['Wow!'],
+    },
+    {
+      question: 'dij',
+      answers: ['award'],
+    },
+    {
+      question: 'döntés',
+      answers: ['decision'],
+    },
+    {
+      question: 'elmosogat',
+      answers: ['do the washing-up'],
+    },
+    {
+      question: 'talál',
+      answers: ['find'],
+    },
+    {
+      question: 'azonnali',
+      answers: ['immediate'],
+    },
+    {
+      question: 'Te jössz.',
+      answers: ["It's your turn"],
+    },
+    {
+      question: 'féltékeny',
+      answers: ['jealous'],
+    },
+    {
+      question: 'felvesz, rögzít',
+      answers: ['record'],
+    },
+    {
+      question: 'rablás',
+      answers: ['robbery'],
+    },
+    {
+      question: 'biztos',
+      answers: ['sure'],
+    },
+    {
+      question: 'SMS-t küld',
+      answers: ['text'],
+    },
+    {
+      question: 'megnyer',
+      answers: ['win'],
+    },
+    {
+      question: 'aggódik',
+      answers: ['worry'],
+    },
+    {
+      question: 'repülőgép',
+      answers: ['airplane', 'aeroplane'],
+    },
+    {
+      question: 'földönkívüli (lény)',
+      answers: ['alien'],
+    },
+    {
+      question: 'éghajlat',
+      answers: ['climate'],
+    },
+    {
+      question: 'meggyógyít',
+      answers: ['cure'],
+    },
+    {
+      question: 'betegség',
+      answers: ['disease'],
+    },
+    {
+      question: 'valaha',
+      answers: ['ever'],
+    },
+    {
+      question: 'harcol',
+      answers: ['fight'],
+    },
+    {
+      question: 'jóképű',
+      answers: ['good-looking'],
+    },
+    {
+      question: 'ideális, eszményi',
+      answers: ['ideal'],
+    },
+    {
+      question: 'intelligens, értelmes',
+      answers: ['intelligent'],
+    },
+    {
+      question: 'élet (tartam)',
+      answers: ['lifetime'],
+    },
+    {
+      question: 'Mars',
+      answers: ['Mars'],
+    },
+    {
+      question: 'nemzeti',
+      answers: ['national'],
+    },
+    {
+      question: 'már egyáltalán nem',
+      answers: ['no more'],
+    },
+    {
+      question: 'a szabadban',
+      answers: ['outdoors'],
+    },
+    {
+      question: 'benzin',
+      answers: ['petrol'],
+    },
+    {
+      question: 'jóslat',
+      answers: ['prediction'],
+    },
+    {
+      question: 'kérdőív',
+      answers: ['questionnaire'],
+    },
+    {
+      question: 'rekord',
+      answers: ['record'],
+    },
+    {
+      question: 'tudós',
+      answers: ['scientist'],
+    },
+    {
+      question: 'háború',
+      answers: ['war'],
+    },
+    {
+      question: 'Milyen lesz ...?',
+      answers: ['What will ... be like?'],
+    },
+    {
+      question: 'hisz',
+      answers: ['believe'],
+    },
+    {
+      question: 'kölcsönvesz',
+      answers: ['borrow'],
+    },
+    {
+      question: 'kötélugrás',
+      answers: ['bungee jump'],
+    },
+    {
+      question: 'Nem tud jönni.',
+      answers: ['Ha can\'t make it.'],
+    },
+    {
+      question: 'Akkor most ...',
+      answers: ['Here goes ...'],
+    },
+    {
+      question: 'szándékozik',
+      answers: ['intend'],
+    },
+    {
+      question: 'szándék',
+      answers: ['intention', 'intent'],
+    },
+    {
+      question: 'nagyon vár valamit',
+      answers: ['look forward to'],
+    },
+    {
+      question: 'ajánlatot tesz',
+      answers: ['make an offer'],
+    },
+    {
+      question: 'lassú (zene)szám',
+      answers: ['slow number'],
+    },
+    {
+      question: 'kifejezi a szándékát',
+      answers: ['state an intention'],
+    },
+    {
+      question: 'dolgozat',
+      answers: ['test'],
+    },
+    {
+      question: 'szomjas',
+      answers: ['thirsty'],
+    },
+    {
+      question: 'nélkül',
+      answers: ['without'],
+    },
+    {
+      question: 'Viccelsz!',
+      answers: ['You\'re kidding!'],
+    },
+    {
+      question: 'megközelítőleg',
+      answers: ['approximately'],
+    },
+    {
+      question: 'Belgium',
+      answers: ['Belgium'],
+    },
+    {
+      question: 'óvatos',
+      answers: ['careful', 'cautious'],
+    },
+    {
+      question: 'központi',
+      answers: ['central'],
+    },
+    {
+      question: 'Csatorna-alagút (Csalagút)',
+      answers: ['the Channel Tunnel'],
+    },
+    {
+      question: 'távolsági busz',
+      answers: ['coach'],
+    },
+    {
+      question: 'kerékpáros riksa',
+      answers: ['cycle rickshaw'],
+    },
+    {
+      question: 'úticél',
+      answers: ['destination'],
+    },
+    {
+      question: 'távolság',
+      answers: ['distance'],
+    },
+    {
+      question: 'emeletes busz',
+      answers: ['double-decker'],
+    },
+    {
+      question: 'vezető, sofőr',
+      answers: ['driver'],
+    },
+    {
+      question: 'ingyenes',
+      answers: ['free'],
+    },
+    {
+      question: 'leszáll',
+      answers: ['land'],
+    },
+    {
+      question: 'mesterséges',
+      answers: ['man-made'],
+    },
+    {
+      question: 'mérföld',
+      answers: ['mile'],
+    },
+    {
+      question: 'mérföld per óra',
+      answers: ['miles per hour'],
+    },
+    {
+      question: 'a bal oldalon',
+      answers: ['on the left'],
+    },
+    {
+      question: 'a jobb oldalon',
+      answers: ['on the right'],
+    },
+    {
+      question: 'körgyűrű',
+      answers: ['ring road'],
+    },
+    {
+      question: 'másodperc',
+      answers: ['second'],
+    },
+    {
+      question: 'sebesség',
+      answers: ['speed'],
+    },
+    {
+      question: 'kormány',
+      answers: ['steering wheel'],
+    },
+    {
+      question: 'felszáll',
+      answers: ['take off'],
+    },
+    {
+      question: 'úthasználati díj',
+      answers: ['toll'],
+    },
+    {
+      question: 'forgalom',
+      answers: ['traffic'],
+    },
+    {
+      question: 'a londoni metró egyik elnevezése (a cső)',
+      answers: ['the Tube'],
+    },
+    {
+      question: 'nyugat',
+      answers: ['the west'],
+    },
+    {
+      question: 'a londoni metró (földalatti)',
+      answers: ['the Underground'],
+    },
+    {
+      question: 'jármű',
+      answers: ['vehicle'],
+    },
+    {
+      question: 'légkör',
+      answers: ['atmosphere'],
+    },
+    {
+      question: 'milliárd',
+      answers: ['billion'],
+    },
+    {
+      question: 'középpont',
+      answers: ['centre'],
+    },
+    {
+      question: 'Celsius-fok',
+      answers: ['degrees Celsius'],
+    },
+    {
+      question: 'átmérő',
+      answers: ['diameter'],
+    },
+    {
+      question: 'csökken, leesik',
+      answers: ['fall'],
+    },
+    {
+      question: 'legtávolabbi',
+      answers: ['furthest'],
+    },
+    {
+      question: 'csillagrendszer',
+      answers: ['galaxy'],
+    },
+    {
+      question: 'gáz',
+      answers: ['gas'],
+    },
+    {
+      question: 'Jupiter',
+      answers: ['Jupiter'],
+    },
+    {
+      question: 'Merkúr',
+      answers: ['Mercury'],
+    },
+    {
+      question: 'Tejút',
+      answers: ['Milky Way'],
+    },
+    {
+      question: 'Neptunusz',
+      answers: ['Neptune'],
+    },
+    {
+      question: 'Plútó',
+      answers: ['Pluto'],
+    },
+    {
+      question: 'valószínűleg',
+      answers: ['possibly'],
+    },
+    {
+      question: 'Szaturnusz',
+      answers: ['Saturn'],
+    },
+    {
+      question: 'naprendszer',
+      answers: ['solar system'],
+    },
+    {
+      question: 'folt',
+      answers: ['spot'],
+    },
+    {
+      question: 'felszín',
+      answers: ['surface'],
+    },
+    {
+      question: 'hőmérséklet',
+      answers: ['temperature'],
+    },
+    {
+      question: 'Uránusz',
+      answers: ['Uranus'],
+    },
+    {
+      question: 'Vénusz',
+      answers: ['Venus'],
+    },
+    {
+      question: 'berendez, elrendez',
+      answers: ['arrange'],
+    },
+    {
+      question: 'kitakarít, rendbe rak',
+      answers: ['clear up'],
+    },
+    {
+      question: 'bumm',
+      answers: ['bang'],
+    },
+    {
+      question: 'törödik vele',
+      answers: ['care'],
+    },
+    {
+      question: 'sors, végzet',
+      answers: ['destiny'],
+    },
+    {
+      question: 'nevelés, oktatás',
+      answers: ['education'],
+    },
+    {
+      question: 'sem',
+      answers: ['either'],
+    },
+    {
+      question: 'rendszerint',
+      answers: ['normally'],
+    },
+    {
+      question: 'biztonságban, biztonságosan',
+      answers: ['safely'],
+    },
+    {
+      question: 'lő',
+      answers: ['shoot'],
+    },
+    {
+      question: 'énekes',
+      answers: ['singer'],
+    },
+    {
+      question: 'felmérés',
+      answers: ['survey'],
     },
   ],
 };
