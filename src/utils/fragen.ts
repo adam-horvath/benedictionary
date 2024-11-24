@@ -1,5 +1,159 @@
-export const meineSprache = {
-  name: 'Meine Sprache',
+export const a2Lektion1 = {
+  name: 'A2 Lektion 1',
+  questions: [
+    {
+      question: 'tanítás, oktatás',
+      answers: ['r Unterricht'],
+    },
+    {
+      question: 'focizni',
+      answers: ['Fußball spielen', 'Fussball spielen'],
+    },
+    {
+      question: 'tanulni',
+      answers: ['lernen'],
+    },
+    {
+      question: 'énekelni',
+      answers: ['singen'],
+    },
+    {
+      question: 'olvasni',
+      answers: ['lesen'],
+    },
+    {
+      question: 'barkácsolni',
+      answers: ['basteln'],
+    },
+    {
+      question: 'számolni',
+      answers: ['rechnen'],
+    },
+    {
+      question: 'tornázni',
+      answers: ['turnen'],
+    },
+    {
+      question: 'rajzolni',
+      answers: ['zeichnen'],
+    },
+    {
+      question: 'írni',
+      answers: ['schreiben'],
+    },
+    {
+      question: 'festeni',
+      answers: ['malen'],
+    },
+    {
+      question: 'szívesen',
+      answers: ['gern'],
+    },
+    {
+      question: 'szomorú',
+      answers: ['traurig'],
+    },
+    {
+      question: 'Magyarország',
+      answers: ['Ungarn'],
+    },
+    {
+      question: 'Németország',
+      answers: ['Deutschland'],
+    },
+    {
+      question: 'Ausztria',
+      answers: ['Österreich'],
+    },
+    {
+      question: 'Svájc',
+      answers: ['e Schweiz'],
+    },
+    {
+      question: 'nagyon jó',
+      answers: ['sehr gut'],
+    },
+    {
+      question: 'jó',
+      answers: ['gut'],
+    },
+    {
+      question: 'elégséges',
+      answers: ['befriedigend', 'genügend'],
+    },
+    {
+      question: 'elégtelen',
+      answers: ['ungenügend'],
+    },
+    {
+      question: 'megfelelő',
+      answers: ['ausreichend'],
+    },
+    {
+      question: 'hiányos',
+      answers: ['mangelhaft'],
+    },
+    {
+      question: 'rossz',
+      answers: ['schlecht'],
+    },
+    {
+      question: 'ismételni',
+      answers: ['wiederholen'],
+    },
+    {
+      question: 'párban',
+      answers: ['zu zweit'],
+    },
+    {
+      question: 'jönni',
+      answers: ['kommen'],
+    },
+    {
+      question: 'kinyitni',
+      answers: ['aufmachen'],
+    },
+    {
+      question: 'becsukni',
+      answers: ['zumachen'],
+    },
+    {
+      question: 'fogoly',
+      answers: ['r Sperling'],
+    },
+    {
+      question: 'iskolaudvar',
+      answers: ['r Schulhof'],
+    },
+    {
+      question: 'csodálkozni',
+      answers: ['erstaunen'],
+    },
+    {
+      question: 'szünet',
+      answers: ['e Pause'],
+    },
+    {
+      question: 'osztályterem',
+      answers: ['s Klassenzimmer'],
+    },
+    {
+      question: 'letörölni a táblát',
+      answers: ['e Tafel abwischen'],
+    },
+    {
+      question: 'felírni a házi feladatot',
+      answers: ['e Hausaufgabe abschreiben'],
+    },
+    {
+      question: 'fogócskázni',
+      answers: ['Fangen spielen'],
+    },
+  ],
+};
+
+export const a2Lektion2 = {
+  name: 'A2 Lektion 2',
   questions: [
     {
       question: 'sportfajták',
@@ -164,6 +318,120 @@ export const meineSprache = {
     {
       question: 'tarka',
       answers: ['bunt'],
+    },
+  ],
+};
+
+export const a2Lektion3 = {
+  name: 'A2 Lektion 3',
+  questions: [
+    {
+      question: 'TV-csatorna',
+      answers: ['s Fernsehen'],
+    },
+    {
+      question: 'TV-műsor',
+      answers: ['s Fernsehprogramm'],
+    },
+    {
+      question: 'adás',
+      answers: ['e Sendung'],
+    },
+    {
+      question: 'TV-rajongó',
+      answers: ['r Fernsehfan'],
+    },
+    {
+      question: 'TV-t nézni',
+      answers: ['fernsehen'],
+    },
+    {
+      question: 'iskolai óra, óra (időtartam)',
+      answers: ['e Stunde'],
+    },
+    {
+      question: 'beszámolni vmiről',
+      answers: ['berichten'],
+    },
+    {
+      question: 'vetélkedő',
+      answers: ['e Quizshow'],
+    },
+    {
+      question: 'hír',
+      answers: ['e Nachricht'],
+    },
+    {
+      question: 'híradó',
+      answers: ['e Nachrichten'],
+    },
+    {
+      question: 'film',
+      answers: ['r Film'],
+    },
+    {
+      question: 'sorozat',
+      answers: ['e Serie'],
+    },
+    {
+      question: 'rajzfilmsorozat',
+      answers: ['e Zeichnentrickserie'],
+    },
+    {
+      question: 'dokumentumfilm',
+      answers: ['r Dokumentarfilm'],
+    },
+    {
+      question: 'kultúrműsor',
+      answers: ['s Kulturprogramm'],
+    },
+    {
+      question: 'krimi',
+      answers: ['r Krimi'],
+    },
+    {
+      question: 'sportműsor',
+      answers: ['e Sportsendung'],
+    },
+    {
+      question: 'kedvenc műsor',
+      answers: ['e Lieblingssendung'],
+    },
+    {
+      question: 'vígjáték',
+      answers: ['e Komödie'],
+    },
+    {
+      question: 'koncert',
+      answers: ['s Konzert'],
+    },
+    {
+      question: 'talk show',
+      answers: ['e Talkshow'],
+    },
+    {
+      question: 'szórakoztató',
+      answers: ['unterhaltsam'],
+    },
+    {
+      question: 'informatív',
+      answers: ['informativ'],
+    },
+    {
+      question: 'izgalmas',
+      answers: ['spannend'],
+    },
+    {
+      question: 'óraidő',
+      answers: ['e Uhrzeit'],
+    },
+    {
+      question: 'hivatalos',
+      answers: ['offiziell'],
+    },
+    {
+      question: 'kezdeni, kezdődni',
+      answers: ['beginnen'],
     },
   ],
 };

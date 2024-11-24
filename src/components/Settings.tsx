@@ -2,7 +2,7 @@ import { ChangeEvent, FC, useState } from 'react';
 
 import { NUMBER_OF_QUESTIONS } from 'config/Constants';
 import { Question, Unit } from 'models';
-import { meineSprache } from 'utils/fragen';
+import { a2Lektion1, a2Lektion2, a2Lektion3 } from 'utils/fragen';
 import {
   introduction,
   project3Intro,
@@ -52,7 +52,7 @@ const englishUnits: Unit[] = [
   project3TheFuture,
 ];
 
-const deutschLektionen: Unit[] = [meineSprache];
+const deutschLektionen: Unit[] = [a2Lektion1, a2Lektion2, a2Lektion3];
 
 export const Settings: FC<SettingsProps> = ({ startGameWith }) => {
   const [includeds, setIncludeds] = useState<boolean[]>(englishUnits.map(() => false));
