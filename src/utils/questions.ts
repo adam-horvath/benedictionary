@@ -9941,7 +9941,7 @@ export const project3TheFuture = {
     },
     {
       question: 'Nem tud jönni.',
-      answers: ['Ha can\'t make it.'],
+      answers: ["Ha can't make it."],
     },
     {
       question: 'Akkor most ...',
@@ -9985,7 +9985,7 @@ export const project3TheFuture = {
     },
     {
       question: 'Viccelsz!',
-      answers: ['You\'re kidding!'],
+      answers: ["You're kidding!"],
     },
     {
       question: 'megközelítőleg',
@@ -10238,6 +10238,528 @@ export const project3TheFuture = {
     {
       question: 'felmérés',
       answers: ['survey'],
+    },
+  ],
+};
+
+export const project3TimesAndPlaces = {
+  name: 'Project 3 Times and places',
+  questions: [
+    {
+      question: 'szünet',
+      answers: ['break'],
+    },
+    {
+      question: 'álmodik valamiről',
+      answers: ['dream about'],
+    },
+    {
+      question: 'mindegyik',
+      answers: ['each'],
+    },
+    {
+      question: 'elkészül',
+      answers: ['get ready'],
+    },
+    {
+      question: 'szörfözik',
+      answers: ['windsurf'],
+    },
+    {
+      question: 'amilyen ... csak lehet',
+      answers: ['as ... as possible'],
+    },
+    {
+      question: 'repedés',
+      answers: ['crack'],
+    },
+    {
+      question: 'gát',
+      answers: ['dam'],
+    },
+    {
+      question: 'megrongál',
+      answers: ['damage'],
+    },
+    {
+      question: 'veszélyes',
+      answers: ['dangerous'],
+    },
+    {
+      question: 'ábra',
+      answers: ['diagram'],
+    },
+    {
+      question: 'katasztrófa',
+      answers: ['disaster'],
+    },
+    {
+      question: 'leejt',
+      answers: ['drop'],
+    },
+    {
+      question: 'vége valaminek',
+      answers: ['end'],
+    },
+    {
+      question: 'mindenki',
+      answers: ['everybody', 'everyone'],
+    },
+    {
+      question: 'árad, áradás',
+      answers: ['flood'],
+    },
+    {
+      question: 'kiszáll',
+      answers: ['get out of'],
+    },
+    {
+      question: 'horgászni megy, horgászik',
+      answers: ['go fishing'],
+    },
+    {
+      question: 'esemény',
+      answers: ['event', 'incident'],
+    },
+    {
+      question: 'Indonézia',
+      answers: ['Indonesia'],
+    },
+    {
+      question: 'természeti',
+      answers: ['natural'],
+    },
+    {
+      question: 'sorrend',
+      answers: ['order'],
+    },
+    {
+      question: 'leparkol',
+      answers: ['park'],
+    },
+    {
+      question: 'félelmetes',
+      answers: ['scary'],
+    },
+    {
+      question: 'kiált, kiáltás',
+      answers: ['shout'],
+    },
+    {
+      question: 'bezár, csuk',
+      answers: ['shut'],
+    },
+    {
+      question: 'helyzet',
+      answers: ['situation'],
+    },
+    {
+      question: 'utca',
+      answers: ['street'],
+    },
+    {
+      question: 'játékmackó',
+      answers: ['teddy bear'],
+    },
+    {
+      question: 'neked köszönhetően',
+      answers: ['thanks to you'],
+    },
+    {
+      question: 'felé',
+      answers: ['towards'],
+    },
+    {
+      question: 'lavina',
+      answers: ['avalanche'],
+    },
+    {
+      question: 'földrengés',
+      answers: ['earthquake'],
+    },
+    {
+      question: 'robbanás',
+      answers: ['explosion'],
+    },
+    {
+      question: 'erdőtűz',
+      answers: ['forest fire'],
+    },
+    {
+      question: 'hurrikán, szélvihar',
+      answers: ['hurricane'],
+    },
+    {
+      question: 'tornádó, forgószél',
+      answers: ['tornado'],
+    },
+    {
+      question: 'szökőár',
+      answers: ['tsunami'],
+    },
+    {
+      question: 'vulkánkitörés',
+      answers: ['vulcanic eruption'],
+    },
+    {
+      question: 'törött',
+      answers: ['broken'],
+    },
+    {
+      question: 'inas',
+      answers: ['butler'],
+    },
+    {
+      question: 'sofőr',
+      answers: ['chauffeur', 'driver'],
+    },
+    {
+      question: 'tiszta, tisztít',
+      answers: ['clean'],
+    },
+    {
+      question: 'szakács',
+      answers: ['cook'],
+    },
+    {
+      question: 'darált hús krumplipürével, sütőben megsütve',
+      answers: ['cottage pie'],
+    },
+    {
+      question: 'üres',
+      answers: ['empty'],
+    },
+    {
+      question: 'megmagyaráz',
+      answers: ['explain'],
+    },
+    {
+      question: 'ujjlenyomatok',
+      answers: ['fingerprints'],
+    },
+    {
+      question: 'kesztyű',
+      answers: ['glove'],
+    },
+    {
+      question: 'fegyver',
+      answers: ['gun'],
+    },
+    {
+      question: 'zsebkendő',
+      answers: ['handkerchief'],
+    },
+    {
+      question: 'kilincs',
+      answers: ['handle'],
+    },
+    {
+      question: 'gyilkos',
+      answers: ['murderer', 'killer'],
+    },
+    {
+      question: 'könyvtár',
+      answers: ['library'],
+    },
+    {
+      question: 'gyilkosság',
+      answers: ['murder'],
+    },
+    {
+      question: 'nyitott, nyitva',
+      answers: ['open'],
+    },
+    {
+      question: 'feltár, leleplez',
+      answers: ['reveal'],
+    },
+    {
+      question: 'lövés',
+      answers: ['shot'],
+    },
+    {
+      question: 'mostohalány',
+      answers: ['stepdaughter'],
+    },
+    {
+      question: 'Ki más?',
+      answers: ['Who else?'],
+    },
+    {
+      question: 'alkalmazás, program',
+      answers: ['app', 'application'],
+    },
+    {
+      question: 'számítógépes program',
+      answers: ['computer program'],
+    },
+    {
+      question: 'Ciprus',
+      answers: ['Cyprus'],
+    },
+    {
+      question: 'szerkentyű, kütyü',
+      answers: ['gadget'],
+    },
+    {
+      question: 'esélye van, esélyt kap',
+      answers: ['get the chance'],
+    },
+    {
+      question: 'jár valakivel',
+      answers: ['go out with'],
+    },
+    {
+      question: 'lusta',
+      answers: ['lazy'],
+    },
+    {
+      question: 'lehetséges',
+      answers: ['possible'],
+    },
+    {
+      question: 'okostelefon',
+      answers: ['smartphone'],
+    },
+    {
+      question: 'fajta',
+      answers: ['sort of'],
+    },
+    {
+      question: 'jellemző rá',
+      answers: ['sound'],
+    },
+    {
+      question: 'virtuális',
+      answers: ['virtual'],
+    },
+    {
+      question: 'Hogy érted ezt? Mire gondolsz?',
+      answers: ['What do you mean?'],
+    },
+    {
+      question: 'csodálatos',
+      answers: ['wonderful'],
+    },
+    {
+      question: 'Biztos viccelsz!',
+      answers: ['You must be joking!'],
+    },
+    {
+      question: 'hadsereg',
+      answers: ['army'],
+    },
+    {
+      question: 'ugyanúgy, is',
+      answers: ['as well as'],
+    },
+    {
+      question: 'létrehoz, kialakít',
+      answers: ['be formed'],
+    },
+    {
+      question: 'meghódít',
+      answers: ['conquer'],
+    },
+    {
+      question: 'kivándorol',
+      answers: ['emigrate'],
+    },
+    {
+      question: 'különösen',
+      answers: ['especially'],
+    },
+    {
+      question: 'független',
+      answers: ['independent'],
+    },
+    {
+      question: 'kés',
+      answers: ['knife'],
+    },
+    {
+      question: 'megnevez, megjelöl, címkével ellát',
+      answers: ['label'],
+    },
+    {
+      question: 'uralkodó',
+      answers: ['monarch'],
+    },
+    {
+      question: 'hivatalos',
+      answers: ['official'],
+    },
+    {
+      question: 'védőszent',
+      answers: ['patron saint'],
+    },
+    {
+      question: 'talán',
+      answers: ['perhaps', 'maybe'],
+    },
+    {
+      question: 'jelenlegi',
+      answers: ['present'],
+    },
+    {
+      question: 'királynő',
+      answers: ['queen'],
+    },
+    {
+      question: 'önálló',
+      answers: ['separate'],
+    },
+    {
+      question: 'gond, probléma, konfliktus, baj',
+      answers: ['trouble'],
+    },
+    {
+      question: 'brit zászló',
+      answers: ['Union Jack'],
+    },
+    {
+      question: 'megegyezik, megállapodik',
+      answers: ['agree to'],
+    },
+    {
+      question: 'tengely',
+      answers: ['axis'],
+    },
+    {
+      question: 'kivéve',
+      answers: ['except', 'excluding'],
+    },
+    {
+      question: 'dátumválasztó vonal',
+      answers: ['International Date Line'],
+    },
+    {
+      question: 'helyi',
+      answers: ['local'],
+    },
+    {
+      question: 'kezdő délkör, kezdő hosszúsági kör',
+      answers: ['Prime Meridian'],
+    },
+    {
+      question: 'felkel (Nap)',
+      answers: ['rise'],
+    },
+    {
+      question: 'forog',
+      answers: ['rotate'],
+    },
+    {
+      question: 'nyugszik (Nap)',
+      answers: ['set'],
+    },
+    {
+      question: 'lassan',
+      answers: ['slowly'],
+    },
+    {
+      question: 'zónaidő',
+      answers: ['Standard Time'],
+    },
+    {
+      question: 'rendszer',
+      answers: ['system'],
+    },
+    {
+      question: 'megmondja/meghatározza mennyi az idő',
+      answers: ['tell the time'],
+    },
+    {
+      question: 'időzóna',
+      answers: ['time zone'],
+    },
+    {
+      question: 'tárcsáz',
+      answers: ['dial'],
+    },
+    {
+      question: 'szívroham',
+      answers: ['heart attack'],
+    },
+    {
+      question: 'helikopter',
+      answers: ['helicopter'],
+    },
+    {
+      question: 'hölgy',
+      answers: ['lady'],
+    },
+    {
+      question: 'életmentő',
+      answers: ['life saver'],
+    },
+    {
+      question: 'megmenti valakinek az életét',
+      answers: ["save somebody's life"],
+    },
+    {
+      question: 'ébresztőóra',
+      answers: ['alarm', 'alarm clock'],
+    },
+    {
+      question: 'atlasz, térképgyűjtemény',
+      answers: ['atlas'],
+    },
+    {
+      question: 'hívő',
+      answers: ['believer'],
+    },
+    {
+      question: 'barázdabillegető',
+      answers: ['bluebird'],
+    },
+    {
+      question: 'felvidít',
+      answers: ['cheer up'],
+    },
+    {
+      question: 'ábrándozás',
+      answers: ['daydream'],
+    },
+    {
+      question: 'nagykövetség',
+      answers: ['embassy'],
+    },
+    {
+      question: 'lovag',
+      answers: ['knight'],
+    },
+    {
+      question: 'parlament',
+      answers: ['parliament'],
+    },
+    {
+      question: 'írásjegyek használata',
+      answers: ['punctuation'],
+    },
+    {
+      question: 'borotva',
+      answers: ['shaving razor'],
+    },
+    {
+      question: 'álmos',
+      answers: ['sleepy'],
+    },
+    {
+      question: 'csíp',
+      answers: ['sting'],
+    },
+    {
+      question: 'utazási iroda',
+      answers: ['travel agency'],
+    },
+    {
+      question: 'versszak',
+      answers: ['verse'],
+    },
+    {
+      question: 'kitöröl',
+      answers: ['clear', 'vibe out', 'delete'],
     },
   ],
 };

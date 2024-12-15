@@ -14,6 +14,7 @@ import {
   projectMyLife,
   projectTheWorld,
   project3TheFuture,
+  project3TimesAndPlaces,
   unit1,
   unit2,
   unit3,
@@ -50,6 +51,7 @@ const englishUnits: Unit[] = [
   project3Intro,
   project3MyLife,
   project3TheFuture,
+  project3TimesAndPlaces,
 ];
 
 const deutschLektionen: Unit[] = [a2Lektion1, a2Lektion2, a2Lektion3];
