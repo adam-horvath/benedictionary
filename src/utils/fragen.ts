@@ -437,7 +437,7 @@ export const a2Lektion3 = {
 };
 
 export const a2Modul6 = {
-  name: 'A2 Module 6',
+  name: 'A2 Modul 6',
   questions: [
     {
       question: 'állati',
