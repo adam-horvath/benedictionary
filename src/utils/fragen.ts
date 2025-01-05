@@ -435,3 +435,549 @@ export const a2Lektion3 = {
     },
   ],
 };
+
+export const a2Modul6 = {
+  name: 'A2 Lektion 3',
+  questions: [
+    {
+      question: 'állati',
+      answers: ['tierisch'],
+    },
+    {
+      question: 'állatkert',
+      answers: ['r Zoo'],
+    },
+    {
+      question: 'zebra',
+      answers: ['s Zebra'],
+    },
+    {
+      question: 'strucc',
+      answers: ['r Strauẞ'],
+    },
+    {
+      question: 'flamingo',
+      answers: ['r Flamingo'],
+    },
+    {
+      question: 'víziló',
+      answers: ['s NilPferd'],
+    },
+    {
+      question: 'zsiráf',
+      answers: ['e Giraffe'],
+    },
+    {
+      question: 'orrszarvú',
+      answers: ['s Nashorn'],
+    },
+    {
+      question: 'majom',
+      answers: ['r Affe'],
+    },
+    {
+      question: 'gorilla',
+      answers: ['r Gorilla'],
+    },
+    {
+      question: 'oroszlán',
+      answers: ['r Löwe'],
+    },
+    {
+      question: 'farkas',
+      answers: ['r Wolf'],
+    },
+    {
+      question: 'pingvin',
+      answers: ['r Pinguin'],
+    },
+    {
+      question: 'fóka',
+      answers: ['e Robbe'],
+    },
+    {
+      question: 'jegesmedve',
+      answers: ['r Eisbär'],
+    },
+    {
+      question: 'tigris',
+      answers: ['r Tiger'],
+    },
+    {
+      question: 'elefánt',
+      answers: ['r Elefant'],
+    },
+    {
+      question: 'leopárd',
+      answers: ['r Leopard'],
+    },
+    {
+      question: 'kenguru',
+      answers: ['s Kenguru'],
+    },
+    {
+      question: 'antilop',
+      answers: ['e Antilop'],
+    },
+    {
+      question: 'sas',
+      answers: ['r Adler'],
+    },
+    {
+      question: 'fénykép',
+      answers: ['s Foto'],
+    },
+    {
+      question: 'erős (izmos)',
+      answers: ['stark'],
+    },
+    {
+      question: 'nehéz',
+      answers: ['schwer'],
+    },
+    {
+      question: 'enni, zabálni',
+      answers: ['fressen'],
+    },
+    {
+      question: 'növény',
+      answers: ['e Pflanze'],
+    },
+    {
+      question: 'Afrika',
+      answers: ['Afrika'],
+    },
+    {
+      question: 'Ázsia',
+      answers: ['Asien'],
+    },
+    {
+      question: 'gyors, gyorsan',
+      answers: ['schnell'],
+    },
+    {
+      question: 'futni',
+      answers: ['laufen'],
+    },
+    {
+      question: 'hal',
+      answers: ['r Fisch'],
+    },
+    {
+      question: 'Déli-sark',
+      answers: ['r Südpol'],
+    },
+    {
+      question: 'búvárkodni',
+      answers: ['tauchen'],
+    },
+    {
+      question: 'Ausztrália',
+      answers: ['Australien'],
+    },
+    {
+      question: 'ugrani',
+      answers: ['springen'],
+    },
+    {
+      question: 'veszélyes',
+      answers: ['gefährlich'],
+    },
+    {
+      question: 'hosszú',
+      answers: ['lang'],
+    },
+    {
+      question: 'hús',
+      answers: ['s Fleisch'],
+    },
+    {
+      question: 'nyitva tartási idő',
+      answers: ['e Öffnungszeiten'],
+    },
+    {
+      question: 'nyitva',
+      answers: ['geöffnet'],
+    },
+    {
+      question: 'zárva',
+      answers: ['geschlossen'],
+    },
+    {
+      question: 'belépőjegy',
+      answers: ['e Eintrittskarte'],
+    },
+    {
+      question: 'etetés',
+      answers: ['e Fütterung'],
+    },
+    {
+      question: 'csimpánz',
+      answers: ['r Schimpanse'],
+    },
+    {
+      question: 'vidám',
+      answers: ['froh'],
+    },
+    {
+      question: 'elkezdeni',
+      answers: ['anfangen'],
+    },
+    {
+      question: 'mutatni',
+      answers: ['zeigen'],
+    },
+    {
+      question: 'trombitázni',
+      answers: ['trompeten'],
+    },
+    {
+      question: 'repkedni',
+      answers: ['flattern'],
+    },
+    {
+      question: 'függve mozogni kézzel, indán lengeni',
+      answers: ['hanglen sich'],
+    },
+    {
+      question: 'zaj',
+      answers: ['s Geräusch'],
+    },
+    {
+      question: 'üvölt',
+      answers: ['brüllen'],
+    },
+    {
+      question: 'tátog',
+      answers: ['schnappen'],
+    },
+    {
+      question: 'e Ruhe',
+      answers: ['nyugalom'],
+    },
+    {
+      question: 'horkolni',
+      answers: ['schnarchen'],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+    {
+      question: '',
+      answers: [''],
+    },
+  ]
+}
