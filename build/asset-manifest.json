@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/benedictionary/static/css/main.a0e74add.css",
-    "main.js": "/benedictionary/static/js/main.901c42ee.js",
+    "main.js": "/benedictionary/static/js/main.0c936444.js",
     "static/js/787.54de4904.chunk.js": "/benedictionary/static/js/787.54de4904.chunk.js",
     "static/media/bad.png": "/benedictionary/static/media/bad.e9f27f906babd49c4418.png",
     "static/media/good.png": "/benedictionary/static/media/good.4fa783b9057301ca1eb2.png",
     "index.html": "/benedictionary/index.html",
     "main.a0e74add.css.map": "/benedictionary/static/css/main.a0e74add.css.map",
-    "main.901c42ee.js.map": "/benedictionary/static/js/main.901c42ee.js.map",
+    "main.0c936444.js.map": "/benedictionary/static/js/main.0c936444.js.map",
     "787.54de4904.chunk.js.map": "/benedictionary/static/js/787.54de4904.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0e74add.css",
-    "static/js/main.901c42ee.js"
+    "static/js/main.0c936444.js"
   ]
 }
