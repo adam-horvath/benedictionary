@@ -10763,3 +10763,549 @@ export const project3TimesAndPlaces = {
     },
   ],
 };
+
+export const project3Cities = {
+  name: 'Project 3 Times and places ü',
+  questions: [
+    {
+      question: 'bámulatos, csodálatos',
+      answers: ['amazing'],
+    },
+    {
+      question: 'harang',
+      answers: ['bell'],
+    },
+    {
+      question: 'hajóút',
+      answers: ['boat trip'],
+    },
+    {
+      question: 'kapcsolat',
+      answers: ['connection', 'contact'],
+    },
+    {
+      question: 'költség',
+      answers: ['cost'],
+    },
+    {
+      question: 'tűzijáték',
+      answers: ['firework display', 'fireworks'],
+    },
+    {
+      question: 'zászlórúd',
+      answers: ['flag pole'],
+    },
+    {
+      question: 'szökőkút',
+      answers: ['fountain'],
+    },
+    {
+      question: 'évközi, félévközi szünet',
+      answers: ['half-term holiday'],
+    },
+    {
+      question: 'a maga nemében',
+      answers: ['of its kind'],
+    },
+    {
+      question: 'Olimpiai Park',
+      answers: ['Olympic Park'],
+    },
+    {
+      question: 'Olimpia',
+      answers: ['Olympics'],
+    },
+    {
+      question: 'előadás, műsor',
+      answers: ['show'],
+    },
+    {
+      question: 'városnézés',
+      answers: ['sightseeing'],
+    },
+    {
+      question: 'fáj',
+      answers: ['sore', 'be sore'],
+    },
+    {
+      question: 'stadion',
+      answers: ['stadium'],
+    },
+    {
+      question: 'torony',
+      answers: ['tower'],
+    },
+    {
+      question: 'túra, körutazás',
+      answers: ['tour'],
+    },
+    {
+      question: 'idegenforgalmi iroda',
+      answers: ['tourist office'],
+    },
+    {
+      question: 'kerékpárverseny-csarnok',
+      answers: ['velodrome'],
+    },
+    {
+      question: 'látogatás',
+      answers: ['visit'],
+    },
+    {
+      question: 'parkoló',
+      answers: ['car park'],
+    },
+    {
+      question: 'illatszerbolt, patika',
+      answers: ["chemist's"],
+    },
+    {
+      question: 'orvosi rendelőintézet, klinika',
+      answers: ['clinic'],
+    },
+    {
+      question: 'bíróság',
+      answers: ['courthouse'],
+    },
+    {
+      question: 'irány',
+      answers: ['direction'],
+    },
+    {
+      question: 'kerület',
+      answers: ['district'],
+    },
+    {
+      question: 'végigmegy',
+      answers: ['go along'],
+    },
+    {
+      question: 'átmegy vmi felett',
+      answers: ['go over'],
+    },
+    {
+      question: 'átmegy vmi alatt',
+      answers: ['go under'],
+    },
+    {
+      question: 'Hogyan jutok el ...?',
+      answers: ['How do I get to ...?'],
+    },
+    {
+      question: 'Egy pillanat.',
+      answers: ['Just a minute.'],
+    },
+    {
+      question: 'rendőrkapitányság',
+      answers: ['police station'],
+    },
+    {
+      question: 'lehetőség',
+      answers: ['possibility', 'opportunity'],
+    },
+    {
+      question: 'a sarkon',
+      answers: ['on the corner'],
+    },
+    {
+      question: 'kirabol',
+      answers: ['rob'],
+    },
+    {
+      question: 'körforgalom',
+      answers: ['roundabout'],
+    },
+    {
+      question: 'egyenesen',
+      answers: ['straight', 'straight on'],
+    },
+    {
+      question: 'városháza',
+      answers: ['town hall', 'city hall'],
+    },
+    {
+      question: 'közlekedési jelzőlámpa',
+      answers: ['traffic lights'],
+    },
+    {
+      question: 'útelágazás',
+      answers: ['turning'],
+    },
+    {
+      question: 'Forduljon balra ...',
+      answers: ['Turn left ...'],
+    },
+    {
+      question: 'Forduljon jobbra ...',
+      answers: ['Turn right ...'],
+    },
+    {
+      question: 'egész úton',
+      answers: ['all the way to ...'],
+    },
+    {
+      question: 'valaki, akárki, senki',
+      answers: ['anybody'],
+    },
+    {
+      question: 'valami, bármi, semmi',
+      answers: ['anything'],
+    },
+    {
+      question: 'ás',
+      answers: ['dig'],
+    },
+    {
+      question: 'álom',
+      answers: ['dream'],
+    },
+    {
+      question: 'elalszik',
+      answers: ['fall asleep'],
+    },
+    {
+      question: 'érez',
+      answers: ['feel'],
+    },
+    {
+      question: 'beleütközik',
+      answers: ['hit'],
+    },
+    {
+      question: 'Mennyi ideig tartott?',
+      answers: ['How long did it take?'],
+    },
+    {
+      question: 'felugrik',
+      answers: ['jump up'],
+    },
+    {
+      question: 'tegnap éjjel',
+      answers: ['last night'],
+    },
+    {
+      question: 'nevet',
+      answers: ['laugh'],
+    },
+    {
+      question: 'senki',
+      answers: ['nobody'],
+    },
+    {
+      question: 'tölgyfa',
+      answers: ['oak'],
+    },
+    {
+      question: 'járda',
+      answers: ['pavement'],
+    },
+    {
+      question: 'elfut',
+      answers: ['run away'],
+    },
+    {
+      question: 'elindul vhova',
+      answers: ['set off'],
+    },
+    {
+      question: 'boltos',
+      answers: ['shopkeeper'],
+    },
+    {
+      question: 'buta',
+      answers: ['silly'],
+    },
+    {
+      question: 'valami',
+      answers: ['something'],
+    },
+    {
+      question: 'ásó',
+      answers: ['spade'],
+    },
+    {
+      question: 'szabó',
+      answers: ['tailor'],
+    },
+    {
+      question: 'kincs',
+      answers: ['treasure'],
+    },
+    {
+      question: 'fel-alá járkál',
+      answers: ['walk up and down'],
+    },
+    {
+      question: 'terv, egyeztetett program',
+      answers: ['arrangement'],
+    },
+    {
+      question: 'elhív vhová, randira hív',
+      answers: ['ask somebody out'],
+    },
+    {
+      question: 'zavart',
+      answers: ['confused'],
+    },
+    {
+      question: 'fogorvosi rendelő',
+      answers: ["dentist's"],
+    },
+    {
+      question: 'naptár, határidőnapló',
+      answers: ['diary'],
+    },
+    {
+      question: 'rész, folytatás',
+      answers: ['episode'],
+    },
+    {
+      question: 'Hagyj békén!',
+      answers: ['Get lost!'],
+    },
+    {
+      question: 'könnyúbúvárkodik',
+      answers: ['go scuba-diving'],
+    },
+    {
+      question: 'Ezt képzeld el!',
+      answers: ['Guess what!'],
+    },
+    {
+      question: 'edzőterem',
+      answers: ['gym'],
+    },
+    {
+      question: 'Hogy vagy? Mi újság?',
+      answers: ["How's it going?"],
+    },
+    {
+      question: 'izgalmas életet él',
+      answers: ['lead an exciting life'],
+    },
+    {
+      question: 'lottó',
+      answers: ['lottery'],
+    },
+    {
+      question: 'a múlt',
+      answers: ['the past'],
+    },
+    {
+      question: 'a jelen',
+      answers: ['the present'],
+    },
+    {
+      question: 'bárhol máshol',
+      answers: ['anywhere else'],
+    },
+    {
+      question: 'művészeti galéria',
+      answers: ['art gallery'],
+    },
+    {
+      question: 'bár (italbár)',
+      answers: ['bar'],
+    },
+    {
+      question: 'tiszta, felhőtlen',
+      answers: ['clear'],
+    },
+    {
+      question: 'számtalan',
+      answers: ['countless'],
+    },
+    {
+      question: 'dollár',
+      answers: ['dollar'],
+    },
+    {
+      question: 'herceg',
+      answers: ['duke', 'prince'],
+    },
+    {
+      question: 'európai',
+      answers: ['European'],
+    },
+    {
+      question: 'tele',
+      answers: ['full of'],
+    },
+    {
+      question: 'ajándék',
+      answers: ['gift'],
+    },
+    {
+      question: 'nő, növekedik',
+      answers: ['grow'],
+    },
+    {
+      question: 'lóversenyzés',
+      answers: ['horse racing'],
+    },
+    {
+      question: 'százai',
+      answers: ['hundreds of'],
+    },
+    {
+      question: 'beleértve',
+      answers: ['including'],
+    },
+    {
+      question: 'maga',
+      answers: ['itself'],
+    },
+    {
+      question: 'éjszakai szórakozóhely',
+      answers: ['night club'],
+    },
+    {
+      question: 'pihen',
+      answers: ['rest', 'relax'],
+    },
+    {
+      question: 'Vatikán',
+      answers: ['The Vatican'],
+    },
+    {
+      question: 'hozzávetőleges',
+      answers: ['approximate'],
+    },
+    {
+      question: 'kitör',
+      answers: ['break out'],
+    },
+    {
+      question: 'hoz',
+      answers: ['bring'],
+    },
+    {
+      question: 'virágcsokor',
+      answers: ['bunch of flowers'],
+    },
+    {
+      question: 'leég',
+      answers: ['burn down'],
+    },
+    {
+      question: 'okoz',
+      answers: ['cause'],
+    },
+    {
+      question: 'kereszt',
+      answers: ['cross'],
+    },
+    {
+      question: 'halál',
+      answers: ['death'],
+    },
+    {
+      question: 'lerombol',
+      answers: ['destroy'],
+    },
+    {
+      question: 'felfedez',
+      answers: ['discover'],
+    },
+    {
+      question: 'száraz',
+      answers: ['dry'],
+    },
+    {
+      question: 'mindenhol',
+      answers: ['everywhere'],
+    },
+    {
+      question: 'bolha',
+      answers: ['flea'],
+    },
+    {
+      question: 'fele',
+      answers: ['half of'],
+    },
+    {
+      question: 'orvosság',
+      answers: ['medicine'],
+    },
+    {
+      question: 'középkori',
+      answers: ['medieval'],
+    },
+    {
+      question: 'sár',
+      answers: ['mud'],
+    },
+    {
+      question: 'keskeny',
+      answers: ['narrow'],
+    },
+    {
+      question: 'kitör',
+      answers: ['break out'],
+    },
+    {
+      question: 'kitörés',
+      answers: ['outbreak'],
+    },
+    {
+      question: 'pestis',
+      answers: ['plague'],
+    },
+    {
+      question: 'visszatér',
+      answers: ['return'],
+    },
+    {
+      question: 'teljes',
+      answers: ['total', 'full'],
+    },
+    {
+      question: 'tekézik',
+      answers: ['go bowling'],
+    },
+    {
+      question: 'körös-körül',
+      answers: ['all around'],
+    },
+    {
+      question: 'elérni egy vonatot',
+      answers: ['catch a train'],
+    },
+    {
+      question: 'örökké',
+      answers: ['forever'],
+    },
+    {
+      question: 'tájékoztató, útikönyv',
+      answers: ['guide'],
+    },
+    {
+      question: 'tart (időben)',
+      answers: ['last', 'take'],
+    },
+    {
+      question: 'elhelyezkedés, fekvés',
+      answers: ['location'],
+    },
+    {
+      question: 'rájön, észrevesz',
+      answers: ['realize'],
+    },
+    {
+      question: 'vonatkozik',
+      answers: ['refer to'],
+    },
+    {
+      question: 'gyorsan elmúlik',
+      answers: ['rush by'],
+    },
+    {
+      question: 'csillagos',
+      answers: ['stary'],
+    },
+    {
+      question: 'alatt (térben)',
+      answers: ['underneath'],
+    },
+  ],
+};
