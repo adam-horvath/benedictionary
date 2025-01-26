@@ -11141,7 +11141,7 @@ export const project3Cities = {
     },
     {
       question: 'lóversenyzés',
-      answers: ['horse racing'],
+      answers: ['horse-racing'],
     },
     {
       question: 'százai',
@@ -11238,10 +11238,6 @@ export const project3Cities = {
     {
       question: 'keskeny',
       answers: ['narrow'],
-    },
-    {
-      question: 'kitör',
-      answers: ['break out'],
     },
     {
       question: 'kitörés',
