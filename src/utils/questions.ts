@@ -10765,7 +10765,7 @@ export const project3TimesAndPlaces = {
 };
 
 export const project3Cities = {
-  name: 'Project 3 Times and places ü',
+  name: 'Project 3 Cities',
   questions: [
     {
       question: 'bámulatos, csodálatos',
