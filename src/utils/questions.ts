@@ -11305,3 +11305,573 @@ export const project3Cities = {
     },
   ],
 };
+
+export const project3Experiences = {
+  name: 'Project 3 Experiences',
+  questions: [
+    {
+      question: 'tényleges',
+      answers: ['actual'],
+    },
+    {
+      question: 'kitűzött cél',
+      answers: ['ambition'],
+    },
+    {
+      question: 'filmben szerepel',
+      answers: ['be in a film'],
+    },
+    {
+      question: 'lerobban, elromik',
+      answers: ['break down'],
+    },
+    {
+      question: 'bajnokság',
+      answers: ['championship'],
+    },
+    {
+      question: 'jótékonysági szervezet',
+      answers: ['charity'],
+    },
+    {
+      question: 'verseny',
+      answers: ['competition'],
+    },
+    {
+      question: 'megye(i)',
+      answers: ['county'],
+    },
+    {
+      question: 'gokart',
+      answers: ['go-kart'],
+    },
+    {
+      question: 'gokartozás',
+      answers: ['go-karting'],
+    },
+    {
+      question: 'példakép (nő), hősnő',
+      answers: ['heroine'],
+    },
+    {
+      question: 'feljebb lép',
+      answers: ['move up'],
+    },
+    {
+      question: 'színdarab',
+      answers: ['play'],
+    },
+    {
+      question: 'versenypálya',
+      answers: ['race track'],
+    },
+    {
+      question: 'versenyautó',
+      answers: ['racing car'],
+    },
+    {
+      question: 'kerékpározik',
+      answers: ['ride a bike'],
+    },
+    {
+      question: 'főszerepet játszik',
+      answers: ['star'],
+    },
+    {
+      question: 'kábítószert fogyaszt',
+      answers: ['take drugs'],
+    },
+    {
+      question: 'azonosítatlan repülő tárgy',
+      answers: ['UFO'],
+    },
+    {
+      question: 'ezidáig, mostanáig',
+      answers: ['up to now'],
+    },
+    {
+      question: 'sakk',
+      answers: ['chess'],
+    },
+    {
+      question: 'bárányhimlő',
+      answers: ['chickenpox'],
+    },
+    {
+      question: 'szellem',
+      answers: ['ghost'],
+    },
+    {
+      question: 'útbaigazítást nyújt',
+      answers: ['give someone directions'],
+    },
+    {
+      question: 'eltűnt',
+      answers: ['missing'],
+    },
+    {
+      question: 'piramis',
+      answers: ['pyramid'],
+    },
+    {
+      question: 'díj, kupa',
+      answers: ['trophy'],
+    },
+    {
+      question: 'kétszer',
+      answers: ['twice'],
+    },
+    {
+      question: 'mennyiség',
+      answers: ['amount'],
+    },
+    {
+      question: 'ki van állítva',
+      answers: ['be on display'],
+    },
+    {
+      question: 'megdönt egy rekordot',
+      answers: ['break a record'],
+    },
+    {
+      question: 'szétbomlik',
+      answers: ['decompose'],
+    },
+    {
+      question: 'kiállít',
+      answers: ['display'],
+    },
+    {
+      question: 'bírság',
+      answers: ['fine'],
+    },
+    {
+      question: 'globális felmelegedés',
+      answers: ['global warming'],
+    },
+    {
+      question: 'javul',
+      answers: ['improve'],
+    },
+    {
+      question: 'kilogramm',
+      answers: ['kilogram'],
+    },
+    {
+      question: 'felhívja rá a figyelmet, tudatosít valakiben',
+      answers: ['make someone aware'],
+    },
+    {
+      question: 'hegymászó',
+      answers: ['mountain climber'],
+    },
+    {
+      question: 'oxigén',
+      answers: ['oxygen'],
+    },
+    {
+      question: 'valószínűleg',
+      answers: ['probably'],
+    },
+    {
+      question: 'újra feldolgoz, hasznosít',
+      answers: ['recycle'],
+    },
+    {
+      question: 'szeméttelep',
+      answers: ['rubbish dump'],
+    },
+    {
+      question: 'fóka',
+      answers: ['seal'],
+    },
+    {
+      question: 'hálózsák',
+      answers: ['sleeping bag'],
+    },
+    {
+      question: 'próbára tesz',
+      answers: ['test'],
+    },
+    {
+      question: 'eldob',
+      answers: ['throw away'],
+    },
+    {
+      question: 'tonna',
+      answers: ['tonne'],
+    },
+    {
+      question: 'sajnos',
+      answers: ['unfortunately'],
+    },
+    {
+      question: 'kupak',
+      answers: ['bottle top'],
+    },
+    {
+      question: 'kartondoboz',
+      answers: ['cardboard box'],
+    },
+    {
+      question: 'rágógumi',
+      answers: ['chewing gum'],
+    },
+    {
+      question: 'chipses zacskó',
+      answers: ['crisp packet'],
+    },
+    {
+      question: 'üdítős doboz',
+      answers: ['drinks can'],
+    },
+    {
+      question: 'alufóliás tálca',
+      answers: ['foil tray'],
+    },
+    {
+      question: 'élelmiszer-csomagolóanyag',
+      answers: ['food packaging'],
+    },
+    {
+      question: 'papírzsebkendő',
+      answers: ['paper tissue', 'hanky'],
+    },
+    {
+      question: 'műanyagzacskó',
+      answers: ['plastic bag'],
+    },
+    {
+      question: 'műanyagpalack',
+      answers: ['plastic bottle'],
+    },
+    {
+      question: 'műanyagpohár',
+      answers: ['polystyrene cup'],
+    },
+    {
+      question: 'cukorkás papír',
+      answers: ['sweet wrapper'],
+    },
+    {
+      question: 'bosszús, dühös',
+      answers: ['annoyed'],
+    },
+    {
+      question: 'Szóval / Nos ...',
+      answers: ['Anyway ...'],
+    },
+    {
+      question: 'öltöző',
+      answers: ['changing room'],
+    },
+    {
+      question: 'kizár',
+      answers: ['exclude'],
+    },
+    {
+      question: 'focimeccs',
+      answers: ['football match'],
+    },
+    {
+      question: 'átöltözik',
+      answers: ['get changed'],
+    },
+    {
+      question: 'iskolaigazgató',
+      answers: ['head teacher'],
+    },
+    {
+      question: 'automata (gép)',
+      answers: ['machine'],
+    },
+    {
+      question: 'pénztárca, irattárca',
+      answers: ['wallet'],
+    },
+    {
+      question: 'Mi a baj? Mi történt?',
+      answers: ["What's the matter?"],
+    },
+    {
+      question: 'tengernagy',
+      answers: ['admiral'],
+    },
+    {
+      question: 'ellen',
+      answers: ['against'],
+    },
+    {
+      question: 'bárki más',
+      answers: ['anybody else'],
+    },
+    {
+      question: '(festő)művész',
+      answers: ['artist'],
+    },
+    {
+      question: 'csata',
+      answers: ['battle'],
+    },
+    {
+      question: 'valaki után nevezték el',
+      answers: ['be named after'],
+    },
+    {
+      question: 'lelőtték',
+      answers: ['be shot'],
+    },
+    {
+      question: 'üzletember',
+      answers: ['businessman'],
+    },
+    {
+      question: 'megemlékezik, őrzi emlékét',
+      answers: ['commemorate'],
+    },
+    {
+      question: 'legyőz',
+      answers: ['defeat'],
+    },
+    {
+      question: 'mérnök',
+      answers: ['engineer'],
+    },
+    {
+      question: 'emlékmű',
+      answers: ['monument'],
+    },
+    {
+      question: 'van neki, birtokol',
+      answers: ['own', 'have', 'have got'],
+    },
+    {
+      question: 'tulajdonos',
+      answers: ['owner'],
+    },
+    {
+      question: 'festő',
+      answers: ['painter'],
+    },
+    {
+      question: 'emléktábla',
+      answers: ['plaque'],
+    },
+    {
+      question: 'költő',
+      answers: ['poet'],
+    },
+    {
+      question: 'politikus',
+      answers: ['politician'],
+    },
+    {
+      question: 'popsztár',
+      answers: ['pop star'],
+    },
+    {
+      question: 'lázadás',
+      answers: ['rebellion'],
+    },
+    {
+      question: 'római',
+      answers: ['Roman'],
+    },
+    {
+      question: 'törzs',
+      answers: ['tribe'],
+    },
+    {
+      question: 'író',
+      answers: ['writer'],
+    },
+    {
+      question: 'csatolmány',
+      answers: ['attachment'],
+    },
+    {
+      question: 'csevegőszoba',
+      answers: ['chatroom'],
+    },
+    {
+      question: 'tartalmaz',
+      answers: ['contain'],
+    },
+    {
+      question: 'születési idő/dátum',
+      answers: ['date of birth'],
+    },
+    {
+      question: 'kitöröl',
+      answers: ['delete'],
+    },
+    {
+      question: 'GYIK',
+      answers: ['FAQ'],
+    },
+    {
+      question: 'kitalál',
+      answers: ['guess'],
+    },
+    {
+      question: 'azonnal',
+      answers: ['immediately'],
+    },
+    {
+      question: 'kilép, kijelentkezik',
+      answers: ['logout', 'log off'],
+    },
+    {
+      question: 'internet, világháló',
+      answers: ['the Net', 'Internet'],
+    },
+    {
+      question: 'hírlevél',
+      answers: ['newsletter'],
+    },
+    {
+      question: 'interneten (online)',
+      answers: ['online'],
+    },
+    {
+      question: 'adatvédelmi beállítások',
+      answers: ['privacy settings'],
+    },
+    {
+      question: 'felismer',
+      answers: ['recognize'],
+    },
+    {
+      question: 'válaszol',
+      answers: ['reply'],
+    },
+    {
+      question: 'szabály',
+      answers: ['rule'],
+    },
+    {
+      question: 'biztonság',
+      answers: ['security', 'safety'],
+    },
+    {
+      question: 'feliratkozik, regisztrál',
+      answers: ['sign up to ...', 'subscribe'],
+    },
+    {
+      question: 'egyszerű',
+      answers: ['simple'],
+    },
+    {
+      question: 'kapcsolat, háló, közösségi háló',
+      answers: ['social network'],
+    },
+    {
+      question: 'tárol',
+      answers: ['store'],
+    },
+    {
+      question: 'idegen',
+      answers: ['stranger'],
+    },
+    {
+      question: 'adattovábbító gomb (beküld)',
+      answers: ['submit'],
+    },
+    {
+      question: 'ismeretlen',
+      answers: ['unknown'],
+    },
+    {
+      question: 'vírus',
+      answers: ['virus'],
+    },
+    {
+      question: 'elér, véghez visz',
+      answers: ['achieve'],
+    },
+    {
+      question: 'kihívás, erőpróba',
+      answers: ['challenge'],
+    },
+    {
+      question: 'bajnok',
+      answers: ['champion'],
+    },
+    {
+      question: 'elkövet',
+      answers: ['commit'],
+    },
+    {
+      question: 'valakinek/valaminek tart',
+      answers: ['consider'],
+    },
+    {
+      question: 'bűntény',
+      answers: ['crime'],
+    },
+    {
+      question: 'visszatapsolás',
+      answers: ['curtain call'],
+    },
+    {
+      question: 'hírnév',
+      answers: ['fame'],
+    },
+    {
+      question: 'gazdagság',
+      answers: ['fortune'],
+    },
+    {
+      question: 'rúg',
+      answers: ['kick'],
+    },
+    {
+      question: 'veszter',
+      answers: ['loser'],
+    },
+    {
+      question: 'társ, pajtás',
+      answers: ['mate'],
+    },
+    {
+      question: 'sétahajózás',
+      answers: ['pleasure cruise'],
+    },
+    {
+      question: 'válasz, reakció',
+      answers: ['reaction'],
+    },
+    {
+      question: 'olvasó',
+      answers: ['reader'],
+    },
+    {
+      question: 'rózsa',
+      answers: ['rose'],
+    },
+    {
+      question: 'homok',
+      answers: ['sand'],
+    },
+    {
+      question: 'büntetés, ítél, ítélet',
+      answers: ['sentence'],
+    },
+    {
+      question: 'rész',
+      answers: ['share'],
+    },
+    {
+      question: 'meghajol',
+      answers: ['take a bow'],
+    },
+    {
+      question: 'adó',
+      answers: ['tax'],
+    },
+    {
+      question: 'világegyetem',
+      answers: ['universe'],
+    },
+  ],
+};
