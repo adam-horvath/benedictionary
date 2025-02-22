@@ -11555,7 +11555,7 @@ export const project3Experiences = {
     },
     {
       question: 'bosszús, dühös',
-      answers: ['annoyed'],
+      answers: ['annoyed', 'angry'],
     },
     {
       question: 'Szóval / Nos ...',
@@ -11826,7 +11826,7 @@ export const project3Experiences = {
       answers: ['kick'],
     },
     {
-      question: 'veszter',
+      question: 'vesztes',
       answers: ['loser'],
     },
     {
