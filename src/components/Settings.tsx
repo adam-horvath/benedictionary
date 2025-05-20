@@ -3,6 +3,7 @@ import { ChangeEvent, FC, useState } from 'react';
 import { NUMBER_OF_QUESTIONS } from 'config/Constants';
 import { Question, Unit } from 'models';
 import { a2Lektion1, a2Lektion2, a2Lektion3, a2Modul6Lektion1 } from 'utils/fragen';
+import { zelenaKnjiga } from 'utils/pitanja';
 import {
   introduction,
   project3Intro,
@@ -60,12 +61,17 @@ const englishUnits: Unit[] = [
 
 const deutschLektionen: Unit[] = [a2Lektion1, a2Lektion2, a2Lektion3, a2Modul6Lektion1];
 
+const hrvatskiLekcije: Unit[] = [zelenaKnjiga];
+
 export const Settings: FC<SettingsProps> = ({ startGameWith }) => {
   const [includeds, setIncludeds] = useState<boolean[]>(englishUnits.map(() => false));
   const [allSelected, setAllSelected] = useState<boolean>(false);
 
   const [gehalt, setGehalt] = useState<boolean[]>(deutschLektionen.map(() => false));
   const [alleGewahlt, setAlleGewahlt] = useState<boolean>(false);
+
+  const [hrvatski, setHrvatski] = useState<boolean[]>(hrvatskiLekcije.map(() => false));
+  const [sviHrvatski, setSviHrvatski] = useState<boolean>(false);
 
   const startGame = (whichIncludeds: boolean[], units: Unit[]) => {
     const questions: Question[] = [];
@@ -101,6 +107,12 @@ export const Settings: FC<SettingsProps> = ({ startGameWith }) => {
     setGehalt(newGehalt);
   };
 
+  const handleHrvatskiChange = (index: number, checked: boolean) => {
+    const newHrvatski = [...hrvatski];
+    newHrvatski[index] = checked;
+    setHrvatski(newHrvatski);
+  };
+
   return (
     <div className={classes.SettingsContainer}>
       <h1>Melyik angol leckéket szeretnéd gyakorolni?</h1>
@@ -123,6 +135,7 @@ export const Settings: FC<SettingsProps> = ({ startGameWith }) => {
         />
       </div>
       <button onClick={() => startGame(includeds, englishUnits)}>Start</button>
+
       <h1>Melyik német leckéket szeretnéd gyakorolni?</h1>
       <div className={classes.CheckboxContainer}>
         {deutschLektionen.map((unit, index) => (
@@ -143,6 +156,29 @@ export const Settings: FC<SettingsProps> = ({ startGameWith }) => {
         />
       </div>
       <button onClick={() => startGame(gehalt, deutschLektionen)}>Start</button>
+
+      <h1>Melyik horvát leckéket szeretnéd gyakorolni?</h1>
+      <div className={classes.CheckboxContainer}>
+        {hrvatskiLekcije.map((unit, index) => (
+          <Checkbox
+            key={unit.name}
+            label={unit.name}
+            onChange={(event: ChangeEvent<HTMLInputElement>) =>
+              handleHrvatskiChange(index, event.currentTarget.checked)
+            }
+            checked={hrvatski[index]}
+          />
+        ))}
+        <Checkbox
+          label={'Mind'}
+          onChange={(event: ChangeEvent<HTMLInputElement>) => {
+            setHrvatski(hrvatskiLekcije.map((_) => event.currentTarget.checked));
+            setSviHrvatski(event.currentTarget.checked);
+          }}
+          checked={sviHrvatski}
+        />
+      </div>
+      <button onClick={() => startGame(hrvatski, hrvatskiLekcije)}>Start</button>
     </div>
   );
 };
