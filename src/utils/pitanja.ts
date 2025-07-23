@@ -3960,7 +3960,7 @@ export const zelenaKnjiga = {
     },
     {
       question: 'Mennyibe kerül?',
-      answers: ['Koliko stoji', 'Koliko košta?'],
+      answers: ['Koliko stoji?', 'Koliko košta?'],
     },
     {
       question: 'mentőautó',
