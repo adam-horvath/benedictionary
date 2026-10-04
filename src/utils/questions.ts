@@ -11875,3 +11875,235 @@ export const project3Experiences = {
     },
   ],
 };
+
+export const foodAndCooking = {
+  name: 'Food and Cooking',
+  questions: [
+    {
+      question: 'rák',
+      answers: ['crab'],
+    },
+    {
+      question: 'homár',
+      answers: ['lobster'],
+    },
+    {
+      question: 'kagyló',
+      answers: ['clam', 'mussel'],
+    },
+    {
+      question: 'garnéla',
+      answers: ['shrimp', 'prawns'],
+    },
+    {
+      question: 'lazac',
+      answers: ['salmon'],
+    },
+    {
+      question: 'tintahal',
+      answers: ['squid'],
+    },
+    {
+      question: 'tonhal',
+      answers: ['tuna'],
+    },
+    {
+      question: 'marhahús',
+      answers: ['beef'],
+    },
+    {
+      question: 'csirkehús',
+      answers: ['chicken'],
+    },
+    {
+      question: 'kacsahús',
+      answers: ['duck'],
+    },
+    {
+      question: 'birkahús',
+      answers: ['mutton', 'lamb'],
+    },
+    {
+      question: 'sertés',
+      answers: ['pork'],
+    },
+    {
+      question: 'padlizsán',
+      answers: ['aubergine', 'eggplant'],
+    },
+    {
+      question: 'avokádó',
+      answers: ['avocado'],
+    },
+    {
+      question: 'retek',
+      answers: ['radish', 'beetroot'],
+    },
+    {
+      question: 'káposzta',
+      answers: ['cabbage'],
+    },
+    {
+      question: 'cseresznye',
+      answers: ['cherry'],
+    },
+    {
+      question: 'cukkini',
+      answers: ['courgette', 'zucchini'],
+    },
+    {
+      question: 'uborka',
+      answers: ['cucumber'],
+    },
+    {
+      question: 'szőlő',
+      answers: ['grapes'],
+    },
+    {
+      question: 'zöldbab',
+      answers: ['green beans'],
+    },
+    {
+      question: 'citrom',
+      answers: ['lemon'],
+    },
+    {
+      question: 'mangó',
+      answers: ['mango'],
+    },
+    {
+      question: 'sárgadinnye',
+      answers: ['melon', 'cantaloupe'],
+    },
+    {
+      question: 'őszibarack',
+      answers: ['peach'],
+    },
+    {
+      question: 'körte',
+      answers: ['pear'],
+    },
+    {
+      question: 'málna',
+      answers: ['raspberry'],
+    },
+    {
+      question: 'pirospaprika',
+      answers: ['red pepper'],
+    },
+    {
+      question: 'párolt',
+      answers: ['steamed'],
+    },
+    {
+      question: 'grillezett',
+      answers: ['grilled'],
+    },
+    {
+      question: 'sült',
+      answers: ['fried', 'roasted', 'baked'],
+    },
+    {
+      question: 'forralt',
+      answers: ['boiled'],
+    },
+  ],
+};
+
+export const money = {
+  name: 'Money',
+  questions: [
+    {
+      question: 'pénz',
+      answers: ['money'],
+    },
+    {
+      question: 'bankjegy',
+      answers: ['banknote', 'bill'],
+    },
+    {
+      question: 'érme',
+      answers: ['coin'],
+    },
+    {
+      question: 'ér valamennyit',
+      answers: ['be worth something', 'be worth'],
+    },
+    {
+      question: 'kölcsönkér',
+      answers: ['borrow'],
+    },
+    {
+      question: 'kölcsönad',
+      answers: ['lend'],
+    },
+    {
+      question: 'nem engedheti meg magának',
+      answers: ["can't afford", 'cannot afford'],
+    },
+    {
+      question: 'kerül valamibe',
+      answers: ['cost', 'charge'],
+    },
+    {
+      question: 'keres (pénzt)',
+      answers: ['earn'],
+    },
+    {
+      question: 'örököl',
+      answers: ['inherit'],
+    },
+    {
+      question: 'befektet',
+      answers: ['invest'],
+    },
+    {
+      question: 'tartozik',
+      answers: ['owe'],
+    },
+    {
+      question: 'gyűjt',
+      answers: ['collect', 'raise'],
+    },
+    {
+      question: 'megtakarít',
+      answers: ['save'],
+    },
+    {
+      question: 'pazarol',
+      answers: ['waste'],
+    },
+    {
+      question: 'számla',
+      answers: ['bill', 'account', 'invoice'],
+    },
+    {
+      question: 'költségvetés',
+      answers: ['budget'],
+    },
+    {
+      question: 'biztosítás',
+      answers: ['insurance'],
+    },
+    {
+      question: 'kölcsön',
+      answers: ['loan'],
+    },
+    {
+      question: 'hitel',
+      answers: ['credit', 'mortgage'],
+    },
+    {
+      question: 'fizetés',
+      answers: ['salary'],
+    },
+    {
+      question: 'adó',
+      answers: ['tax'],
+    },
+    {
+      question: 'érintésmentes fizetés',
+      answers: ['contactless payment'],
+    },
+  ],
+} 

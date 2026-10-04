@@ -26,6 +26,8 @@ import {
   youngExplorers2,
   project3Cities,
   project3Experiences,
+  foodAndCooking,
+  money,
 } from 'utils/questions';
 import { Checkbox } from './Checkbox';
 
@@ -57,6 +59,8 @@ const englishUnits: Unit[] = [
   project3TimesAndPlaces,
   project3Cities,
   project3Experiences,
+  foodAndCooking,
+  money,
 ];
 
 const deutschLektionen: Unit[] = [a2Lektion1, a2Lektion2, a2Lektion3, a2Modul6Lektion1];
